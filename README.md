@@ -38,6 +38,7 @@ smg-quotes-web/
 - **Responsive:** escritorio (lista en 2 columnas + panel de detalle fijo), tablet (2 columnas + detalle a pantalla completa) y celular (1 columna + detalle a pantalla completa).
 - **Accesibilidad:** títulos semánticos (h1/h2), foco visible distinto de la selección, controles con etiquetas, botones táctiles de 44 px en celular, contraste mínimo 4.5:1, respeta `prefers-reduced-motion`.
 - **Favoritas:** se guardan en `localStorage` del navegador de cada persona (no se comparten ni se envían a ningún servidor).
+- **Analítica:** Google Tag Manager con eventos de uso (ver [Analítica](#analítica-google-tag-manager)).
 - **Peso:** ~280 KB sin comprimir, incluidos los datos.
 
 ## Datos
@@ -91,6 +92,23 @@ Cada registro es un objeto con estas claves (cortas para reducir el peso):
 | `CF` | Caridad fraterna y vida comunitaria |
 | `GO` | Gobierno y acompañamiento |
 | `MI` | Misión, celo apostólico y educación |
+
+## Analítica (Google Tag Manager)
+
+El sitio carga el contenedor de Google Tag Manager **`GTM-KQHR3TV3`** en el `<head>` (ver el inicio de `src/template.html`). Además del código provisto, se envía el evento estándar `gtm.js` (`gtm.start`), que GTM necesita para que funcionen los activadores de «Todas las páginas / Vista de página».
+
+Desde el contenedor se puede conectar la etiqueta de Google Analytics 4. Para medir el uso, el sitio envía al `dataLayer` estos eventos personalizados:
+
+| Evento | Cuándo | Parámetros |
+|---|---|---|
+| `quote_view` | Se abre el detalle de una frase | `quote_id`, `quote_letter`, `quote_volume`, `quote_theme`, `quote_recipient_type`, `view_mode` (`panel` / `pantalla_completa`) |
+| `filter_change` | Cambia un filtro | `filter_type` (`tema`, `destinatario`, `tomo`, `seleccion_esencial`, `marcadas`), `filter_value`, `results` |
+| `search` | Búsqueda de 3 o más letras (tras 1,2 s sin escribir) | `search_term`, `results` |
+| `quote_copy` | «Copiar» | parámetros de la frase |
+| `quote_share_link` | «Enlace» | parámetros de la frase |
+| `quote_favorite` / `quote_unfavorite` | «Marcar» / desmarcar | parámetros de la frase |
+
+Para verlos en GA4: en GTM crear una variable de capa de datos por parámetro, un activador de **Evento personalizado** con el nombre del evento, y una etiqueta **Evento de GA4** que los envíe.
 
 ## Desarrollo
 

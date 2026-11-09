@@ -1,4 +1,13 @@
 <title>Frases de San Miguel Garicoïts</title>
+<!-- Google Tag Manager -->
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-KQHR3TV3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  dataLayer.push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+</script>
+<!-- Fin Google Tag Manager -->
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="608 frases breves de las cartas de San Miguel Garicoïts (1825–1863), con la carta, el destinatario, el año y el contexto de cada una.">
 <meta property="og:title" content="Frases de San Miguel Garicoïts">
@@ -248,6 +257,9 @@ const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&qu
 DATA.forEach(r=>{r.s=norm(r.f+' '+r.x+' '+r.d+' carta '+r.c)});
 const byId=new Map(DATA.map(r=>[r.id,r]));
 const mobile=()=>matchMedia('(max-width:960px)').matches;
+// Eventos para Google Tag Manager / Google Analytics (dataLayer)
+function track(event,params){try{(window.dataLayer=window.dataLayer||[]).push(Object.assign({event},params||{}))}catch(e){}}
+function quoteParams(r){return {quote_id:r.id,quote_letter:r.c,quote_volume:r.t,quote_theme:LONG[r.k],quote_recipient_type:r.p}}
 
 let favs=new Set();
 try{favs=new Set(JSON.parse(localStorage.getItem('smg-favs')||'[]'))}catch(e){}
@@ -305,6 +317,7 @@ function renderDetail(){
 }
 function select(id,open,noScroll){
   st.sel=id;
+  if(!noScroll){const r=byId.get(id);if(r)track('quote_view',Object.assign(quoteParams(r),{view_mode:mobile()?'pantalla_completa':'panel'}))}
   const k=rows.findIndex(x=>x.id===id);if(k>=st.shown){st.shown=Math.ceil((k+1)/PAGE)*PAGE;renderList()}
   renderDetail();
   if(open&&mobile())openSheet();
@@ -329,15 +342,16 @@ det.addEventListener('touchend',e=>{if(tx==null||!document.body.classList.contai
 matchMedia('(max-width:960px)').addEventListener('change',e=>{if(!e.matches)document.body.classList.remove('detail-view')});
 
 // Eventos
-$('chips').addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)return;st.cat=b.dataset.cat;update()});
+$('chips').addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)return;st.cat=b.dataset.cat;update();track('filter_change',{filter_type:'tema',filter_value:st.cat?LONG[st.cat]:'todos',results:rows.length})});
 $('list').addEventListener('click',e=>{const b=e.target.closest('.cardbtn');if(b)select(+b.dataset.id,true)});
-$('f-tipo').onchange=e=>{st.tipo=e.target.value;update()};
-$('f-tomo').onchange=e=>{st.tomo=e.target.value;update()};
-$('t-ess').onclick=()=>{st.ess=!st.ess;update()};
-$('t-fav').onclick=()=>{st.fav=!st.fav;update()};
+$('f-tipo').onchange=e=>{st.tipo=e.target.value;update();track('filter_change',{filter_type:'destinatario',filter_value:st.tipo||'todos',results:rows.length})};
+$('f-tomo').onchange=e=>{st.tomo=e.target.value;update();track('filter_change',{filter_type:'tomo',filter_value:st.tomo||'todos',results:rows.length})};
+$('t-ess').onclick=()=>{st.ess=!st.ess;update();track('filter_change',{filter_type:'seleccion_esencial',filter_value:st.ess?'si':'no',results:rows.length})};
+$('t-fav').onclick=()=>{st.fav=!st.fav;update();track('filter_change',{filter_type:'marcadas',filter_value:st.fav?'si':'no',results:rows.length})};
 $('reset').onclick=()=>{Object.assign(st,{cat:'',tipo:'',tomo:'',q:'',ess:false,fav:false});$('q').value='';$('f-tipo').value='';$('f-tomo').value='';update()};
 $('more').onclick=()=>{st.shown+=PAGE;renderList()};
-let qt;$('q').addEventListener('input',e=>{clearTimeout(qt);qt=setTimeout(()=>{st.q=e.target.value.trim();update()},150)});
+let qt,qtrack;$('q').addEventListener('input',e=>{clearTimeout(qt);qt=setTimeout(()=>{st.q=e.target.value.trim();update()},150);
+  clearTimeout(qtrack);qtrack=setTimeout(()=>{const v=e.target.value.trim();if(v.length>=3)track('search',{search_term:v,results:rows.length})},1200)});
 $('d-prev').onclick=()=>step(-1);$('d-next').onclick=()=>step(1);
 addEventListener('keydown',e=>{if(e.target.matches('input,select,textarea'))return;
   if(e.key==='Escape'&&document.body.classList.contains('detail-view'))closeSheet();
@@ -345,13 +359,13 @@ addEventListener('keydown',e=>{if(e.target.matches('input,select,textarea'))retu
   if(!e.target.closest||!e.target.closest('.listcol,#detail'))return;
   e.preventDefault();step(e.key==='ArrowRight'?1:-1);
   if(e.target.classList.contains('cardbtn')){const b=document.querySelector(`.cardbtn[data-id="${st.sel}"]`);if(b)b.focus()}});
-$('d-fav').onclick=()=>{const id=st.sel;favs.has(id)?favs.delete(id):favs.add(id);saveFavs();
+$('d-fav').onclick=()=>{const id=st.sel;favs.has(id)?favs.delete(id):favs.add(id);saveFavs();track(favs.has(id)?'quote_favorite':'quote_unfavorite',quoteParams(byId.get(id)));
   if(st.fav){filter();if(!rows.some(r=>r.id===id)&&rows.length)st.sel=rows[0].id}renderList();renderDetail()};
 function copy(txt,msg){const ok=()=>toast(msg);if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(ok,()=>fb(txt,msg))}else fb(txt,msg)}
 function fb(txt,msg){const t=document.createElement('textarea');t.value=txt;document.body.appendChild(t);t.select();try{document.execCommand('copy');toast(msg)}catch(e){toast('Seleccione el texto para copiarlo')}t.remove()}
 let tt;function toast(m){const el=$('toast');el.textContent=m;el.classList.add('show');clearTimeout(tt);tt=setTimeout(()=>el.classList.remove('show'),1600)}
-$('d-copy').onclick=()=>{const r=byId.get(st.sel);copy(`«${r.f}» — San Miguel Garicoïts (Carta ${r.c}, ${TOMO[r.t]}, ${r.d}${r.y?', '+r.y:''})`,'Frase copiada')};
-$('d-link').onclick=()=>copy(location.href,'Enlace copiado');
+$('d-copy').onclick=()=>{const r=byId.get(st.sel);track('quote_copy',quoteParams(r));copy(`«${r.f}» — San Miguel Garicoïts (Carta ${r.c}, ${TOMO[r.t]}, ${r.d}${r.y?', '+r.y:''})`,'Frase copiada')};
+$('d-link').onclick=()=>{track('quote_share_link',quoteParams(byId.get(st.sel)));copy(location.href,'Enlace copiado')};
 
 // Inicio: frase del enlace (#n-123) o la primera de la lista
 filter();
