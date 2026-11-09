@@ -1,0 +1,1382 @@
+# Frases de San Miguel Garicoïts en su correspondencia
+
+> Selección de **608 frases** de una línea, tomadas literalmente de la *Correspondencia de San Miguel Garicoïts* (ed. P. Pierre Miéyaa, scj; trad. P. Miguel Martínez y P. Angelo Recalcati), tomos I, II y III.
+
+## Cómo leer las referencias
+
+Cada frase lleva: **T.** (tomo) · **c.** (número de carta) · destinatario · año (cuando la carta lo indica). Debajo, un breve **contexto** explica la situación de la carta, elaborado a partir del texto y de las notas del editor.
+
+- **T. I**: cartas 1-173 (1825-1859). **T. II**: cartas 174-480. **T. III**: *Nuevas cartas* (números con *bis/ter* que completan los tomos anteriores y cartas nuevas desde la 485).
+- El signo **…** indica que la frase fue recortada del párrafo original; no se reescribió ni parafraseó nada. Las expresiones latinas van con la traducción que trae el propio texto.
+- Algunas cartas del Tomo III son otra traducción de cartas ya incluidas en los tomos I y II, así que una idea puede aparecer dos veces con palabras algo distintas.
+
+## Clasificación propuesta
+
+Propongo dos ejes que se combinan:
+
+**1. Eje temático (principal):** diez temas que siguen la espiritualidad de SMG, empezando por el núcleo del carisma (Voluntad de Dios / *Aquí estoy*) y terminando en la misión.
+
+| # | Tema | Qué reúne | Frases |
+|---|---|---|---|
+| 1 | [Voluntad de Dios y disponibilidad](#1-voluntad-de-dios-y-disponibilidad) | El corazón del carisma: el «Aquí estoy», seguir a la Providencia sin adelantarse ni “pasar por encima”. | 108 |
+| 2 | [Obediencia y humildad](#2-obediencia-y-humildad) | Ser pequeño, sumiso, contento y constante; la obediencia «sin tardanza, sin reserva, sin vuelta atrás». | 80 |
+| 3 | [Amor de Dios y Sagrado Corazón](#3-amor-de-dios-y-sagrado-corazón) | Dios que ama primero; el corazón entregado a Jesús solo. | 29 |
+| 4 | [Confianza y abandono en Dios](#4-confianza-y-abandono-en-dios) | Hacer lo que se puede y dejar el éxito en manos de Dios. | 73 |
+| 5 | [Oración, vida interior y santidad](#5-oración-vida-interior-y-santidad) | Pureza de intención, «un corazón puro y un espíritu recto», vivir con Dios solo. | 64 |
+| 6 | [Cruz, sufrimiento y paciencia](#6-cruz-sufrimiento-y-paciencia) | Las pruebas, tentaciones y contrariedades como camino. | 36 |
+| 7 | [Ánimo, alegría y paz interior](#7-ánimo-alegría-y-paz-interior) | ¡Adelante! Paz a todo precio, alegría en el servicio. | 71 |
+| 8 | [Caridad fraterna y vida comunitaria](#8-caridad-fraterna-y-vida-comunitaria) | «Que todos los nuestros sean uno»: unión, comprensión, no juzgar. | 35 |
+| 9 | [Gobierno y acompañamiento](#9-gobierno-y-acompañamiento) | Consejos a superiores, formadores y directores: tomar a los hombres como son. | 73 |
+| 10 | [Misión, celo apostólico y educación](#10-misión-celo-apostólico-y-educación) | Corazón de apóstol, auxiliares y no obstáculos, la obra educativa. | 39 |
+
+**2. Eje por destinatario (secundario):** cada frase lleva una etiqueta, porque el tono cambia mucho según a quién escribe: ternura y ánimo con las Hijas de la Cruz, exigencia y gobierno con sus religiosos.
+
+| Etiqueta | Destinatarios | Frases |
+|---|---|---|
+| `HC` | Hijas de la Cruz | 208 |
+| `SCJ` | Religiosos de Betharram | 285 |
+| `CL` | Obispos y otro clero o religiosos | 39 |
+| `LA` | Laicos, familia y otros | 76 |
+
+Con los dos ejes se puede, por ejemplo, buscar «frases sobre la cruz dirigidas a laicos» (tema 6 + `LA`) o preparar una catequesis sobre el *Aquí estoy* para jóvenes (tema 1).
+
+<details><summary>Matriz tema × destinatario</summary>
+
+| Tema | HC | SCJ | CL | LA | Total |
+|---|---|---|---|---|---|
+| Voluntad de Dios y disponibilidad | 40 | 41 | 7 | 20 | 108 |
+| Obediencia y humildad | 17 | 52 | 6 | 5 | 80 |
+| Amor de Dios y Sagrado Corazón | 9 | 9 | 1 | 10 | 29 |
+| Confianza y abandono en Dios | 29 | 26 | 6 | 12 | 73 |
+| Oración, vida interior y santidad | 24 | 33 | 3 | 4 | 64 |
+| Cruz, sufrimiento y paciencia | 14 | 10 | 2 | 10 | 36 |
+| Ánimo, alegría y paz interior | 43 | 16 | 3 | 9 | 71 |
+| Caridad fraterna y vida comunitaria | 10 | 21 | 1 | 3 | 35 |
+| Gobierno y acompañamiento | 16 | 52 | 5 | 0 | 73 |
+| Misión, celo apostólico y educación | 6 | 25 | 5 | 3 | 39 |
+
+</details>
+
+## Selección esencial (25 frases)
+
+Una antología corta para empezar, con las frases que mejor resumen su pensamiento.
+
+- «A todo digamos sí, y estemos contentos.» — *T. I, c. 4 · a una persona del mundo (la misma persona), 1829*
+  - Respuesta a su pena por las ocupaciones domésticas y familiares que le quitaban tiempo de oración: aceptar todo eso como voluntad de Dios, con un «sí» contento.
+- «Y que por siempre nuestra divisa sea: rezar, examinar, exponer y obedecer.» — *T. I, c. 10 · a un antiguo alumno del Seminario mayor de Betharram, 1834*
+  - Método que San Miguel propone al joven para discernir su vocación: orar con fervor, examinarse con seriedad, exponerlo con franqueza a quienes lo dirigen y seguir su decisión.
+- «Aprenda, pues, haciendo menos, a hacer más; soporte las pequeñas privaciones con el mérito de los mayores sacrificios.» — *T. I, c. 11 · a la señorita Nabarrette, 1834*
+  - San Miguel le muestra que liberar a su hermano sacerdote de los cuidados del hogar y edificar la parroquia ya es una gran obra, y la invita a valorar las pequeñas renuncias como grandes sacrificios.
+- «…decirle por amor: Aquí estoy, sin llegar tarde, sin condiciones, sin volverse atrás…» — *T. I, c. 21 · a la Señorita Marie-Claude Saüt, 1843*
+  - Prima de la Srta. de Bonnecaze, la acompañó a Betharram y, tras largas vacilaciones, decidió hacerse Hija de la Cruz. San Miguel le asegura que Dios la quiere solo para Él y la invita a responderle con un «Aquí estoy» total.
+- «Aquí estoy... sin demora y sin precipitación, sin condiciones y sin prodigalidad, sin volverse atrás y sin obstinación… en paz y alegría.» — *T. I, c. 39 · a la Hermana Saint-Jerôme, Hija de la Cruz, 1846*
+  - Hija de la Cruz muy estimada por San Miguel, recién llamada a la casa madre de La Puye. San Miguel matiza el «Aquí estoy»: entrega pronta pero sin precipitación, sin condiciones pero sin excesos, constante pero sin terquedad.
+- «Gobernar, al menos en la caridad, es dar a luz.» — *T. I, c. 41 · a una superiora de las Hijas de la Cruz, 1847*
+  - Imagen central del texto: la superiora es como una madre que da a luz con dolor; el sufrimiento es inevitable en el gobierno, pero si Dios está con ella todo irá bien.
+- «¿Dónde puede mejor salvarse que allí en donde Dios la quiere? Espere que él la saque, sígalo, pero no se le adelante nunca.» — *T. I, c. 59 · a la Hermana Saint-Jerôme, Hija de la Cruz*
+  - Respuesta a su deseo de dejar su puesto: salvarse donde Dios la quiere, esperando a que sea Él quien la saque.
+- «Seamos muy buenos, nosotros, y luego Dios hará milagros de conversión.» — *T. I, c. 77 · a una Hija de la Cruz, 1850*
+  - Al darle noticias de su familia, San Miguel comenta que uno de sus parientes aún no había hecho su Pascua: la mejor ayuda es la propia bondad; Dios hará el resto.
+- «El mejor médico, es el que ha estado a menudo enfermo él mismo.» — *T. I, c. 78 · a la Reverendísima Hna. Saint-Sabinien, Hija de la Cruz, 1850*
+  - Una de las utilidades de la tentación según San Miguel: la experiencia propia vuelve más compasivo y más apto para enseñar a otros a vencerla.
+- «…ejercer, a ejemplo suyo, la inmensidad de la caridad en los límites de nuestra condición.» — *T. I, c. 85 · a un amigo, 1851*
+  - Pésame por la muerte de un «verdadero amigo», quizá el canónigo Claverie, clave en la formación de San Miguel. Pide imitar su caridad; «inmensidad de la caridad» es una expresión típica de San Miguel.
+- «…ahora y siempre, nada pedir, nada rehusar; adelante, Dios lo quiere... Nunca esas vueltas atrás, esos “si”, esos “pero”.» — *T. I, c. 107 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1854*
+  - La destinataria, maestra de novicias en La Puye, razonaba mucho sobre su cargo y sentía desánimo. San Miguel le asegura que ese puesto es voluntad de Dios y le aplica la máxima, popularizada por san Francisco de Sales, de no pedir ni rehusar nada.
+- «Paz, paz, incluso en la guerra, paz a todo precio, paz a pesar de todo, y ánimo.» — *T. I, c. 107 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1854*
+  - Lo que San Miguel más teme en esta religiosa de espíritu muy razonador no es su cargo ni su desánimo, sino su falta de confianza ilimitada en Dios. Por eso le propone la paz como «sentimiento-rey» de su corazón, aun en plena lucha.
+- «Hay que dedicarse al estudio del corazón humano.» — *T. I, c. 111 · Carta Circular, 1855*
+  - Quinto principio de la circular de 1855 sobre la vida interior de los religiosos. La frase aparece sin más desarrollo, entre las consignas para vivir unidos a Dios en medio de la actividad apostólica.
+- «Busque en primer lugar el reino, la voluntad de Dios, y deje que Dios cuide de lo demás.» — *T. I, c. 123 · a la Hermana Lucie, Hija de la Cruz, 1856*
+  - Diciembre de 1856. La religiosa, dirigida por San Miguel durante catorce años, le exponía inquietudes de conciencia que él atribuye a maquinaciones del demonio. Le asegura que no necesita confesarlas y le recuerda el consejo evangélico.
+- «Hay que tomar a los hombres como son, y tratar sólo de sacar todo lo bueno posible, sabiendo sacrificar lo mejor.» — *T. I, c. 163 · al P. Diego Barbé, Superior del Colegio San José, 1858*
+  - Hacia 1858. Algunos misioneros de Buenos Aires habían pedido, sin consultar a San Miguel, el título de misioneros apostólicos. Escribiendo al superior de la misión, critica sus «ideas fijas», pero pide soportarlos y aprovechar lo bueno que tienen.
+- «Cuando Dios quiere algo, uno se adhiere porque Dios lo quiere, como Dios lo quiere y tanto cuanto Dios lo quiere.» — *T. II, c. 177 · al P. Víctor Paradis, 1859*
+  - Este religioso de la residencia de Pau se abatía cuando sus superiores contrariaban sus proyectos de apostolado. San Miguel le señala un apego oculto a su propia voluntad y le enseña a adherirse a la voluntad de Dios sin añadirle nada propio.
+- «¿Qué obras tienen éxito? Las que no se adelantan a la Providencia, sino la siguen fuerte, fiel y constantemente…» — *T. II, c. 212 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859*
+  - Algunos culpaban a la escuela paga de Orthez de vaciar el colegio Moncade. San Miguel pide mantenerla hasta nueva orden: no hay que destruir lo que Dios parece bendecir para sostener lo que amenaza ruina por otras causas.
+- «Con los mejores planos a priori, se construye sobre arena.» — *T. II, c. 212 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859*
+  - Moncade había querido abarcar todo el ciclo de estudios en lugar de limitarse, como pensaba el obispo, a un curso primario y a los primeros años de latín. San Miguel critica esos proyectos ambiciosos, nacidos de la rivalidad, que se adelantan a la Providencia.
+- «No esperar a que se tenga ese espíritu para actuar por ese espíritu, sino actuar por ese espíritu para tenerlo después.» — *T. II, c. 253 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860*
+  - Sobre cómo adquirir el espíritu religioso que faltaba en la comunidad de Orthez, San Miguel propone reflexionar, actuar y rezar: obrar como si ya se lo tuviera, porque así se lo va formando en uno mismo.
+- «Ni Dios ni los hombres le piden el éxito, sino la buena y constante voluntad, esfuerzos constantes en ese sentido; el éxito no es nuestro asunto.» — *T. II, c. 261 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860*
+  - San Miguel explica al superior de Moncade, desanimado, que como capitán debe guiar a los jóvenes profesores por medio de las reglas y no de su persona. Lo libera de la presión del resultado: solo se le pide buena voluntad y esfuerzo constante.
+- «…todo, en nuestra conducta deliberada, debe responder al Espíritu Santo y a nuestros superiores: Aquí estoy, sin tardanza, sin reserva, sin volverse atrás…» — *T. II, c. 293 · Carta circular, 1860*
+  - San Miguel recuerda a los superiores que profesan ser «Sacerdotes Auxiliares del Sagrado Corazón»: negar esa disponibilidad sería alistarse bajo el estandarte de Satanás. «Conducta deliberada» es lo que se hace con plena conciencia, a diferencia de los desvíos involuntarios.
+- «Nada de preocupaciones; abandono total del éxito en Dios. Dios sabe sacar el bien del mal.» — *T. II, c. 430 · a un Sacerdote del Sagrado Corazón*
+  - San Miguel recuerda los tiempos pobres de los comienzos de Betharram, con una sopa con babosas, para animar a un religioso desanimado por dificultades materiales. Le pide hacer lo posible y dejar en Dios el resultado.
+- «A Jesús solo, a él me doy y quiero pertenecer sin tardanza, sin reserva y sin volverse atrás.» — *T. II, c. 480 · a una Persona desconocida*
+  - San Miguel redacta un acto de entrega a Jesús para que esta persona en lucha interior lo haga suyo, seguido de propósitos para rechazar de inmediato las tentaciones volviéndose hacia Cristo.
+- «Jesús solo es digno de ser elegido.» — *T. II, c. 480 · a una Persona desconocida*
+  - Borrador sin destinatario claro, dirigido a alguien que vivía una fuerte lucha interior. San Miguel plantea una elección entre Jesús y Satanás, al que describe como un tirano, y propone elegir solo a Jesús.
+- «Non praeire (no adelantarse), sino sencillamente sequi (seguir).» — *T. III, c. 552 · al P. Domingo Guilhas, 1861*
+  - El P. Guilhas, joven director legal, ecónomo y ministro del colegio Moncade, chocaba con su superior y escribía a San Miguel cartas llenas de quejas. San Miguel le pide no ir por delante de los superiores, sino seguir: lo que según él hace prosperar la obra de Dios.
+
+## 1. Voluntad de Dios y disponibilidad
+
+*El corazón del carisma: el «Aquí estoy», seguir a la Providencia sin adelantarse ni “pasar por encima”.* — 108 frases
+
+- «Jesús, mi buen Maestro, no me pertenezco, soy todo para ti. Haz de mí todo lo que quieras.» — *T. I, c. 2 · a una desconocida* `LA`
+  - Oración de entrega total con que San Miguel cierra la carta, proponiéndole el mismo abandono en Jesús. La carta no está firmada y el editor discute su autenticidad por su estilo distinto.
+- «Aquí estoy, Maestro, soy feliz de servirte.» — *T. I, c. 2 · a una desconocida* `LA`
+  - «Aquí estoy» traduce el vasco «huna ni», respuesta del criado al llamado de su patrón. San Miguel la convirtió en expresión de pronta entrega a la voluntad de Dios; llegó a ser el lema de su congregación.
+- «…su vida debe ser una tierna y continua aceptación de todas las voluntades del buen Maestro…» — *T. I, c. 4 · a una persona del mundo (la misma persona), 1829* `LA`
+  - A la misma mujer, que sufría por verse privada de sus prácticas de piedad por las tareas de la casa, las visitas y el cuidado de sus padres. San Miguel le propone vivir el «sí, Padre» de Jesús ante todo lo que le toca.
+- «A todo digamos sí, y estemos contentos.» — *T. I, c. 4 · a una persona del mundo (la misma persona), 1829* `LA`
+  - Respuesta a su pena por las ocupaciones domésticas y familiares que le quitaban tiempo de oración: aceptar todo eso como voluntad de Dios, con un «sí» contento.
+- «…en la tierra, sólo estamos para cumplir la voluntad de Dios…» — *T. I, c. 10 · a un antiguo alumno del Seminario mayor de Betharram, 1834* `LA`
+  - Un exseminarista de Betharram le confiaba tristezas que había ocultado durante su estancia. San Miguel, que tras el cierre del seminario quedó solo como «guardián» del edificio, le recuerda que la vocación se rige por la voluntad de Dios.
+- «…sobre todo en materia de vocación, nada nos debe llevar a pasar por encima de esa voluntad adorable…» — *T. I, c. 10 · a un antiguo alumno del Seminario mayor de Betharram, 1834* `LA`
+  - Sobre la vocación del joven: ni el propio deseo debe pasar por encima de la voluntad de Dios, ni los obstáculos deben apartarlo de ella.
+- «Si Dios lo llama a la obra que conoce, no hay que fallar a su invitación…» — *T. I, c. 12 · a su primo, Juan Bautista Etcheberry, 1835* `LA`
+  - Primo hermano de San Miguel, sacerdote, que pensaba unirse a la naciente obra de Betharram. San Miguel lo anima a no rechazar el llamado si viene de Dios, pero le aconseja esperar y discernir.
+- «¡Que haga todo por ti y para ti, Dios mío!» — *T. I, c. 15 · al P. Francisco Coumerilh, párroco de Labastide-Villefranche, 1838* `CL`
+  - Antiguo alumno de San Miguel en Betharram, entonces párroco y desde 1846 miembro de su congregación. San Miguel le asegura su amistad constante y le expresa su deseo diario de que no decaiga en el fervor.
+- «Que suceda lo que Dios quiera.» — *T. I, c. 18 · al P. Taury, Superior de las Hijas de la Cruz, 1840* `CL`
+  - El destinatario era superior general de las Hijas de la Cruz. San Miguel le cuenta la angustia que le causaron los crímenes de Eliçabide, maestro de su escuela de Betharram, y su temor de tener que declarar ante los tribunales de Burdeos.
+- «…decirle por amor: Aquí estoy, sin llegar tarde, sin condiciones, sin volverse atrás…» — *T. I, c. 21 · a la Señorita Marie-Claude Saüt, 1843* `LA`
+  - Prima de la Srta. de Bonnecaze, la acompañó a Betharram y, tras largas vacilaciones, decidió hacerse Hija de la Cruz. San Miguel le asegura que Dios la quiere solo para Él y la invita a responderle con un «Aquí estoy» total.
+- «Será lo que Dios quiera. El sacrificio valdrá más, si Dios lo exige.» — *T. I, c. 32 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1845* `HC`
+  - Ante otro motivo de preocupación, San Miguel le pide no atormentarse y dejar el desenlace a Dios: si Él pide el sacrificio, valdrá más.
+- «Mi firme opinión es que Dios lo quiere en nuestra pequeña congregación.» — *T. I, c. 35 · al P. Jorge Higuères, 1846* `SCJ`
+  - Joven sacerdote que dudaba en entrar en la congregación de San Miguel por su mala salud, el parecer de los médicos y la oposición de sus padres. Tras rezar, San Miguel le da su opinión firme; llegó a ser uno de los grandes misioneros de Betharram.
+- «Aquí estoy... sin demora y sin precipitación, sin condiciones y sin prodigalidad, sin volverse atrás y sin obstinación… en paz y alegría.» — *T. I, c. 39 · a la Hermana Saint-Jerôme, Hija de la Cruz, 1846* `HC`
+  - Hija de la Cruz muy estimada por San Miguel, recién llamada a la casa madre de La Puye. San Miguel matiza el «Aquí estoy»: entrega pronta pero sin precipitación, sin condiciones pero sin excesos, constante pero sin terquedad.
+- «Las cosas no tenían valor para Jesús más que por ser voluntad de Dios; la voluntad de Dios era su alimento.» — *T. I, c. 43 · a la Hermana Reine-Agnès, Hija de la Cruz, 1847* `HC`
+  - San Miguel le propone a Jesús como modelo, para quien la voluntad del Padre era su alimento (Jn 4,34), y le pide que las cosas, también su enfermedad, valgan para ella solo por ser voluntad de Dios.
+- «A Dios, pues, sin condiciones, en Jesús y por Jesús.» — *T. I, c. 43 · a la Hermana Reine-Agnès, Hija de la Cruz, 1847* `HC`
+  - Posdata de la carta: mientras se entregue a Dios sin condiciones y sin volverse atrás, puede estar tranquila en su enfermedad.
+- «…redoblar de ardor en cumplir bien los deberes de su posición actual, aunque sólo tenga que durar un día…» — *T. I, c. 44 · a la Hermana Saint-Jerôme, Hija de la Cruz, 1847* `HC`
+  - La religiosa, en la casa madre de La Puye y libre de tareas, solía pedir que la sacaran de su puesto. San Miguel reprueba esa manía y le pide cumplir bien los deberes del presente, aunque duren poco.
+- «…sólo admiro, adoro y amo la conducta de la divina Providencia.» — *T. I, c. 49 · a la Hermana Saint-Jerôme, Hija de la Cruz, 1847* `HC`
+  - La religiosa, tras muchos años en Igon y una etapa en la casa madre, era nombrada superiora de una comunidad. San Miguel se maravilla de cómo la Providencia la ha ido conduciendo.
+- «Pobre instrumento, qué bien hará si, fiel en seguir el movimiento de la mano que se digna emplearla, sin adelantarse…» — *T. I, c. 49 · a la Hermana Saint-Jerôme, Hija de la Cruz, 1847* `HC`
+  - Consejo para su nuevo cargo: ser como un instrumento dócil en la mano de Dios, sin adelantarse a ella y confiando solo en ella.
+- «¿Dónde puede mejor salvarse que allí en donde Dios la quiere? Espere que él la saque, sígalo, pero no se le adelante nunca.» — *T. I, c. 59 · a la Hermana Saint-Jerôme, Hija de la Cruz* `HC`
+  - Respuesta a su deseo de dejar su puesto: salvarse donde Dios la quiere, esperando a que sea Él quien la saque.
+- «No pida más, no desee más de lo que Dios quiere. Limítese a disponerse a todo lo que él quiera, y luego sométase a todo lo que él haga…» — *T. I, c. 69 · a la Hermana Saint-Jerôme, Hija de la Cruz, 1850* `HC`
+  - La religiosa, por su salud frágil, había pasado a una obra más tranquila, como deseaba. San Miguel le pide no volver a su afán de esconderse y aceptar lo que Dios quiera, ni más ni menos.
+- «…ese alimento… que consiste en no hacer nunca la voluntad propia y en hacer siempre el beneplácito de Dios, sea cual fuere…» — *T. I, c. 77 · a una Hija de la Cruz, 1850* `HC`
+  - San Miguel «reprende» a una Hija de la Cruz que seguía buscando una piedad de consuelos («leche del Tabor»). Le propone el alimento sólido de Jesús: renunciar a la propia voluntad y hacer siempre la de Dios.
+- «AQUÍ ESTOY... sin tardanza, sin condiciones, sin volverse atrás, por lo que a mí se refiere. Amén.» — *T. I, c. 92 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1852* `HC`
+  - Encabezado de la carta: el «Aquí estoy» (en vasco «huna ni»), adoptado ese mismo año como lema de la congregación de San Miguel, unido a las palabras de María «He aquí la esclava del Señor».
+- «Dios por Dios, y todo lo demás también por Dios, o bien nada más que por Dios… la única y total voluntad de Dios.» — *T. I, c. 92 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1852* `HC`
+  - Pide oraciones porque su Sociedad vivía un momento crítico: se le proponía integrar a la comunidad del canónigo Menjoulet, de Oloron, fusión que él temía y que se concretó en 1855.
+- «…hay que elegir bien las épocas y buscar el mayor bien en el orden de la Providencia.» — *T. I, c. 99 · al P. Juan Luis Larrouy, Superior de Nª Sª de Sarrance, 1854* `SCJ`
+  - El destinatario, superior del santuario mariano de Sarrance, pensaba ausentarse durante el carnaval para visitar a su hermano. San Miguel teme los inconvenientes de dejar el santuario en ese momento y le aconseja elegir bien la época de sus viajes apostólicos.
+- «…ahora y siempre, nada pedir, nada rehusar; adelante, Dios lo quiere... Nunca esas vueltas atrás, esos “si”, esos “pero”.» — *T. I, c. 107 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1854* `HC`
+  - La destinataria, maestra de novicias en La Puye, razonaba mucho sobre su cargo y sentía desánimo. San Miguel le asegura que ese puesto es voluntad de Dios y le aplica la máxima, popularizada por san Francisco de Sales, de no pedir ni rehusar nada.
+- «Sea lo que fuere del pasado, Dios la quiere ahí y quiere bendecirla…» — *T. I, c. 114 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1855* `HC`
+  - La religiosa pensaba en cambiar de cargo y temía por el actual a causa de su pasado. San Miguel le asegura que Dios la quiere allí y le pone el ejemplo del buen ladrón, a quien Dios bendijo en la cruz pese a su vida anterior.
+- «…podemos y debemos siempre y en todas partes, decir cada uno: “Estoy muy contento con la voluntad de Dios; nada me falta”.» — *T. I, c. 118 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1856* `HC`
+  - Marzo de 1856. La religiosa temía aburrirlo con sus cartas y le contaba que estaba contenta haciendo la voluntad de Dios. San Miguel, recién repuesto de un nuevo ataque de salud, la confirma en ese sentimiento.
+- «…vivir y morir con ese sentimiento, diciendo: “Tu voluntad, Padre, aquí estoy.» — *T. I, c. 118 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1856* `HC`
+  - En la misma carta, San Miguel convierte ese contento en actitud para toda la vida y la muerte. El «Aquí estoy», que repite constantemente en sus cartas, expresa la disponibilidad total a la voluntad del Padre, a ejemplo de Cristo.
+- «…hagamos lo que conviene y luego que sea lo que Dios quiera.» — *T. I, c. 121 · a una Hija de la Cruz, 1856* `HC`
+  - Noviembre de 1856, durante el retiro de Igon. La religiosa le había escrito sobre las frecuentes visitas de un sacerdote; San Miguel le aconseja decírselo con discreción y luego dejar el resultado en manos de Dios.
+- «Sea lo que sea, que la voluntad de Dios se haga siempre.» — *T. I, c. 130 · al Canónigo Etchegaray, 1857* `SCJ`
+  - El destinatario, canónigo de Bayona incorporado a la Sociedad en 1855, consultaba sobre la obediencia al obispo y sobre aceptar la capellanía de las Ursulinas de Pau. San Miguel lo aprueba y defiende que las residencias puedan sostenerse.
+- «Hice una opción, quiero que dure eternamente... Todo cambiará, yo no.» — *T. I, c. 132 · a la Hermana Marie-Séraphique, Hija de la Cruz, 1857* `HC`
+  - Febrero de 1857. La joven religiosa sufría tentaciones e imaginaciones que la hacían dudar de su fidelidad. San Miguel le dice que son mentiras del demonio y le propone esta respuesta firme, recordándole su compromiso de tener a Cristo como único esposo.
+- «Lo que Dios quiere, y como Dios lo quiere. Le entrego este ramillete.» — *T. I, c. 132 · a la Hermana Marie-Séraphique, Hija de la Cruz, 1857* `HC`
+  - San Miguel le resume lo esencial —hacer lo que Dios quiere y como lo quiere— y se lo ofrece como un «ramillete» para aspirar a menudo. Al mismo tiempo, una epidemia de fiebre tifoidea causaba muertes en Betharram.
+- «…esforcémonos por hacer, por sufrir como Dios lo quiere; y ahí estamos, santos, perfectos.» — *T. I, c. 134 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1857* `HC`
+  - Para San Miguel, la vida bajo obediencia permite conocer con certeza lo que Dios pide hacer y sufrir; la santidad consiste entonces en hacerlo y sufrirlo como Él quiere. Lo escribe a una religiosa en duelo.
+- «…no teniendo en adelante otra regla de conducta, otro motivo de consolación que el beneplácito de Dios. Dios lo quiere.» — *T. I, c. 141 · al Hermano Joannès, 1857* `SCJ`
+  - Noviembre de 1857. El destinatario, hermano de la Sociedad de carácter fuerte, misionero en Buenos Aires, se sentía por fin a gusto allí con el P. Barbé. San Miguel se alegra de que haya dejado de dejarse llevar por su temperamento.
+- «Expeditus, desapegado de todo lo creado. Expositus, bajo la mano de quien debe, bajo la mano de Dios.» — *T. I, c. 145 · al P. Daniel Cameigt, 1858* `SCJ`
+  - 1858. El destinatario, joven seminarista que deseaba entrar en la Sociedad, sufría duras luchas interiores porque su madre se oponía. San Miguel le describe el ideal del religioso: «homo idoneus, expeditus, expositus».
+- «Ita, Pater, sí, Padre, sin llegar tarde, sin condiciones, sin volverse atrás.» — *T. I, c. 145 · al P. Daniel Cameigt, 1858* `SCJ`
+  - Respuesta que San Miguel propone a este joven ante la llamada de Dios, a ejemplo de Cristo en la cruz: un «sí, Padre» (en latín, Ita, Pater) inmediato, incondicional y sin marcha atrás, fórmula que repite a menudo.
+- «Nunca se trabaja mejor por la felicidad de los padres que siguiendo la vocación.» — *T. I, c. 146 · al P. Daniel Cameigt* `SCJ`
+  - Borrador dictado por San Miguel al P. Etchecopar con los argumentos que el joven podía dar a su madre, que se oponía a que entrara en la vida religiosa. La idea central: seguir la vocación es la mejor manera de hacer felices a los padres.
+- «…el descanso y la felicidad que le hace encontrar en estas palabras: Adelante. Dios lo quiere.» — *T. I, c. 149 · a la Hermana Marie-Séraphique, Hija de la Cruz, 1858* `HC`
+  - Enero de 1858. San Miguel bendice a Dios porque esta joven superiora encontraba paz en el lema que él difundía. Parte de la carta está escrita en vasco, con noticias de sus hermanas y de su padre.
+- «…es la enfermedad de querer llevar las cosas como nosotros lo entendemos, y no como Dios lo entiende.» — *T. I, c. 153 · al P. Luis Lassus, Superior de Sainte-Croix, 1858* `SCJ`
+  - Mal que San Miguel detecta entre varios religiosos de Oloron: se atormentaban por la suciedad de la casa, un vivero fallido o libros no recibidos, cosas que en parte dependían del obispo. Les reprocha querer que todo salga a su modo.
+- «Una vez que cada uno de nosotros ha hecho lo que puede, lo que debe… ¿por qué no ver en todo lo que le acontece… el orden mismo de la Providencia?» — *T. I, c. 153 · al P. Luis Lassus, Superior de Sainte-Croix, 1858* `SCJ`
+  - Remedio que San Miguel propone para esos religiosos descontentos: una vez hecho lo que corresponde, aceptar lo que ocurre como disposición de la Providencia, en lugar de inquietarse por cada contrariedad.
+- «…hacer, donde estamos, lo que Dios quiere, como tendríamos que haber hecho donde estábamos.» — *T. I, c. 155 · a la Hermana Marie-Victorina, Hija de la Cruz, 1858* `HC`
+  - Respuesta sobre Joséphine, pariente de la religiosa que se había apartado de su camino (en otra carta la llama «vagón descarrilado»). Es difícil volver atrás, dice San Miguel, pero el mal se repara arrepintiéndose y haciendo la voluntad de Dios allí donde se está.
+- «…de todos nuestros deberes, el primero y el más indispensable… es el de presentarnos constantemente ante Dios… diciéndoles cada uno: “Aquí estoy» — *T. I, c. 163 · al P. Diego Barbé, Superior del Colegio San José, 1858* `SCJ`
+  - En la misma carta, frente a esos misioneros que actuaban por su cuenta, San Miguel recuerda el deber de presentarse ante Dios y ante sus representantes con total disponibilidad, resumida en el «Aquí estoy», centro de su espiritualidad.
+- «Sólo encontrará seguridad y felicidad en una vocación divina conocida y abrazada, sea cual fuere.» — *T. I, c. 164 · a un joven, 1858* `LA`
+  - Septiembre de 1858. El joven estaba indeciso sobre su estado de vida, sin un rumbo claro. San Miguel le dice que ya es hora de elegir y le propone su «Método para conocer y seguir la voluntad de Dios».
+- «Aquí estoy, Dios mío, sin demora, sin reservas, sin volver atrás.» — *T. I, c. 164 · a un joven, 1858* `LA`
+  - Fórmula final del folleto impreso de San Miguel «Método para conocer y seguir la voluntad de Dios», que había dado al joven: tras rezar, examinar y consultar, abrazar la decisión con plena disponibilidad.
+- «Todos sus disgustos desaparecerán en este pensamiento: “Hago lo que Dios quiere”.» — *T. I, c. 168 · a una Hija de la Cruz, 1858* `HC`
+  - Septiembre de 1858. La religiosa estaba desconsolada por haber dejado comuniones por obediencia y se atormentaba con escrúpulos. San Miguel le dice que son tentaciones y le ofrece este pensamiento como consuelo.
+- «¡Ánimo! para responder a la insinuación, a la señal de Dios.» — *T. I, c. 172 · a un joven, 1858-1859* `LA`
+  - Hacia 1858-1859. El joven, tras un retiro, había resuelto entrar en los jesuitas, pero vacilaba. San Miguel lo exhorta a presentarse al superior de la Compañía en Toulouse, sin buscar otros consejos, siguiendo la señal de Dios.
+- «Cuando Dios quiere algo, uno se adhiere porque Dios lo quiere, como Dios lo quiere y tanto cuanto Dios lo quiere.» — *T. II, c. 177 · al P. Víctor Paradis, 1859* `SCJ`
+  - Este religioso de la residencia de Pau se abatía cuando sus superiores contrariaban sus proyectos de apostolado. San Miguel le señala un apego oculto a su propia voluntad y le enseña a adherirse a la voluntad de Dios sin añadirle nada propio.
+- «…haga lo que Dios quiere, como lo quiere, porque lo quiere.» — *T. II, c. 187 · al Hermano Joannès, 1859* `SCJ`
+  - El Hno. Joannès Arostéguy, enviado al colegio San José de Buenos Aires, tenía celo apostólico, pero en Francia se había dispersado en proyectos ajenos a sus tareas hasta parecer incapaz. San Miguel le pide concentrar su celo en su propio trabajo, como voluntad de Dios.
+- «Está bien ir poco a poco, haciendo desear la expansión antes que provocarla a priori. Seguir, no adelantarse...» — *T. II, c. 188 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - Al final de la carta, San Miguel aprueba la prudencia con que el superior de Buenos Aires llevaba el asunto de la capilla: crecer de a poco, siguiendo las señales de la Providencia en vez de forzar los acontecimientos con planes propios.
+- «Ante todo y siempre, tener delante de los ojos a Dios, al servicio del cual está, y su voluntad…» — *T. II, c. 194 · al P. Juan Espagnolle, 1859* `SCJ`
+  - El destinatario, profesor de retórica en el seminario de Olorón, había señalado a San Miguel diversos males de la comunidad. San Miguel elogia su franqueza y le recuerda que lo esencial es buscar la voluntad de Dios, expresada en la regla, dentro del propio cargo.
+- «Ojalá pueda superar su excesiva sensibilidad y conformarse con hacer pura y sencillamente la voluntad de Dios.» — *T. II, c. 197 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - San Miguel habla de un religioso enfermo y muy apreciado (según el editor, sin duda el P. Serres), por cuya curación está dispuesto a cualquier sacrificio. Ve en el abandono a la voluntad de Dios el mejor remedio, sin descuidar los demás.
+- «…no tendrá nunca la insolencia, ni la desgracia de sustituir su acción a la acción divina…» — *T. II, c. 209 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - San Miguel se alegra de los progresos del colegio San José de Buenos Aires y confía en su superior porque, sin descuidar los medios, no pretende reemplazar con su acción la de Dios, un error que considera muy extendido en el clero e incluso entre los suyos.
+- «¿Qué obras tienen éxito? Las que no se adelantan a la Providencia, sino la siguen fuerte, fiel y constantemente…» — *T. II, c. 212 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - Algunos culpaban a la escuela paga de Orthez de vaciar el colegio Moncade. San Miguel pide mantenerla hasta nueva orden: no hay que destruir lo que Dios parece bendecir para sostener lo que amenaza ruina por otras causas.
+- «Con los mejores planos a priori, se construye sobre arena.» — *T. II, c. 212 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - Moncade había querido abarcar todo el ciclo de estudios en lugar de limitarse, como pensaba el obispo, a un curso primario y a los primeros años de latín. San Miguel critica esos proyectos ambiciosos, nacidos de la rivalidad, que se adelantan a la Providencia.
+- «…están donde Dios los quiere, para hacer ahí lo que Él quiere y como Él quiere…» — *T. II, c. 215 · al P. Augusto Etchecopar, 1859* `SCJ`
+  - San Miguel pone como ejemplo a dos profesores de Moncade, los PP. Barbé y Cazedepats: deben convencerse de que, sin salir de su puesto, cumplen una misión de Dios, y de que su conducta debe desmentir las quejas y murmuraciones que circulaban en el colegio.
+- «¡Adelante, mientras Dios lo quiera!» — *T. II, c. 231 · al P. Diego Barbé, Superior del Colegio San José, 1859-1860* `SCJ`
+  - Cierre de la carta de aliento al superior del colegio San José de Buenos Aires, abrumado por las dificultades de su cargo: una exhortación a seguir con entusiasmo, con la sola condición de que sea voluntad de Dios.
+- «…toda plantación, hecha por otra mano que la de Dios será desenraizada, maldita.» — *T. II, c. 232 · a una Señorita, 1860* `LA`
+  - San Miguel aclara a la joven que él no busca plantar su vocación donde a él le guste, porque solo dura lo que Dios planta; pero ve su llamado como divino y considera grave oponerse a una vocación religiosa bien definida.
+- «Lo quiere así, el Señor, yo también.” Ponga en eso todo su ser, toda su vida, Hermana… y será feliz incluso desde esta vida.» — *T. II, c. 237 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1860* `HC`
+  - Felicitación de Año Nuevo a una Hija de la Cruz que San Miguel había presentado al noviciado y a la que estimaba mucho, luego maestra de novicias en La Puye. El año será bueno, le dice, si descansa en el beneplácito del Señor, sea cual fuere.
+- «…paciencia, pues, y abandono en la divina Providencia. Lo que quieres, Dios mío, ahora y siempre.» — *T. II, c. 243 · a una Superiora de las Hijas de la Cruz, 1860* `HC`
+  - La destinataria era superiora de la casa provincial de Colomiers, cerca de Toulouse, y sufría por el "hombre viejo", sus propios defectos. San Miguel le explica que Dios los deja para probar a sus elegidos y la invita a la paciencia y al abandono.
+- «…por lo que a mí se refiere, sólo quiero saber lo que Dios quiere, ni más ni menos.» — *T. II, c. 244 · al P. Juan Sauveterre, Cura de Anglet, 1860* `CL`
+  - El P. Cestac, fundador de las Siervas de María, y el párroco de Anglet proponían que los religiosos de San Miguel asumieran la parroquia de Anglet y la capellanía de Nuestra Señora del Refugio. San Miguel ve obstáculos, pero se remite a la voluntad de Dios.
+- «Aquí estoy, pequeño, entregado, agradecido y constante. Amén. Amén.» — *T. II, c. 264 · a la Hermana Marie-Victorina, Hija de la Cruz, 1860* `HC`
+  - San Miguel cierra la carta aplicándose lo que pide a la religiosa. "Aquí estoy" es la fórmula de disponibilidad de Cristo ante el Padre (Hb 10,7), central en la espiritualidad de San Miguel, que aquí completa con cuatro actitudes.
+- «…hombre apto a todo el bien de su vocación y misión providencial, libre de todo impedimento, expuesto siempre bajo la mano de Dios.» — *T. II, c. 266 · a Doña Raymond Planté, 1860* `LA`
+  - Al hablar de Adrien, hijo de la destinataria y antiguo alumno del P. Serres, San Miguel le desea ser "homo idoneus, expeditus et expositus", tres palabras con que resumía al religioso de su Sociedad, aquí traducidas para un joven laico.
+- «…todo parece anunciar que llegó el momento de decir: Aquí estoy...» — *T. II, c. 271 · al P. Pedro Etchanchu, Capellán del Carmelo de Olorón, 1860* `CL`
+  - El destinatario había sentido varias veces el llamado a misionar entre los vascos emigrados al Río de la Plata. San Miguel, que ya lo había invitado a unirse a los misioneros de Montevideo, ve llegado el momento de responder con plena disponibilidad.
+- «¿Cuando, pues, vivirá en paz y reposo en la voluntad de Dios?» — *T. II, c. 283 · a una Hija de la Cruz, 1860* `HC`
+  - Breve respuesta a una Hija de la Cruz que, inquieta, le había hecho varias preguntas. San Miguel la remite a su propia carta y le dirige una pregunta que es a la vez reproche cariñoso e invitación a la paz, que pide por ella cada día en la misa.
+- «¿El medio? Aquí está: sea pequeña ante Dios, contenta con su voluntad, abandonada a la Providencia, constante en su voluntad.» — *T. II, c. 283 · a una Hija de la Cruz, 1860* `HC`
+  - En la misma brevísima carta a una religiosa inquieta, San Miguel resume en cuatro actitudes el camino hacia la paz en la voluntad de Dios: pequeñez, contento, abandono y constancia.
+- «Aquí estoy. Hágase tu voluntad en mí como en el cielo.» — *T. II, c. 293 · Carta circular, 1860* `SCJ`
+  - Encabezado de una circular enviada a los superiores de los colegios de la Sociedad al comenzar el año escolar (noviembre de 1860). San Miguel abre con este lema, en latín y en castellano, que resume toda la doctrina que les pide inculcar a sus profesores.
+- «Dios de quien procede todo bien, pide instrumentos despojados de todo, sobre todo de sí mismos…» — *T. II, c. 293 · Carta circular, 1860* `SCJ`
+  - En la misma circular, San Miguel explica que la renuncia a sí mismo debe preceder al estudio: Dios actúa por instrumentos abandonados al Espíritu Santo y a la obediencia, como Cristo, y todo eso se resume en el «Aquí estoy».
+- «…todo, en nuestra conducta deliberada, debe responder al Espíritu Santo y a nuestros superiores: Aquí estoy, sin tardanza, sin reserva, sin volverse atrás…» — *T. II, c. 293 · Carta circular, 1860* `SCJ`
+  - San Miguel recuerda a los superiores que profesan ser «Sacerdotes Auxiliares del Sagrado Corazón»: negar esa disponibilidad sería alistarse bajo el estandarte de Satanás. «Conducta deliberada» es lo que se hace con plena conciencia, a diferencia de los desvíos involuntarios.
+- «¿Por qué preocuparse de lo que se dirá, de lo que sucederá? A cada día su pena. Hacer la voluntad de Dios, y luego suceda lo que Dios quiera.» — *T. II, c. 296 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - San Miguel le envía al Hno. Saint-Martin como portero y le reprocha aceptar clases de dos o tres alumnos contra la voluntad del obispo, y ocuparse de lo que no le corresponde, inquieto por las opiniones y las consecuencias.
+- «…dejarlos algunos días, es amarlos y poseerlos aún mejor; perderlos durante esta vida cuatro días, es encontrarlos en la vida eterna.» — *T. II, c. 301 · a la Señorita Noemí Peyrounat, 1860* `LA`
+  - Joven de una familia amiga de San Miguel (su hermana había muerto como Hija de la Caridad) que quería entrar en esa congregación. Al mostrarse vacilante, sus padres dejaron de creer en su vocación y se opusieron; San Miguel le explica en qué sentido evangélico debe «odiarlos».
+- «Adoro una segunda vez a la Providencia en un cambio tan súbito que yo acepto, pero que no comprendo.» — *T. II, c. 306 · al P. Juan Pédebéarn, 1861* `CL`
+  - Antiguo alumno de San Miguel y capellán en Pau, había comprado la chacra Mathéou para regalarla a Betharram, pero al momento de pagar se declaró sin dinero. Sin mostrar decepción, San Miguel le agradece y le pide saber qué le debe, para tener la conciencia en regla.
+- «Hagamos lo que debemos, y luego sea lo que Dios quiera, siempre feliz ante Dios y ante los hombres…» — *T. II, c. 312 · a una Hija de la Cruz, 1861* `HC`
+  - Religiosa de la comunidad de Accous, inquieta por escrúpulos y por su relación con el párroco-decano del lugar, el P. Larrose, hombre severo. San Miguel la tranquiliza: si actúa como quieren sus superiores, no tiene nada que temer.
+- «Aprenda cada vez más a encontrar en la voluntad de Dios la misma felicidad que María…» — *T. II, c. 316 · a la Hermana Séraphia, Hija de la Cruz, 1861* `HC`
+  - En la víspera de la fiesta de los Siete Dolores de 1861, San Miguel comparte con esta religiosa vasca la meditación hecha esa mañana en Igon sobre María de pie junto a la cruz, modelo de Hija de la Cruz.
+- «…si en las menores cosas, tenemos tanta necesidad del socorro de Arriba, es sobre todo cuando se trata de elegir un estado de vida…» — *T. II, c. 338 · a la Señora Raymond Planté, 1861* `LA`
+  - Bienhechora de Betharram, viuda del antiguo alcalde de Orthez, que había confiado a San Miguel un asunto importante: un casamiento. San Miguel le promete rezar para que los novios busquen y cumplan la voluntad de Dios.
+- «No lo que yo quiero, Dios mío, sino lo que tú quieres, en el Calvario y en el Huerto de los Olivos, así como en el Tabor.» — *T. II, c. 352 · a la Hermana Seraphia, Hija de la Cruz, 1862* `HC`
+  - San Miguel le propone la oración de Jesús en Getsemaní para todas las situaciones: el Calvario y el Huerto de los Olivos evocan el sufrimiento; el Tabor, monte de la Transfiguración, la alegría y el consuelo.
+- «…no se preocupe de las cosas que están fuera de la voluntad de Dios; por su voluntad, sea ardiente y valiente.» — *T. II, c. 352 · a la Hermana Seraphia, Hija de la Cruz, 1862* `HC`
+  - Frase escrita en vasco, lengua materna de San Miguel y de la religiosa, con la que cierra sus consejos: no inquietarse por lo que queda fuera del querer divino y poner todo el ardor en cumplirlo.
+- «Bendito seas, Padre mío, lo que quieras siempre, y no lo que yo quiero.» — *T. II, c. 356 · a una Hija de la Cruz, 1862* `HC`
+  - Religiosa que había escrito a San Miguel con muy buenas disposiciones. Él le enseña a recibir las contrariedades de su posición como venidas de Dios, con esta oración de aceptación que evoca la de Jesús en Getsemaní.
+- «…esta conformidad con la voluntad de Dios, qué secreto, y bien fácil, todo a nuestro alcance.» — *T. II, c. 356 · a una Hija de la Cruz, 1862* `HC`
+  - San Miguel presenta la conformidad con la voluntad de Dios como el secreto de la vida espiritual, al alcance de todos, porque toda contrariedad se vuelve ganancia ante Dios.
+- «Ver a Dios en todo y siempre, hacer siempre su santa voluntad, qué medio para estar siempre en paz con él, con nosotros mismos y con el prójimo.» — *T. II, c. 356 · a una Hija de la Cruz, 1862* `HC`
+  - San Miguel enumera los frutos de la conformidad con la voluntad de Dios: paz con Dios, consigo mismo y con el prójimo, pase lo que pase, se diga lo que se diga o se nos haga lo que se nos haga.
+- «¿Hay que ser siempre lentos de corazón para creer en la voluntad de Dios… para abrazarla y para poner en ella toda nuestra felicidad?» — *T. II, c. 369 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1862* `SCJ`
+  - Ante quienes rechazaban a un superior, San Miguel se pregunta si habría que buscar un serafín en su lugar. «Lentos de corazón» es expresión evangélica, y en el dialecto del Bearne «creer» significa también «obedecer».
+- «¡Ah! ¡Si supiéramos vivir, perseverar en esta vía trazada por Dios mismo, sin preocuparnos por nada del futuro… con tal de que Dios esté contento!» — *T. II, c. 373 · al P. Andrés Cazaubon, 1862* `SCJ`
+  - San Miguel pone como modelo a María Magdalena a los pies de Jesús, sin inquietarse por las críticas de los fariseos ni por los reclamos de Marta, y exclama cuán feliz sería vivir así, sin temer el futuro ni a los hombres.
+- «…se entregue como María, en un sincero y perfecto Aquí estoy, a nuestro Señor.» — *T. II, c. 374 · a una Hija de la Cruz, 1862* `HC`
+  - San Miguel escribe al terminar el retiro anual de 1862 a una religiosa que le contaba sus progresos. Le asegura que son solo el comienzo de grandes cosas si se entrega a Cristo sin reservas, como lo hizo María.
+- «…que no se entregue a sus obras, de prestarse sólo, reservándose totalmente para el beneplácito de Dios…» — *T. II, c. 392 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1863* `HC`
+  - San Miguel escribe a una Hija de la Cruz a la que conocía desde su ingreso en la congregación y que trabajaba para el prójimo. Le recomienda no entregar el alma a sus obras: “prestarse” a ellas por obediencia y reservarse por completo para Dios.
+- «…en el fondo ha dejado a Dios por Dios.» — *T. II, c. 394 · a la Señorita María Etchandy, 1863* `LA`
+  - La destinataria había sido Hija de la Cruz con el nombre de Hermana Séraphia y dejó el convento por motivos que San Miguel aprobó. Al volver con su familia obedeciendo a quien debía, explica él, no abandonó a Dios: cambió una forma de servirlo por otra.
+- «¡Cómo debe decir a Dios en un entero y filial abandono: “Aquí estoy! ¡Adelante!» — *T. II, c. 418 · a un Misionero de América* `SCJ`
+  - Carta a un religioso que partía como misionero a América, una de las que mejor muestran el ardor misionero de San Miguel. El “Aquí estoy” de la entrega a Dios y el “¡Adelante!” resumen su espiritualidad.
+- «Tenga siempre delante de los ojos: Primero y ante todo, a Dios y su adorable voluntad.» — *T. II, c. 426 · a un Sacerdote del Sagrado Corazón* `SCJ`
+  - Breve carta de dirección espiritual a un religioso de Betharram. San Miguel resume en dos puntos lo esencial: tener siempre presente a Dios y su voluntad, y luego la forma de vida de la congregación, que expresa esa voluntad para cada uno.
+- «Cualquiera que se sienta llamado a una obra, que tiene siempre razón de creer divina… debe entregarse a esa obra… sin tardanza, sin reserva, sin vuelta atrás…» — *T. II, c. 436 · a un Sacerdote del Sagrado Corazón* `SCJ`
+  - Fragmento sin fecha sobre la entrega a una obra común, que es la de Betharram. Quien se sabe llamado debe entregarse sin condiciones, por amor a la obra, sin imponer sus propias ideas; fuera de eso, advierte San Miguel, solo hay decepción.
+- «Tiene tentaciones; pero por muy violentas que puedan ser, no pueden impedirle conocer y abrazar la voluntad de Dios.» — *T. II, c. 463 · a una Superiora de las Hijas de la Cruz* `HC`
+  - Una religiosa con cargo de superiora vivía atormentada por tentaciones. Con su estilo de preguntas y respuestas, San Miguel le asegura que su situación es sencilla, porque nada le impide conocer y aceptar la voluntad de Dios.
+- «Buscar su felicidad en el cumplimiento de la voluntad de Dios y no en otra parte.» — *T. II, c. 463 · a una Superiora de las Hijas de la Cruz* `HC`
+  - Respuesta central de la misma carta: la felicidad está en cumplir la voluntad de Dios. San Miguel insiste en que es “cien veces más fácil” que todo lo que ella intenta y la invita a comprobarlo por sí misma.
+- «¡Adelante! ¡Dios lo quiere!» — *T. III, c. 85bis · a una religiosa, 1852* `CL`
+  - Después de entregarse a Dios en la oración, la religiosa debe pasar a la acción sin mirar sus sentimientos: comunión, absolución o clase. Es la consigna con que San Miguel la impulsa a vencer el desgano.
+- «Finalmente, abrazará la decisión de él como la voluntad de Dios.» — *T. III, c. 164 · a Casimiro Cotiart* `LA`
+  - Respuesta, comentada línea por línea, a un joven que discernía entre el matrimonio, quedarse célibe junto a sus padres o la vida religiosa. Entró en la Sociedad del Sagrado Corazón en 1858 y fue enviado a Buenos Aires.
+- «Dios mío, aquí estoy. Aquí estamos.» — *T. III, c. 490 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - «Aquí estoy» resume la espiritualidad de San Miguel: disponibilidad total, a ejemplo de Cristo. Lo repite al superior de Buenos Aires ante actitudes de independencia frente a la autoridad.
+- «…dispuesto a todo lo que se quiera, sin querer nada por sí mismo, aprovechando así la única manera de ser útil…» — *T. III, c. 492 · a Juan Espagnolle, 1859* `SCJ`
+  - El destinatario, religioso de Betharram en crisis, le había hablado de «escamas». San Miguel le pone el ejemplo de Saulo, hombre de celo ardiente y seguro de sí, que tras caer se volvió disponible a lo que Dios quisiera.
+- «…que sean hombres capaces, despojados y dispuestos…» — *T. III, c. 494 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - San Miguel felicita al superior del colegio de Buenos Aires por su plan de conjunto y le pide formar religiosos aptos y disponibles, sin poner la acción humana en lugar de la acción de Dios.
+- «…debe entregarse a esa obra como Dios lo quiere… sin tardanza, sin reserva, sin vuelta atrás… cuidándose bien de querer imponer ni exigir nada propio.» — *T. III, c. 498 · al P. Juan Espagnolle, 1859* `SCJ`
+  - El destinatario, profesor del seminario de Olorón, vivía una crisis vocacional y terminaría dejando la Sociedad en 1860. San Miguel le describe cómo debe entregarse quien se siente llamado a una obra que cree divina.
+- «…cuando no se tiene en cuenta, o casi, la voluntad de Dios en materia de consejo, en seguida no se tiene en cuenta en materia de precepto.» — *T. III, c. 513 · a un desconocido, 1860* `LA`
+  - San Miguel explica al religioso que había fallado gravemente cómo se llega a esa caída: quien descuida la voluntad de Dios en las Reglas y consejos pronto la descuida también en los mandamientos.
+- «…cuando aprenda bien a dejar a Dios por Dios hilariter (con sonrisa), a atenerse a su sola voluntad.» — *T. III, c. 516 · al P. Víctor Paradis, 1860* `SCJ`
+  - San Miguel pide al religioso, apegado a su obra con los soldados, aprender a renunciar con alegría a una obra de Dios por Dios mismo, y atenerse solo a su voluntad, incluso cuando sus superiores lo contrarían.
+- «Cuando Dios quiere una cosa, nos asociamos a ella porque Dios lo quiere, como Dios lo quiere, y en cuanto Dios lo quiere.» — *T. III, c. 516 · al P. Víctor Paradis, 1860* `SCJ`
+  - Para San Miguel, la voluntad de Dios para este religioso era el orfanato, no la obra con militares que llevaba por iniciativa propia. Le pide abrirse con su superior local, intérprete ordinario de esa voluntad.
+- «…todo debe responder: “Aquí estoy por amor a la voluntad de Dios, a su Santo Espíritu y a nuestros Superiores, sin demora y sin vuelta atrás…» — *T. III, c. 529 · al P. Angelin Minvielle, sup. del Seminario de Olorón, 1860* `SCJ`
+  - Carta de octubre de 1860, que luego circuló como circular a los superiores de las casas. San Miguel resume en el «Aquí estoy» la actitud de disponibilidad que debe inspirar toda la conducta del religioso.
+- «…debe dejarlos para encontrarlos en la vida eterna, y odiarlos y dejarlos unos días, es amarlos y poseerlos aún mejor...» — *T. III, c. 538 · a la Srta. Noemí Peyrounat* `LA`
+  - Respuesta a una joven de Lestelle cuyos padres, amigos de San Miguel, se oponían a su ingreso en la vida religiosa y querían casarla. San Miguel le pide decisión y le explica que dejarlos por Dios es amarlos mejor.
+- «…estamos seguros de que Dios nos manifiesta su voluntad por nuestras Reglas y por nuestros Superiores.» — *T. III, c. 541 · al P. Domingo Guilhas, 1861* `SCJ`
+  - Para San Miguel, el religioso no puede quedar en la incertidumbre sobre la voluntad de Dios, porque la conoce por las Reglas y los superiores. Se lo dice al joven director inquieto por las dificultades de su cargo.
+- «Rezar, suplicar misericordia, socorro y luego actuar en los límites de nuestros empleos, siempre pequeños, sumisos, contentos y constantes.» — *T. III, c. 544 · a la Señorita María Magdalena de Bonnecaze, 1861* `LA`
+  - Destinataria: Hija de la Caridad francesa a quien San Miguel había guiado en su vocación; según el editor, probablemente estaba en Egipto, donde abrió una escuela. San Miguel le propone como divisa común rezar y luego obrar con sencillez dentro de las propias tareas.
+- «Non praeire (no adelantarse), sino sencillamente sequi (seguir).» — *T. III, c. 552 · al P. Domingo Guilhas, 1861* `SCJ`
+  - El P. Guilhas, joven director legal, ecónomo y ministro del colegio Moncade, chocaba con su superior y escribía a San Miguel cartas llenas de quejas. San Miguel le pide no ir por delante de los superiores, sino seguir: lo que según él hace prosperar la obra de Dios.
+- «Recemos y siempre adelante, hasta que Dios lo quiera.» — *T. III, c. 571 · al P. Diego Barbé, Superior del colegio San José, 1861* `SCJ`
+  - San Miguel propone admitir en Buenos Aires como 'auxiliar' a un sacerdote de pasado escandaloso que se había convertido. Prevé objeciones, pero anima a seguir adelante mientras Dios lo quiera.
+- «…no estamos en este mundo para hacer lo que quisiéramos.» — *T. III, c. 598 · al P. Michel Fradin, Superior de las Hijas de la Cruz, 1862* `CL`
+  - El superior de las Hijas de la Cruz lo había invitado a viajar a La Puye. San Miguel declina la invitación porque el obispo no vería bien su ausencia y había dificultades en la comunidad (aunque, según el editor, poco después terminó yendo).
+- «¿Pero, es necesario que seamos siempre lentos de corazón para creer en la voluntad de Dios, sea donde fuera que se presente, para abrazarla…?» — *T. III, c. 603 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1862* `SCJ`
+  - Algunos religiosos de Olorón mostraban en público su rechazo hacia el P. Hayet. San Miguel lamenta ese espíritu, que haría imposible toda vida religiosa, porque los superiores son siempre hombres con sus miserias.
+- «Los cambios deberían presentar algún signo providencial…» — *T. III, c. 614 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Algunos querían una iglesia propia en Buenos Aires. San Miguel prefiere seguir haciendo el bien donde ya están, y solo cambiar si hay una señal de la Providencia, como un proyecto que proponía el obispo de Buenos Aires.
+- «…hagan a menudo actos de abandono de ustedes mismas en la voluntad de Dios.» — *T. III, c. 641 · a algunas religiosas* `HC`
+  - Entre sus consejos de vida espiritual, San Miguel pide a estas religiosas vivir en la presencia de Dios, pedir su ayuda y entregarse a menudo a su voluntad.
+
+## 2. Obediencia y humildad
+
+*Ser pequeño, sumiso, contento y constante; la obediencia «sin tardanza, sin reserva, sin vuelta atrás».* — 80 frases
+
+- «Y que por siempre nuestra divisa sea: rezar, examinar, exponer y obedecer.» — *T. I, c. 10 · a un antiguo alumno del Seminario mayor de Betharram, 1834* `LA`
+  - Método que San Miguel propone al joven para discernir su vocación: orar con fervor, examinarse con seriedad, exponerlo con franqueza a quienes lo dirigen y seguir su decisión.
+- «Lo que llama caer, se llama levantarse; lo que llama levantarse, se llama caer.» — *T. I, c. 32 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1845* `HC`
+  - Breve respuesta a una de sus observaciones: lo que ella juzga caída es en realidad progreso, y lo que cree avance es retroceso, porque juzga su vida interior con criterios equivocados.
+- «Hay más virtud en consentir que en rehusar…» — *T. I, c. 41 · a una superiora de las Hijas de la Cruz, 1847* `HC`
+  - Sobre aceptar un cargo de gobierno: San Miguel sostiene que hay más virtud en aceptarlo que en rehusarlo, y que creerse tan importante como para estorbar la obra de Dios puede ser falta de humildad.
+- «…hacerse a un lado y entregarse dentro de la regla y olvidándose de sí misma.» — *T. I, c. 58 · a la Hermana Marie-Sidonie, Hija de la Cruz, 1849* `HC`
+  - A la misma joven que había vivido la crisis vocacional: San Miguel se alegra de verla rendida a Dios sin condiciones y le repite el consejo que tanto le había dado.
+- «Cuando dicen que es buena y que hace bien, diga: Así sea. Y si le reprochan de haber hecho mal, diga: Trataré de hacer bien. Y luego, adelante.» — *T. I, c. 59 · a la Hermana Saint-Jerôme, Hija de la Cruz* `HC`
+  - Consejo práctico ante elogios y críticas por su trabajo: aceptarlos con sencillez y seguir adelante, esforzándose de verdad en hacer bien.
+- «Sea siempre sonriente y totalmente sumisa en todo lo que no sea pecado evidente o imposible de hacer…» — *T. I, c. 81 · a una Hija de la Cruz, 1850* `HC`
+  - Joven Hija de la Cruz, tímida y sensible, que sufría por el trato de su superiora. San Miguel le pide obedecerla con sencillez y buen humor en todo lo que no sea pecado o imposible.
+- «Si algo hemos hecho de bien, Dios ha querido servirse de nosotros, a pesar de nuestra miseria y de la de los demás.» — *T. I, c. 92 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1852* `HC`
+  - La religiosa se describía como «pobre obrera» muy ocupada; San Miguel responde que él lo es aún más y que todo lo bueno que hayan hecho es obra de Dios.
+- «…debe obedecer, sin llegar tarde, sin condiciones, sin volverse atrás, a todos sus superiores…» — *T. I, c. 110 · al P. Bertrand Beudou, Profesor en Mauleón, 1855* `SCJ`
+  - El destinatario, joven profesor del colegio de Mauléon, causaba muchas penas a sus superiores por su mal carácter. San Miguel le plantea un ultimátum: si quiere seguir en la Sociedad debe obedecer plenamente a su superior; si no, podrá ser expulsado.
+- «…nada pedir, nada rehusar, sola y sencillamente exponer la verdadera situación delante de Dios a sus superiores, y luego obedecer…» — *T. I, c. 113 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1855* `HC`
+  - Junio de 1855. La destinataria, superiora de una comunidad, pensaba pedir a sus superiores que la liberaran de un cargo. San Miguel se lo desaconseja y le recuerda su principio: exponer con sencillez la situación y luego obedecer con confianza.
+- «Aquí está el fruto de mi jardín; desde mi interior, sólo pueden brotar frutos semejantes; pero di una palabra y todo cambiará de cara.» — *T. I, c. 114 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1855* `HC`
+  - Septiembre de 1855, en plena epidemia de cólera. La religiosa decía serlo solo de nombre y no hacer nada bien. San Miguel le enseña a reconocer a la vez el bien que Dios obra en ella y su propia miseria, confiando esta última a Dios.
+- «…se marchó sin tambor ni trompeta, como conviene a las Hijas de la Cruz…» — *T. I, c. 142 · a una Hija de la Cruz, 1857* `HC`
+  - San Miguel explica por qué le reenvía tarde una carta: la religiosa había sido trasladada discretamente y él no conocía su nueva dirección. Elogia así la sencillez con que las Hijas de la Cruz aceptan sus destinos sin hacer ruido.
+- «Está muy bien exponer sus dudas; pero ir más allá, es violar la regla.» — *T. I, c. 157 · al P. Juan Luis Larrouy, 1858* `SCJ`
+  - Abril de 1858. El destinatario, misionero en Buenos Aires, se oponía a que el superior abriera allí un colegio, pues creía que la Sociedad debía dedicarse solo a las misiones, y escribió a San Miguel. Este fragmento es lo que queda de la respuesta.
+- «…haga todo lo que el superior le ordene o le permita a este respecto, ni más ni menos, y Dios lo bendecirá.» — *T. II, c. 178 · al P. Víctor Paradis, 1859* `SCJ`
+  - El destinatario quería ejercer su ministerio entre enfermos y soldados, pero su superior en Pau lo limitaba porque ya atendía la capellanía de las Hijas de la Cruz. San Miguel le pide dejar la decisión al superior local en vez de atormentarse y murmurar.
+- «Sea, pues, sumisa, tranquila y constante Hija de la Cruz.» — *T. II, c. 201 · a una Hija de la Cruz, 1859* `HC`
+  - Una religiosa escrupulosa llevaba a confesión tentaciones que la horrorizaban, como la idea de dejar la Congregación. San Miguel le pide no confesarlas, declarar solo los pecados mortales ciertos y vivir en paz; él asume la responsabilidad.
+- «…obedecer sin tardanza, sin reserva, sin volverse atrás, por amor antes que por cualquier otro sentimiento.» — *T. II, c. 209 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - San Miguel pide al superior de Buenos Aires preservar a sus religiosos de ese activismo y formarlos aptos, libres y disponibles para Dios mediante la obediencia según las reglas, que considera el medio para que reine Dios entre ellos.
+- «…sean y se muestren siempre auxiliares perfectos, nunca estorbos, obstáculos al Sagrado Corazón de Jesús y para sus Superiores.» — *T. II, c. 215 · al P. Augusto Etchecopar, 1859* `SCJ`
+  - Tras evocar al jesuita P. Le Blanc, que levantó grandes obras en Toulouse en pobreza y obediencia, San Miguel pide que todos sean verdaderos auxiliares. "Sacerdotes Auxiliares del Sagrado Corazón" era el nombre oficial de la Sociedad que fundó.
+- «…me contentaba con avisar al P. Lasalle. Si remediaba los abusos, tanto mejor; si no, paciencia. Actúe Ud mismo así. Prudencia, paciencia, amigo.» — *T. II, c. 222 · a un amigo, 1859* `LA`
+  - San Miguel recuerda su juventud en el seminario de Betharram, gobernado por el anciano canónigo Lasalle, donde había desórdenes: él era profesor y ecónomo, pero se limitaba a avisar al superior. Aconseja la misma actitud a alguien descontento con su superior.
+- «Hace falta, pues, ser desafortunado para tener dificultad cuando uno está al abrigo de toda dificultad.» — *T. II, c. 224 · al P. Santiago Dartigues, 1859* `SCJ`
+  - El destinatario, enviado a la escuela de Orthez, vivía atormentado por conflictos de conciencia sobre la obediencia. San Miguel le hace ver que solo un pecado manifiesto podría justificar esa angustia y le pide rezar y consultar al P. Barbé.
+- «…hombre capaz, libre y dispuesto en las manos de Dios y sus superiores sean quienes fueren.» — *T. II, c. 226 · al P. Jacques Dartigues, 1859* `SCJ`
+  - San Miguel pide a este religioso de actividad desordenada, que no comprendía en qué había desobedecido, desconfiar de sus propios puntos de vista y ponerse, por espíritu de fe, en manos de Dios y de sus superiores. Le sugiere mostrar la carta al P. Barbé.
+- «Y luego actuar en los límites de nuestro empleo, siempre pequeños, sumisos, contentos y constantes.» — *T. II, c. 242 · a un Superior, 1860* `SCJ`
+  - Tras invitarlo a pedir ayuda a Dios ("¡Misericordia! ¡Auxilio!"), San Miguel propone a este superior una divisa: cumplir bien lo propio, dentro de los límites del cargo, con humildad, sumisión, alegría y constancia.
+- «…gloria a Dios; es justicia reconocerlo; es también el medio de atraer nuevas bendiciones el hacer proceder todos los bienes de su fuente.» — *T. II, c. 255 · a Doña Raymond Planté, 1860* `LA`
+  - La destinataria le había anunciado que su hijo Adrien, antiguo alumno del P. Serres, había aprobado con éxito un examen. San Miguel la felicita y reconoce la capacidad del joven, pero invita a dar gloria a Dios por el logro.
+- «…¿no es mejor perecer por obediencia que por lentitud y como gallina mojada?» — *T. II, c. 257 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - San Miguel exige una reforma general en Moncade, "cuestión de vida o muerte", y propone al superior el ejemplo del P. Claverie, que salvó el seminario de Larressore. Si fracasara, prefiere que sea por obedecer y no por lentitud y pusilanimidad.
+- «Obedecer a Dios en lo que el superior nos dice; servir a Dios como se lo digo, y no como Ud lo entiende, y Dios lo bendecirá.» — *T. II, c. 261 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - San Miguel reprocha al superior de Moncade aferrarse a sus propias ideas y esquivar las indicaciones recibidas, como habían hecho el P. Serres y el P. Goailhard. Le pide obedecer como él espera que sus profesores le obedezcan.
+- «Que todo su esfuerzo sea, pues, ser pequeña y despreciada, sin molestar, y alcanzará el más alto lugar, el más digno y el más cercano a Dios» — *T. II, c. 264 · a la Hermana Marie-Victorina, Hija de la Cruz, 1860* `HC`
+  - San Miguel propone a la religiosa el camino de la pequeñez: considerarse la última de las Hijas de la Cruz para ser la más amada de Dios, como los apóstoles. El abajamiento conduce, paradójicamente, al lugar más alto.
+- «Seamos totalmente pequeños y entregados, en la vida y en la muerte, para el bien de esta obra tan visiblemente divina.» — *T. II, c. 265 · a una Hija de la Cruz, 1860* `HC`
+  - San Miguel escribe a una Hija de la Cruz de la comunidad de Campan tras pasar quince días en La Puye, junto a las superioras de la Congregación, donde admiró el cuidado que esta tiene de sus miembros. La invita a la gratitud y a la entrega.
+- «…no tener ante todo y siempre a Dios en vista y luego nuestras reglas que nos llevan a Él.» — *T. II, c. 278 · al P. Alejo Goailhard, 1860* `SCJ`
+  - El destinatario, ecónomo del obispo en Orthez, había desobedecido en un asunto administrativo en ausencia del superior de la casa. San Miguel le reprocha la falta, la atribuye a haber perdido de vista a Dios y las reglas, y toma nota de su arrepentimiento.
+- «¡Oh! ¡qué difícil es comprender las cosas! y sobre todo someterse a Dios.» — *T. II, c. 296 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - En la misma carta, San Miguel lamenta que el superior y su entorno razonen en lugar de obedecer, sustituyendo con su propia prudencia las decisiones de los superiores; advierte que lo dice «para Ud y sobre todo para su entorno».
+- «Trate siempre; diríjase siempre a mí. Nunca tendrá que arrepentirse ni ante Dios, ni ante sus superiores.» — *T. II, c. 307 · al P. Domingo Guilhas, 1861* `SCJ`
+  - Director del colegio Moncade de Orthez, que no lograba entenderse con su nuevo superior, el P. Pierre Barbé, como antes con el difunto P. Serres. San Miguel le aconseja exponerle sus dificultades con franqueza y aplicar el método impreso que le adjunta.
+- «…he visto por todas partes Hijas de la Cruz, muy sencillas, pequeñas, sumisas y unidas entre sí…» — *T. II, c. 313 · a una Superiora de las Hijas de la Cruz, 1861* `HC`
+  - La superiora aludía al viaje de San Miguel a La Puye, donde había conocido a la famosa mística Hna. Apolonia. San Miguel aclara que no fue ella quien lo edificó, sino las Hijas de la Cruz sencillas que encontró por todas partes.
+- «…no tener nada escondido, incluso el corazón.» — *T. II, c. 317 · a un Sacerdote del Sagrado Corazón, 1861* `SCJ`
+  - Advertencia a un religioso que había guardado donaciones y honorarios: en la Sociedad pertenecen a la comunidad y no a los individuos. San Miguel le pide presentarlo todo en las visitas del superior y ser transparente.
+- «Sea cada vez más un hombre serio, de tacto y de valiente y constante obediencia, como es un buen sacerdote.» — *T. II, c. 320 · al P. Juan Ducasse, 1861* `SCJ`
+  - Profesor del colegio de Orthez, inquieto por su papel como confesor y por actuaciones pasadas. San Miguel lo tranquiliza sobre su buena fe, le pide crecer en madurez y obediencia y le recomienda aconsejarse con el superior, el P. Barbé.
+- «…se humille y se vuelva obediente, no hasta la muerte de cruz, sino hasta la observancia de la santa regla…» — *T. II, c. 325 · al P. Domingo Guilhas, 1861* `SCJ`
+  - Director legal del colegio Moncade, que actuaba sin entenderse con su superior, el P. Pierre Barbé. San Miguel le reprocha esa conducta y le asegura que obedecer la regla no limitará su libertad de director, sino que aligerará su carga.
+- «Que obedezca por amor a la voluntad de Dios antes que por todo otro motivo.» — *T. II, c. 329 · al P. Domingo Miégeville, Misionero de Garaison, 1861* `CL`
+  - Misionero de Garaison, amigo y penitente de San Miguel, que lo consultó sobre una superiora de comunidad en conflicto. San Miguel aconseja que ella exponga los hechos por escrito al obispo y acate su decisión, preparándose con siete pasos.
+- «…el auxiliar debe ser ante todo y siempre auxiliar.» — *T. II, c. 330 · al P. Pedro Barbé, Superior del Colegio Moncade, 1861* `SCJ`
+  - San Miguel responde a las quejas del superior de Moncade sobre la organización del colegio de Orthez: eso compete al obispo, y la Sociedad, que se define como «auxiliar», solo debe asociarse y servir, no destruir ni edificar.
+- «…detestar cordialmente en mí y en los nuestros… toda voluntad propia, combatirla y esforzarme por exterminarla… Antes morir que renunciar a esto.» — *T. II, c. 336 · al P. Pedro Barbé, Superior del Colegio Moncade, 1861* `SCJ`
+  - En plena tensión en el colegio de Orthez, tras dos años de división entre los religiosos, San Miguel reclama en Betharram a los PP. Taret y Guilhas y declara su firme decisión de combatir toda voluntad propia.
+- «…Ud sea siempre pequeña, sumisa, feliz, contenta y constante.» — *T. II, c. 347 · a la Hermana Reine..., Hija de la Cruz, 1861* `HC`
+  - Religiosa vasca que, tras muchos años de vida religiosa, tendía a examinar si su vocación era real. San Miguel le prohíbe esos exámenes, que juzga peligrosos, y la anima a perseverar con sencillez.
+- «Deshágase para siempre de esas pequeñeces, que le impiden parecer un hombre serio, como debe serlo, un hombre de Dios, un apóstol…» — *T. II, c. 362 · a un Misionero del Sagrado Corazón, 1862* `SCJ`
+  - Misionero visto paseando con enemigos del párroco y del que se decía que era liviano y dejaría la Sociedad. San Miguel le reconoce dotes para ser su gloria, pero le pide dejar ese aire de camaradería y descontento.
+- «¡Qué profunda humildad, pero justa humildad, qué respeto, qué confianza, qué amor, qué generosidad para las personas y las cosas de la Compañía!» — *T. II, c. 368 · Carta circular, 1862* `SCJ`
+  - San Miguel propone como modelo a san Francisco Javier, que escribía de rodillas a su superior y llevaba consigo los nombres de sus compañeros; admira su amor a la Compañía, que crecía al ver los males de la comunidad.
+- «…toda sociedad religiosa es una reunión de hombres gobernados por otros hombres que están en el lugar de Dios, pero que son siempre hombres…» — *T. II, c. 369 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1862* `SCJ`
+  - Al superior del seminario de Oloron, en la crisis de 1862: algunos religiosos se manifestaban públicamente contra un superior. San Miguel ve en ello una peste que haría imposible toda vida religiosa, pues los superiores tienen miserias humanas.
+- «Ojalá puedan comprender por fin la voluntad de Dios en la regla y la obediencia.» — *T. II, c. 391 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1863* `SCJ`
+  - Enero de 1863, en el seminario de Olorón: un joven religioso se negaba a obedecer y otros novicios mostraban malos hábitos. San Miguel pide amenazar con la expulsión si persisten y lamenta que todavía no vean en la regla la voluntad de Dios.
+- «…para nosotros, su voluntad, sea cual fuere, es la voluntad de Dios mismo.» — *T. II, c. 393 · a un Sacerdote del Sagrado Corazón, 1863* `SCJ`
+  - Marzo de 1863: San Miguel recomienda a un religioso de Betharram el mayor respeto hacia el obispo. Admite que una carta del prelado cambió su propio parecer y pide respeto y obediencia tanto interior como exterior.
+- «…sólo deseo abandonarme enteramente en su decisión. Así, su voluntad será mi voluntad; permaneceré o me iré…» — *T. II, c. 398 · al Canónigo Pouré, 1863* `CL`
+  - Su obispo pensaba nombrar párroco de Laruns a este profesor del seminario de Bayona, amigo de San Miguel, que le pidió consejo. San Miguel le propone una respuesta: entregarse por completo a la decisión del obispo. Él la recibió “como un oráculo del Cielo”.
+- «Todos los nuestros, para quedar en la Congregación, deben siempre abandonar en sus Superiores la libre disposición de su persona.» — *T. II, c. 399 · al P. Antonio Carrérot, 1863* `SCJ`
+  - Mayo de 1863, quizás la última carta de San Miguel, dictada pocos días antes de morir. Un Hermano se negaba a aceptar su destino y amenazaba con irse. San Miguel recuerda al ecónomo de Olorón que quien rechaza disponer de sí por obediencia no puede quedarse.
+- «Se hace mejor lo que se hace y con más mérito; por eso cada acto nace de su virtud, y además, de su obediencia, en vez de nacer de una pasión…» — *T. II, c. 402 · Carta circular* `SCJ`
+  - Circular sin fecha sobre el “orden común” (cada cosa a su tiempo y en su lugar) y el “orden privado” (cada uno cumple su oficio). San Miguel explica que actuar así da más fruto y más mérito, porque se obra por virtud y obediencia y no por capricho.
+- «Cuánto deseo no tener ni siquiera el aire de estar en contradicción con la voluntad de Monseñor. Sólo quiero conocerla para cumplirla.» — *T. II, c. 410 · a un Superior* `SCJ`
+  - El obispo de Bayona seguía siendo el superior jerárquico de la congregación. San Miguel quiere conocer su voluntad para cumplirla, de modo que ningún religioso pueda desobedecerle diciendo que el obispo piensa otra cosa.
+- «…Superior o inferior, párroco o profesor, nunca será mejor lo que es, que observando fielmente los votos y las reglas de la Sociedad.» — *T. II, c. 415 · a un Superior* `SCJ`
+  - San Miguel critica a un religioso que actuaba como si su cargo lo eximiera de la regla. Le recuerda que cualquiera que sea su puesto (superior, párroco o profesor) debe cumplir ante todo los votos y las reglas, para evitar conflictos y escándalos.
+- «La Iglesia no se rige por los ejemplos, sino por las reglas.» — *T. II, c. 429 · a un Sacerdote del Sagrado Corazón* `SCJ`
+  - A un religioso de Betharram que mostró franqueza, a quien San Miguel le pide aplicar fielmente unas prácticas impresas que le envía (el “Método para conocer y seguir la voluntad de Dios”). La frase latina responde a quien se guía por lo que hacen otros.
+- «Haga, pues, lo que ellas dicen, todo lo que los responsables de ellas le dicen, y luego verá el agua cambiada en vino delicioso.» — *T. II, c. 429 · a un Sacerdote del Sagrado Corazón* `SCJ`
+  - San Miguel alude a las bodas de Caná: si el religioso cumple las reglas y lo que le indican sus superiores, verá transformarse lo que ahora le cuesta. Espera su respuesta después de que haya examinado su conciencia.
+- «Sea pequeño, sumiso, contento y constante, y Dios lo bendecirá…» — *T. II, c. 443 · a un Hermano del Sagrado Corazón* `SCJ`
+  - Un Hermano de la congregación de Betharram había escrito a San Miguel que quería vigilar su carácter y progresar. San Miguel se alegra y le da una receta breve que repite en otras cartas a los Hermanos.
+- «…hasta aquellos que son los más iluminados, sabios, santos y hábiles para conducir a los demás, necesitan ser conducidos.» — *T. II, c. 452 · a un antiguo Miembro de la Sociedad* `CL`
+  - A un antiguo religioso de la congregación que había enviado dinero para misas. San Miguel le desea gustar de lo recto y obedecer por amor y no por miedo, y recuerda que hasta los guías más sabios necesitan que otro los guíe.
+- «¡Ah! Si hubiéramos llegado a estar totalmente despojados de nosotros mismos, y de no tener más autoridad que la de Dios y la de los Superiores…» — *T. II, c. 460 · a la Hermana M…, Hija de la Cruz* `HC`
+  - Una religiosa temía que otra hermana hubiera interceptado y leído una carta suya. San Miguel le aconseja hablar con alguien de confianza y aferrarse a la obediencia, y suspira por un desprendimiento total de sí misma.
+- «¡Oh! Es una gran gracia ver sus propias miserias; diga: Dios mío, ten piedad de mí.» — *T. II, c. 466 · a una Hija de la Cruz* `HC`
+  - San Miguel respondió entre líneas a la carta de una religiosa con nueve años de vida consagrada que se juzgaba con dureza y faltaba a la caridad. Le dice que reconocer las propias miserias es una gracia y le da una oración breve.
+- «No decida nada sin la opinión y el acuerdo de su obispo; es la manera de atraer las bendiciones de Dios.» — *T. II, c. 476 · a una Desconocida* `LA`
+  - Consejo práctico de la misma carta: informarse bien antes de elegir una congregación fervorosa y no decidir nada sin el obispo, cuya aprobación ve San Miguel como el camino para atraer la bendición de Dios.
+- «¡Qué dulces alegrías me causan las Hermanas humildes en mis visitas!» — *T. III, c. 17bis · a la Hermana Marta, Hija de la Cruz* `HC`
+  - Carta a la superiora del convento de las Hijas de la Cruz de Igon (1839-1840). San Miguel, que visitaba sus casas como confesor extraordinario o visitador, le pide formar Hermanas humildes, pues las vanidosas son una pesada cruz.
+- «…una oscuridad, una esterilidad, incluso fracasos en que nos vemos envueltos por obediencia. Es el maná desgraciadamente escondido aún para varios.» — *T. III, c. 490 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - El superior de los religiosos en Buenos Aires había apoyado un pedido colectivo del título de Misionero Apostólico, que San Miguel rechaza. Lamenta que no sepan aceptar las oscuridades y fracasos vividos por obediencia.
+- «¿Por qué no limitarse a ejercer la inmensidad de la caridad en los límites de su función?» — *T. III, c. 490 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - San Miguel reprocha que los religiosos de Buenos Aires firmaran un pedido colectivo que le correspondía hacer a él como superior, y los invita a vivir la caridad sin límites dentro de las tareas que se les confiaron.
+- «…obedecer sin tardanza, sin reserva, sin vuelta atrás, por amor antes que por cualquier otro sentimiento.» — *T. III, c. 494 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - San Miguel presenta al superior de Buenos Aires la obediencia según las Reglas como el medio para construir el reino de Dios en la comunidad; fue el tema de su conferencia semanal en Betharram.
+- «…no necesito decirle de antemano que quiero todo lo que Su Excelencia juzgue conveniente.» — *T. III, c. 502 · a Mons. Lacroix, 1860* `CL`
+  - Carta de enero de 1860 al obispo de Bayona, del que dependía Betharram. San Miguel le propone soluciones para el servicio militar de dos Hermanos y cambios de personal, pero se pone por entero en sus manos.
+- «…que se abandone en la obediencia, que presenta toda garantía, en la religión y en el buen sentido.» — *T. III, c. 503 · al P. Larrouy, 1860* `SCJ`
+  - San Miguel pide a un antiguo compañero de los inicios de Betharram que ayude con dulzura a un joven religioso que se creía perseguido por enemigos y sociedades secretas, y que temía que su futuro se malograra.
+- «…¿no es mejor perecer obedeciendo y extendiendo el reino de la divina obediencia?» — *T. III, c. 512 · al P. Diego Barbé, Superior del Colegio San José, 1860* `SCJ`
+  - Carta de 1860 al superior del colegio de Buenos Aires contra el espíritu que dice «non serviam» (no serviré). San Miguel propone como verdadera reforma vivir y difundir la obediencia, aun a costa de la propia vida.
+- «Nuestro enemigo nunca habría invadido el terreno de los mandamientos, si la muralla de nuestras santas Reglas hubiese sido defendida.» — *T. III, c. 513 · a un desconocido, 1860* `LA`
+  - Carta de 1860, escrita en nombre del superior afligido, a un religioso no identificado que había caído en una falta grave. Le pide observar escrupulosamente las Reglas, que protegen los mandamientos como una muralla.
+- «…se queda abatido, en cuanto se toca el ídolo que se hace de la obra de Dios mismo…» — *T. III, c. 516 · al P. Víctor Paradis, 1860* `SCJ`
+  - El religioso destinado al orfanato de Pau se dedicaba con pasión a una obra con militares y se desanimaba cuando sus superiores lo contrariaban. San Miguel ve en ello una forma de poner su voluntad en lugar de la de Dios.
+- «Que nunca será mejor ecónomo que siendo buen religioso.» — *T. III, c. 519 · al P. Alexis Goailhard, 1860* `SCJ`
+  - El ecónomo de Orthez sentía, con convicción de deber, que debía oponerse a su superior. San Miguel le explica que la fidelidad religiosa y la obediencia no perjudican su función, sino que la mejoran.
+- «…sólo hace falta un poco más de coraje, de humildad y de caridad.» — *T. III, c. 519 · al P. Alexis Goailhard, 1860* `SCJ`
+  - San Miguel anima al ecónomo de Orthez, en conflicto con su superior, asegurándole que le es fácil ser buen religioso en su cargo si añade más coraje, humildad y caridad.
+- «…haga todo lo que el P. Vignau le ordene o le permita a este respecto, ni más ni menos. Y Dios lo bendecirá.» — *T. III, c. 523 · al P. Víctor Paradis, 1860* `SCJ`
+  - El religioso encargado del orfanato de Pau quería seguir atendiendo a los soldados del hospicio por su cuenta. San Miguel le pide someterse totalmente a su superior local en esta obra.
+- «…saber callarse y hablar cuando y como hace falta…» — *T. III, c. 533 · al P. Juan Hayet, 1860* `SCJ`
+  - San Miguel aconseja al ecónomo del seminario de Olorón, afectado por un conflicto interno, actuar como buen religioso: callar y hablar a tiempo y avanzar en la obediencia a su superior según las Reglas de San Ignacio.
+- «…rechazando lo que imagina ver, renunciar a la visión y vivir por la fe. El justo vive por la fe.» — *T. III, c. 536 · a Pedro Sagorre* `SCJ`
+  - Indicación firmada para un joven religioso que se creía perseguido. San Miguel lo considera incapaz, en esas circunstancias, de distinguir lo verdadero de lo falso, y le pide orar, obedecer a su superior y vivir de fe.
+- «Cor humilis (Corazón humilde), es decir, instrumentos escondidos, obedientes, exultavit tarde o temprano. Es seguro.» — *T. III, c. 541 · al P. Domingo Guilhas, 1861* `SCJ`
+  - Al final de su carta, San Miguel asegura al joven director de Orthez que los instrumentos humildes y obedientes terminan exultando, y le da como prueba la historia de Betharram y de la misión en Buenos Aires.
+- «Sólo la ausencia del espíritu de humildad y de caridad, de obediencia y de entrega… divide, paraliza y arruina esa obra.» — *T. III, c. 545 · al P. Pedro Barbé, superior del Colegio Moncade, 1861* `SCJ`
+  - En el colegio Moncade de Orthez había divisiones y críticas entre los religiosos y profesores. San Miguel atribuye la crisis no a causas externas, sino a la falta de espíritu religioso entre los mismos miembros de la comunidad.
+- «…apoyados no en nuestros hombros, sino en la fuerza de la santa obediencia, con gusto aceptaremos toda tarea y la cumpliremos bien.» — *T. III, c. 550 · al P. Angelin Minvielle, superior del Seminario de Olorón, 1861* `SCJ`
+  - Frase en latín de las Reglas que era el tema de la conferencia que San Miguel daba ese día a la comunidad de Betharram; la comparte con el superior de Olorón en el contexto de cambios de personal.
+- «…se humille y se vuelva obediente, no hasta la muerte de la cruz, sino hasta la sencilla observancia de nuestras santas Reglas.» — *T. III, c. 553 · al P. Domingo Guilhas, 1861* `SCJ`
+  - San Miguel exhorta al P. Guilhas, enfrentado a su superior en Moncade, a reconciliarse y a cumplir las Reglas, que lejos de limitar su libertad en sus cargos, le harían liviana la carga.
+- «El hombre obediente logra la victoria.» — *T. III, c. 553 · al P. Domingo Guilhas, 1861* `SCJ`
+  - Cierre de una carta severa en la que San Miguel reprocha al P. Guilhas haber excedido sus atribuciones frente a su superior en Moncade; la cita bíblica resume la lección: la obediencia es el camino del éxito.
+- «Aquí, ¿por qué no observar la Regla? Observándola, tendrá siempre razón ante mí, ante Monseñor, ante Dios y ante los hombres.» — *T. III, c. 557 · al P. Pedro Barbé, superior del Colegio Moncade, 1861* `SCJ`
+  - Carta muy dura al superior de Moncade, que no había cumplido las órdenes de San Miguel sobre el reparto de funciones con el P. Guilhas. San Miguel le cuenta su propia experiencia: cumplía su tarea, avisaba y dejaba las decisiones a quien le correspondían.
+- «Es una decisión mía odiar cordialmente en mí y en los demás… toda voluntad propia, combatirla y exterminarla en cuanto de mí depende.» — *T. III, c. 561 · al P. Pierre Barbé, superior del Colegio Moncade, 1861* `SCJ`
+  - Breve nota al superior de Moncade, donde, pese a tantas órdenes formales, seguían los desacuerdos. San Miguel manda volver a Betharram a dos religiosos y declara que, mientras sea superior, combatirá toda voluntad propia.
+- «…obedecerle a usted como a Dios mismo, con el mismo respeto, el mismo amor, la misma entrega, la misma alegría, la misma constancia…» — *T. III, c. 576 · a la Madre Ágata, Superiora de las Damas de Saint-Maur, 1861* `CL`
+  - Primera superiora del internado de las Damas de Saint-Maur en Orthez; tras la muerte del P. Serres, su director, no se entendía con el nuevo capellán, el P. Pedro Barbé. San Miguel explica que este debía ayudar a las religiosas a obedecerle a ella como a Dios.
+- «Pero como yo no estaba encargado oficialmente y era el último, avisaba, y luego yo quedaba tranquilo y feliz.» — *T. III, c. 586 · al P. Juan Hayet, 1862* `SCJ`
+  - El P. Hayet, ecónomo de Olorón, preguntaba cómo corregir los desórdenes. San Miguel le cuenta que, cuando era profesor y ecónomo en Betharram, avisaba al superior y luego dejaba la decisión en sus manos, quedándose en paz.
+- «¡Hay que ser, pues, desgraciado para sufrir dificultades cuando se está al abrigo de toda dificultad!» — *T. III, c. 611 · al P. Honoré Taret, 1862* `SCJ`
+  - El P. Taret decía encontrar grandes dificultades en las Reglas. San Miguel responde con ironía que estas se explican a menudo y que él siempre está disponible para resolver dudas.
+- «La mejor receta para ello es ser pequeño, como un niño, sumiso, contento y constante.» — *T. III, c. 618 · al Hermano Fabián, 1862* `SCJ`
+  - Hermano de la comunidad de Buenos Aires (moriría en 1871 atendiendo a enfermos de fiebre amarilla) que le había escrito contando sus dificultades. San Miguel le da esta 'receta' para servir a Dios.
+- «…declarándose delante de Dios y delante de los hombres verdaderos servidores inútiles…» — *T. III, c. 630 · al P. Diego Barbé, Superior del Colegio San José, 1863* `SCJ`
+  - Continuando su saludo de Año Nuevo, San Miguel explica cómo vivir con sobriedad, justicia y piedad. Por último, les pide considerarse simples servidores ante Dios y los hombres, según el Evangelio.
+- «¿Por qué estar pendiente de la opinión de los hombres, que es tan voluble?» — *T. III, c. 636 · al P. Andrés Casaubon, 1863* `CL`
+  - Sacerdote de pasado difícil que, tras un tiempo con los benedictinos, había retomado la tarea de párroco y llamaba la atención sobre sí. San Miguel le pide humildad; es uno de sus últimos mensajes, días antes de su muerte en 1863.
+
+## 3. Amor de Dios y Sagrado Corazón
+
+*Dios que ama primero; el corazón entregado a Jesús solo.* — 29 frases
+
+- «Tú solo, Jesús mío, Tú solo.» — *T. I, c. 2 · a una desconocida* `LA`
+  - Carta temprana (hacia 1827) a una mujer consagrada a Dios que pensaba dejar a su confesor por el afecto que sentía hacia él. San Miguel la disuade de cambiar: en otro confesor hallaría las mismas miserias; su corazón debe ser solo de Jesús.
+- «Un Dios se ha rebajado para elevarnos... Nos ha amado tanto, él primero.» — *T. I, c. 13 · a la Hermana Marie-Raphaelina, superiora de las Hijas de la Cruz, 1836* `HC`
+  - Para que la superiora se gane el afecto de sus Hermanas, San Miguel le propone como modelo a Cristo, que se hizo hombre y sufrió para conquistar los corazones.
+- «Ame, pues, a Dios que la quiere tanto. Sea por siempre fiel a él.» — *T. I, c. 21 · a la Señorita Marie-Claude Saüt, 1843* `LA`
+  - San Miguel le pide corresponder con fidelidad al amor de predilección que Dios le mostró en su decisión. Más tarde su salud no le permitió seguir como religiosa, pero continuó bajo la guía de San Miguel.
+- «¿Por qué la comenzó con esta palabra: Aquí estoy, y no se apartó nunca de esa entrega sin límites? Porque nos amó y estimó mucho.» — *T. I, c. 46 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1847* `HC`
+  - Superiora en Colomiers que pedía consejo para hacerse amar y respetar por sus religiosas. San Miguel le presenta el «amor respetuoso» de Cristo, que se entregó con un «Aquí estoy» porque nos amaba y estimaba.
+- «Persuádase de que Dios la quiere mucho; pero trate de convencerse en serio…» — *T. I, c. 93 · a la Hermana Marie-Timothée, Hija de la Cruz, 1853* `HC`
+  - Carta de enero de 1853 a una Hija de la Cruz que pasaba por cambios de destino y fastidios (menciona Bagnères y Sarrance). San Miguel le asegura que, si se convence del amor de Dios, todo se le volverá amable, incluso la muerte.
+- «Dios solo es el todo de su corazón, por siempre.» — *T. I, c. 122 · a una Superiora de las Hijas de la Cruz, 1856* `HC`
+  - Remedio que San Miguel propone a la superiora ante ese afecto: evitar toda palabra o gesto que pareciera una declaración de amor y poner en Dios toda su esperanza. Le pide que le escriba pronto confirmando su decisión.
+- «Dígase a sí misma: ¡Tanto me amó Dios!... Motivos no nos faltan para decirlo y repetirlo sin cesar.» — *T. I, c. 125 · a la Hermana Marie-Séraphique, Hija de la Cruz, 1856* `HC`
+  - La destinataria, joven superiora en Caraman, de una familia vasca de Barcus muy querida por San Miguel, le había escrito contando las gracias recibidas. Él la invita a reconocer el amor de Dios y a responderle con confianza y generosidad.
+- «Acuérdese que en el cielo tiene también a un Padre, que es al mismo tiempo nuestra madre…» — *T. I, c. 145 · al P. Daniel Cameigt, 1858* `SCJ`
+  - San Miguel recuerda al joven, dividido entre su vocación y su madre, que Dios es para él a la vez padre y madre, cuyos derechos debe respetar, y le pone el ejemplo de Jesús, que en la cruz confió su madre a Juan.
+- «…tiene un corazón y un corazón hecho para amar… es para él solo en primer lugar, y luego para lo que él quiera, y como él quiera…» — *T. I, c. 150 · a la Hermana Marie-Victorina, Hija de la Cruz, 1858* `HC`
+  - Enero de 1858. La religiosa, de una familia de Coarraze muy ligada a San Miguel, le confiaba que tenía un corazón muy afectuoso. Él le recuerda que ese corazón es don de Dios y debe ser ante todo para Él.
+- «Es un muy buen Maestro aquel a quien tiene la suerte de servir, un Maestro que ama a su pequeña servidora y con un amor infinito…» — *T. II, c. 233 · a una Señora, 1860* `LA`
+  - A una mujer que, tras una larga enfermedad, retomaba sus tareas al frente de una pequeña comunidad y al cuidado de su madre, San Miguel le recuerda que sirve a un Maestro que la ama infinitamente y la invita a tratarlo con dulce y santa familiaridad.
+- «…para que nuestro amor se dirija totalmente hacia Aquel que nadie podrá arrebatarnos.» — *T. II, c. 248 · a Doña Raymond Planté, 1860* `LA`
+  - San Miguel explica a la destinataria, en duelo por el P. Serres, que Dios permite estas pérdidas para mostrar la fragilidad de los bienes humanos y romper los apegos, de modo que todo el amor se dirija a Él, a quien nada puede quitarnos.
+- «¡qué no podemos hacer con la ayuda de Dios, sobre todo si lo amamos de todo corazón, con toda el alma, con todo el espíritu!» — *T. II, c. 267 · al P. Juan Bautista Castelnau, Cura de Sarrance, 1860* `SCJ`
+  - San Miguel reconoce al párroco de Sarrance que entenderse con su superior es fácil en el fondo pero difícil en la forma, pues exige humildad, paciencia y moderación; lo anima confiando en lo que puede el amor de Dios.
+- «Dios mío, ten piedad de mí, yo te amo... ¿No me bastarás tú?» — *T. II, c. 314 · a una Hija de la Cruz, 1861* `HC`
+  - San Miguel no pudo visitar, como esperaba, a esta religiosa, probablemente de la comunidad de Jurançon. Le aconseja ofrecer a Dios en silencio lo que le cuesta en su corazón, sin rechazos ni explicaciones, con esta breve oración.
+- «Señor, nadie es Padre como tú, aquí están tus hijos, los hijos de tu Corazón.» — *T. II, c. 342 · al P. Diego Barbé, Superior del Colegio San José, 1861* `SCJ`
+  - Mensaje para el P. Harbustán y los religiosos de la misión del Río de la Plata: San Miguel les dice cuánto los quiere y que varias veces al día los presenta al Corazón de Jesús con esta oración.
+- «Su corazón no será ya más el suyo, sino el Corazón de Jesús…» — *T. II, c. 374 · a una Hija de la Cruz, 1862* `HC`
+  - San Miguel le promete que, si se entrega sin reservas, su vida interior y exterior será la de Jesús, y que eso le resultará más fácil y dulce de lo que el demonio, «el mentiroso», le hace creer.
+- «¡Tú que te abrasas por mí, Corazón de mi dulce Salvador, da al mío por ti el mismo ardor!» — *T. II, c. 388 · a la Hermana Salvinie, Hija de la Cruz, 1862* `HC`
+  - Fórmula de oración que San Miguel dio a una superiora de las Hijas de la Cruz que estaba serena. Le anunció una dura lucha espiritual; ella creyó que la carta no era para ella. Tras la muerte de San Miguel vivió siete años de aridez, tentaciones y sospechas injustas.
+- «Viva siempre Jesús en nuestro corazón; el Otro nunca.» — *T. II, c. 445 · a un Hermano del Sagrado Corazón* `SCJ`
+  - Mensaje en lengua vasca, la lengua materna de San Miguel, para un Hermano. “El Otro” es una forma eufemística de nombrar al diablo.
+- «Como tiene de qué satisfacer plenamente nuestros corazones, quiere también que los volvamos sólo hacia Él y que busquemos en Él nuestro descanso.» — *T. II, c. 468 · a una Religiosa* `CL`
+  - Tercer remedio: renunciar a los consuelos que buscaba fuera de Dios. San Miguel explica que Dios es “celoso”: puede llenar el corazón por completo y quiere que se busque solo en Él el descanso.
+- «Si estamos unidos en nuestro Señor, nos comunicaremos en Él y por Él con todos los que amamos, a pesar del espacio y del tiempo…» — *T. II, c. 473 · a un Enfermo* `LA`
+  - Ante la pregunta de cuándo podrán volver a verse, San Miguel responde que la unión en Cristo permite comunicarse con los seres queridos a pesar de la distancia y del tiempo, que solo separan los cuerpos.
+- «…que su amor se vuelva enteramente hacia aquel que nada podrá arrebatarle.» — *T. II, c. 475 · a una Persona probada* `LA`
+  - San Miguel ve en esa pérdida un aviso de lo frágiles que son los bienes humanos. Le invita a romper con la codicia y a poner todo su amor en Dios, el único bien que nadie podrá quitarle.
+- «Jesús solo es digno de ser elegido.» — *T. II, c. 480 · a una Persona desconocida* `LA`
+  - Borrador sin destinatario claro, dirigido a alguien que vivía una fuerte lucha interior. San Miguel plantea una elección entre Jesús y Satanás, al que describe como un tirano, y propone elegir solo a Jesús.
+- «A Jesús solo, a él me doy y quiero pertenecer sin tardanza, sin reserva y sin volverse atrás.» — *T. II, c. 480 · a una Persona desconocida* `LA`
+  - San Miguel redacta un acto de entrega a Jesús para que esta persona en lucha interior lo haga suyo, seguido de propósitos para rechazar de inmediato las tentaciones volviéndose hacia Cristo.
+- «¡Ah! Con qué ternura debe repetir cada noche esta exclamación: “¡Qué bueno es Dios!» — *T. III, c. 9ter · a una persona del mundo, 1833* `LA`
+  - Carta de 1833 a una mujer laica que había perdido a su madre. San Miguel, de regreso de un viaje a Suiza por salud, se alegra de las gracias que ella recibe y la invita a vivir impregnada del gusto por la bondad de Dios.
+- «…que no haya en usted otra ocupación que la de amar a Dios, que es todo amor.» — *T. III, c. 9ter · a una persona del mundo, 1833* `LA`
+  - La destinataria, una laica de vida piadosa, tendía a volver sobre sus confesiones pasadas. San Miguel le aprueba que no lo haga y le pide dejar dudas e inquietudes, citando a San Juan: «Deus charitas est».
+- «…elija a Dios como el Bien absoluto, único sin que nada pueda desviarlo, ni ningún placer, ni ninguna pena, ni ningún orgullo...» — *T. III, c. 504 · al P. Florent Lapatz, 1860* `SCJ`
+  - San Miguel resume su consejo al joven profesor de Olorón: elegir a Dios como bien absoluto, sin que ningún placer, pena u orgullo lo desvíe. El texto fue luego usado como carta circular para meditar.
+- «Elija a Dios, únase a Él con toda su alma, es sabiduría; sin que ninguna pena lo desvíe, es fuerza; ninguna seducción, es templanza…» — *T. III, c. 506 · al P. Jean Chirou, 1860* `SCJ`
+  - En la serie de cartas del 27 de enero de 1860, San Miguel escribe a un sacerdote de la primera generación de Betharram, que fue su primer asistente, y le desea volver a su antigua inocencia y modestia.
+- «…esta vida de fe y de amor que cambia lo imposible en facilidad, los obstáculos en medios…» — *T. III, c. 541 · al P. Domingo Guilhas, 1861* `SCJ`
+  - San Miguel presenta al joven director del colegio de Orthez la vida de fe y caridad como la fuerza que transforma las dificultades de su cargo en medios para servir a Dios.
+- «Nadie es Padre como tú; aquí están tus hijos, los hijos de tu Corazón.» — *T. III, c. 571 · al P. Diego Barbé, Superior del colegio San José, 1861* `SCJ`
+  - San Miguel cuenta al superior de Buenos Aires que presenta varias veces al día a sus religiosos a Jesús como hijos de su Corazón, con esta oración que comparte con ellos.
+- «…que Jesús viva siempre en tu corazón; el Otro nunca.» — *T. III, c. 612 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Mensaje en vasco que San Miguel envía a un Hermano vasco de la comunidad de Buenos Aires; 'el Otro' es el demonio.
+
+## 4. Confianza y abandono en Dios
+
+*Hacer lo que se puede y dejar el éxito en manos de Dios.* — 73 frases
+
+- «Este santo abandono debe excluir toda inquietud, todo temor y ensanchar siempre el corazón a través de la confianza y el amor.» — *T. I, c. 3 · a una persona del mundo, 1829* `LA`
+  - En la misma carta, San Miguel la anima a no dejar la comunión aun en la sequedad espiritual y a vivir en confiado abandono, que lejos de angustiar dilata el corazón.
+- «…en las tentaciones, conténtese con lanzar una mirada de confianza y de amor al Corazón de Jesús, sin mirarlos ni combatirlos directamente.» — *T. I, c. 4 · a una persona del mundo (la misma persona), 1829* `LA`
+  - Consejo práctico para las tentaciones: no enfrentarlas de frente ni analizarlas, sino volverse con confianza al Corazón de Jesús. En la misma línea, le pide moderar sus deseos de perfección.
+- «Así, pues, confianza y abandono sin límites en las manos de tan buen Señor.» — *T. I, c. 6 · a una persona del mundo, 1830* `LA`
+  - San Miguel le pide no hacer confesiones generales y cuidar sobre todo la paz recibida; el medio seguro es decir «Sí, Jesús» en toda prueba, como Jesús decía «Sí, Padre».
+- «Dios Padre les permite desear y pedir el alejamiento del cáliz que les presenta, pero sus corazones le deben un abandono total y filial.» — *T. I, c. 24 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1844* `HC`
+  - La comunidad de Colomiers sufría calamidades y había encargado misas y una novena a la Virgen en Betharram. San Miguel promete rezar, pero las invita a someterse a la Providencia, como Jesús ante el cáliz en Getsemaní.
+- «Señor, no soy capaz, no soy digna…; pero una palabra tuya y seré digna y capaz.» — *T. I, c. 46 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1847* `HC`
+  - Oración inspirada en las palabras del centurión (Mt 8,8), para quien se sabe incapaz pero se apoya en Dios; San Miguel la propone como manera de «ir sencillamente a Dios».
+- «Vivamos y muramos con ese doble sentimiento de profunda humildad y confianza plena de amor y abandono.» — *T. I, c. 46 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1847* `HC`
+  - Final de la carta: San Miguel une humildad (no apoyarse en sí) y confianza total (prestarse a todo), y pide que esta parte se copie para otra Hermana.
+- «Gloria a Dios en el Cielo, y paz a los hombres de buena voluntad, por más pecadores que sean...» — *T. I, c. 52 · a una Hija de la Cruz, 1847* `HC`
+  - Breve nota de diciembre de 1847 a una Hija de la Cruz que se sentía impotente. Cerca de Navidad, San Miguel le recuerda que todo lo puede en Cristo y que la paz anunciada por los ángeles es también para los pecadores.
+- «Sí, Dios me colocó en este lugar; cuanto menos puedo yo mismo, más puedo en aquel que me conforta.» — *T. I, c. 59 · a la Hermana Saint-Jerôme, Hija de la Cruz* `HC`
+  - San Miguel le devuelve su carta con anotaciones numeradas; ella se sentía incapaz en su puesto. Le pide reemplazar sus lamentos por el Salmo 22 («Dios es mi pastor») y apoyarse en la fuerza de Dios.
+- «Que su confianza en Dios no le falle nunca, y le aseguro que su bendición la acompañará siempre.» — *T. I, c. 62 · a la Reverendísima Hermana Saint-Sabinien, Hija de la Cruz, 1849* `HC`
+  - La religiosa acababa de asumir un puesto importante en la comunidad de Ustarritz y vivía ya en paz respecto de su pasado. San Miguel ve en ello un cuidado especial de la Providencia.
+- «La duración es secreto, es asunto de Dios; tenemos que dejársela a Dios…» — *T. I, c. 67 · a un Sacerdote del Sagrado Corazón, 1850* `SCJ`
+  - San Miguel le hace ver que sus preocupaciones por el futuro de la obra la comprometen más que nada: cuánto dure una obra solo le toca a Dios.
+- «…no le ocurrirá nada que Dios no haya previsto y querido para usted.» — *T. I, c. 77 · a una Hija de la Cruz, 1850* `HC`
+  - San Miguel le asegura que, si se entrega a ese desprendimiento, estará contenta con todo, pues nada le ocurrirá fuera del designio de Dios.
+- «Haga lo que pueda hacer, lo mejor que sepa hacerlo y luego, espere todo de Dios, como servidora abnegada e inútil…» — *T. I, c. 97 · a una Superiora de las Hijas de la Cruz, 1854* `HC`
+  - Tras responder sus dudas sobre la comunión, el silencio y las quejas contra el párroco, San Miguel anima a esta superiora, que tendía a encerrarse y entristecerse, a hacer lo posible y dejar el resultado en manos de Dios, como el «siervo inútil» del Evangelio.
+- «…mucha confianza en Dios y quédese tranquila que la bendecirá según la medida de su confianza.» — *T. I, c. 97 · a una Superiora de las Hijas de la Cruz, 1854* `HC`
+  - Cierre de la carta a una superiora inquieta por sus faltas y dudas de conciencia. San Miguel le pide ánimo y un corazón más amplio, y le asegura que está en una hermosa posición para hacer mucho bien.
+- «¿Tiene miedo hasta de Dios? Échese en sus brazos; es la única conducta razonable…» — *T. I, c. 107 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1854* `HC`
+  - A una religiosa que llegaba a temer incluso a Dios, San Miguel le recuerda que Él se hizo niño y pan cotidiano para inspirar un espíritu filial, y le pide tratarlo con confianza, «de igual a igual».
+- «Nuestra fe en Dios debe ser sin límites; debemos sobre todo esperar en los asuntos desesperantes.» — *T. I, c. 111 · Carta Circular, 1855* `SCJ`
+  - Uno de los principios de esta circular sobre la vida interior, escrita en años de epidemias, penuria y duelo para Betharram. San Miguel pide una confianza en Dios que no se rinde ni en las situaciones más desesperadas.
+- «Pero todo irá bien, mientras lo quiera Dios.» — *T. I, c. 118 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1856* `HC`
+  - Comentario sobre su propia salud: desde 1853 San Miguel sufría ataques de congestión cerebral, y a comienzos de 1856 había vuelto a correr peligro. Lo relativiza con esta confianza en la voluntad de Dios.
+- «Busque en primer lugar el reino, la voluntad de Dios, y deje que Dios cuide de lo demás.» — *T. I, c. 123 · a la Hermana Lucie, Hija de la Cruz, 1856* `HC`
+  - Diciembre de 1856. La religiosa, dirigida por San Miguel durante catorce años, le exponía inquietudes de conciencia que él atribuye a maquinaciones del demonio. Le asegura que no necesita confesarlas y le recuerda el consejo evangélico.
+- «Preocúpese de lo principal, que nunca pasará, y Dios mismo se ha encargado de darle lo accesorio que pasa muy de prisa.» — *T. I, c. 124 · a una Hija de la Cruz, 1856* `HC`
+  - Quizás la misma superiora de cartas anteriores. A fines de 1856, tras el cólera, malas cosechas y amenaza de hambre, las preocupaciones eran grandes; San Miguel le pide atender ante todo a sus votos y reglas y confiar el resto a Dios.
+- «Si es asunto de Dios, está en muy buenas manos.» — *T. I, c. 124 · a una Hija de la Cruz, 1856* `HC`
+  - En la misma carta, San Miguel tranquiliza a una superiora inquieta en un año de miseria y epidemias: si lo que la preocupa es asunto de Dios, Él se ocupará; a ella le toca seguir haciendo su voluntad.
+- «Siempre habrá, con la gracia de Dios, manera de resolver el problema convenientemente.» — *T. I, c. 133 · al P. Pedro Barbé, Superior del Colegio Moncade, 1857* `SCJ`
+  - Marzo de 1857, en plena epidemia de tifus. El superior del colegio de Orthez enfrentaba enfermos y la suspensión de clases aconsejada por el médico. San Miguel lo anima con el ejemplo de su antiguo maestro, que salvó el seminario de Dax en tiempos peores.
+- «…hay que huir hacia Dios… y abandonarse filialmente en Dios; hay que decirle: Dios mío, tu hija es perseguida; ten piedad de mí, sálvame.» — *T. I, c. 144 · a la Hermana Saint-Sébastien, Hija de la Cruz, 1857* `HC`
+  - Diciembre de 1857. La religiosa le había contado el afecto natural y recíproco que sentía por otra hermana, mezclado a veces con impresiones impuras. San Miguel le enseña a refugiarse en Dios con esta oración y luego no pensar más en ello.
+- «Todo lo debe amar en Dios; debe abandonar todo a su voluntad…» — *T. I, c. 147 · al P. Daniel Cameigt, 1858* `SCJ`
+  - San Miguel le reprocha haber postergado su ingreso por su madre, y solo admite como excusa válida su minoría de edad. Le pide amar todo en Dios: es el único modo de serle útil a ella y a sí mismo.
+- «…abandonando totalmente en su muy buena Providencia el cuidado del éxito o del fracaso… como verdadera servidora dócil pero inútil.» — *T. I, c. 159 · a la Hermana Marie-Victorina, Hija de la Cruz, 1858* `HC`
+  - Julio de 1858. San Miguel nota en la carta de esta religiosa, destinada en Hagetmau, que no es tan feliz como él desearía. Le aconseja cumplir sencillamente sus deberes, dejando a Dios el éxito o el fracaso, y le dice cómo exponer sus deseos a los superiores.
+- «Es un deber de conciencia para mí y para Ud, no descuidar lo que podemos y luego que sea lo que Dios quiera.» — *T. II, c. 183 · al P. Honorato Serres, 1859* `SCJ`
+  - El P. Serres, director del colegio Moncade de Orthez y muy querido por San Miguel, cayó enfermo en la primavera de 1859. San Miguel lo llama a Betharram para cuidarlo personalmente y hasta le ofrece pagar un viaje costoso apenas mejore el tiempo.
+- «Adelante, Dios tiene sus miras; adelante, sea lo que Dios quiera”.» — *T. II, c. 188 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - El obispo de Buenos Aires recibía con reservas a los misioneros franceses, aceptados solo como sacerdotes auxiliares. San Miguel recuerda que él y sus compañeros pasaron por lo mismo en Betharram en 1832 y pide responder con confianza en la Providencia, no con quejas.
+- «Recemos, lloremos, y llevemos el peso del día y del trabajo, con humildad y con un entero abandono en Dios…» — *T. II, c. 231 · al P. Diego Barbé, Superior del Colegio San José, 1859-1860* `SCJ`
+  - Misma carta: ante las cargas del gobierno, San Miguel propone rezar, aceptar las penas y trabajar con humildad, convencido de que es Dios quien gobierna todo y de que, por eso, nada les faltará.
+- «…rece y actúe con paciencia, constancia y prudencia… y verá que Dios acaba lo que comienza. Ninguna inquietud; abandono total en Dios.» — *T. II, c. 232 · a una Señorita, 1860* `LA`
+  - San Miguel estima que el padre de la joven se opone por errores sobre la vida religiosa, no por tiranía. Le aconseja disipar esos prejuicios con oración, paciencia y prudencia, y cuidar que el padre no sepa que él le ha escrito.
+- «¡Adelante siempre! a través de todo lo que Dios permite para instruir, ejercer, manifestar a sus elegidos...» — *T. II, c. 242 · a un Superior, 1860* `SCJ`
+  - Fragmento de una carta a un superior de comunidad que atravesaba dificultades. San Miguel le presenta las pruebas como algo que Dios permite para formar y dar a conocer a sus elegidos, y lo exhorta a no detenerse.
+- «Nuestro Dios nunca está perdido para los que le pertenecen, y no perderá a los suyos.» — *T. II, c. 248 · a Doña Raymond Planté, 1860* `LA`
+  - Viuda de Orthez cuyo hijo Adrien había sido alumno del P. Honoré Serres; no se consolaba de la muerte de este sacerdote, su director espiritual, fallecido en febrero de 1860. San Miguel la consuela con palabras inspiradas en san Agustín.
+- «Menos confianza en los medios humanos y más espíritu religioso, es todo…» — *T. II, c. 253 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - El superior del colegio Moncade de Orthez pedía a San Miguel más medios para su obra en dificultades. San Miguel, enfermo y ausente, responde que no faltan recursos sino fe y espíritu religioso, citando al predicador Bourdaloue.
+- «Reflexionar, pues, actuar y rezar, y luego abandonar todo a Dios.» — *T. II, c. 253 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Conclusión de la misma carta: el método en tres pasos (reflexionar, actuar, rezar) seguido del abandono en Dios, que San Miguel recomienda a toda la comunidad de Orthez y en especial al ecónomo, P. Goailhard.
+- «…mantendrá la palabra que dio con libre y sincera voluntad, y Dios la guardará, y lo que Dios guarda está muy bien guardado.» — *T. II, c. 262 · a una Hija de la Cruz, 1860* `HC`
+  - A una Hija de la Cruz preocupada por asuntos de sus hermanos y cuñada, San Miguel le recuerda que el aprecio por su vocación es su mayor gracia y la anima a ser fiel a los votos que hizo libremente, confiando en la protección de Dios.
+- «…el sentimiento de su nada y sus miserias que Él cultiva en Ud, al mismo tiempo que esa confianza filial en la misericordia divina.» — *T. II, c. 280 · a una Hija de la Cruz, 1860* `HC`
+  - San Miguel responde a una carta de una Hija de la Cruz y bendice a Dios por dos disposiciones que ve crecer en ella y que considera complementarias: la conciencia de la propia pequeñez y la confianza filial en la misericordia de Dios.
+- «…haciendo en Ud el vacío de lo creado, y tenga por cierto que Dios lo colmará con sus dones y de sí mismo…» — *T. II, c. 310 · al P. Eugenio Peyret, 1861* `SCJ`
+  - Joven escolástico, todavía no ordenado y profesor en Oloron, que había escrito a San Miguel con entusiasmo: «Nada espero de mí, sino todo de Dios». San Miguel lo anima a vaciarse de lo creado, considerándose «siervo inútil».
+- «Siga ayudándose en ese sentido y Dios la ayudará; terminará en Ud lo que empezó tan bien.» — *T. II, c. 316 · a la Hermana Séraphia, Hija de la Cruz, 1861* `HC`
+  - San Miguel bendice a Dios por las buenas resoluciones que la religiosa le contó en una carta que le dio mucha alegría, y le asegura que su felicidad hará felices a sus superioras y a sus hermanas de sangre, también Hijas de la Cruz.
+- «…del lado de Dios nada les falta para eso, y nada les faltará, porque Dios las gobierna…; les basta quererlo…» — *T. II, c. 323 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1861* `HC`
+  - Religiosa presentada por San Miguel al noviciado, luego maestra de novicias en La Puye y superiora, que creía que él la había olvidado. San Miguel le cita la carta de otra Hija de la Cruz feliz en su vocación y desea que todas lo sean.
+- «El Señor gobierna visiblemente a esta alma y no tiene nada que temer; nada le falta.» — *T. II, c. 328 · a un Director de Almas, 1861* `CL`
+  - Conclusión de San Miguel sobre el sacerdote probado: los favores que ha recibido muestran que Dios lo guía, por lo que puede repetir con confianza el Magnificat y «el Señor me dirige».
+- «Esto debe comprometernos a no descuidar lo que Dios quiere y esperar todo el bien de Dios solo.» — *T. II, c. 335 · al P. Diego Barbé, Superior del Colegio San José, 1861* `SCJ`
+  - San Miguel comunica a Buenos Aires el éxito del seminario de Oloron: catorce de quince candidatos aprobaron el bachillerato y el decano de la Facultad de Burdeos elogió su preparación. Lo presenta como estímulo, no como mérito propio.
+- «Un tan buen Padre, un tal Amigo nos gobierna, ¿que nos puede faltar?» — *T. II, c. 348 · a la Hermana Sophie-Flavie, Hija de la Cruz, 1861* `HC`
+  - Religiosa nacida en Pau, recién llegada a la región, afligida por escrúpulos sobre conversaciones poco caritativas que la llevaban a omitir la comunión. San Miguel la tranquiliza: es la hija amada de Dios, que la guía.
+- «…todo lo que le sucede, interior y exteriormente, es por una disposición particular de su Providencia.» — *T. II, c. 352 · a la Hermana Seraphia, Hija de la Cruz, 1862* `HC`
+  - San Miguel responde a una carta en la que esta religiosa vasca le abría su alma; le asegura que todo lo que vive, por dentro y por fuera, es obra de la Providencia, que la trata como amiga y esposa.
+- «Acepte todo lo que pueda sucederle de consuelo y desconsuelo como viniendo de la mano del mejor de los amigos, de Dios mismo.» — *T. II, c. 352 · a la Hermana Seraphia, Hija de la Cruz, 1862* `HC`
+  - Consejo de San Miguel ante la alternancia de consuelos y desolaciones interiores: recibirlos como venidos de Dios, el mejor amigo. Le recomienda además la guía de la Hna. Lucía, que estaba cerca de ella.
+- «Déjese dulcemente caer en los brazos acogedores de su Padre Celeste, que se digna honrarla con su presencia íntima, noche y día, sin cesar.» — *T. II, c. 371 · a una Hija de la Cruz, 1862* `HC`
+  - San Miguel responde punto por punto a las numerosas preguntas y escrúpulos de una religiosa y, en la posdata, le reprocha sus «vueltas al pasado». Le comparte la meditación que hizo esa mañana sobre el abandono en Dios.
+- «…no se preocupe por nada, ni por su debilidad, porque Dios será su fuerza, ni por sus pecados mismos…» — *T. II, c. 371 · a una Hija de la Cruz, 1862* `HC`
+  - Siguiendo esa meditación sobre el abandono, San Miguel le asegura que el acto de entregarse confiadamente a Dios, bien hecho, borra todos los pecados; por eso no debe inquietarse ni por su debilidad.
+- «…entréguese totalmente a Él con fe y amor, y descanse en Él.» — *T. II, c. 371 · a una Hija de la Cruz, 1862* `HC`
+  - Conclusión de la meditación que San Miguel compartió con esta religiosa escrupulosa: todo se reduce a un acto de entrega confiada, como una niña que se deja llevar en brazos por su Padre.
+- «Caminar imperturbablemente en la vida de abandono en la Providencia. Es la condición única, pero infalible, del mérito, de la solidez, de la paz.» — *T. II, c. 373 · al P. Andrés Cazaubon, 1862* `SCJ`
+  - Sacerdote diocesano retirado en Betharram, abatido por una crisis depresiva. San Miguel le señala dos condiciones para servir a Dios: esperarlo todo del Señor, aun lo más impenetrable, y abandonarse a su Providencia.
+- «…que dirija la barca en ese sentido a través de todas las tempestades, sin que ninguna oscuridad, ninguna noche le esconda esa estrella.» — *T. II, c. 373 · al P. Andrés Cazaubon, 1862* `SCJ`
+  - Con la imagen de una barca en la tormenta, San Miguel desea a este sacerdote deprimido que nunca pierda de vista el abandono en la Providencia, su estrella; si se pierde, advierte, tarde o temprano llega el naufragio.
+- «Puedo todo en el que me fortalece, unida de todo corazón a su adorable Corazón, totalmente abandonada en Él.» — *T. II, c. 374 · a una Hija de la Cruz, 1862* `HC`
+  - San Miguel le explica que la mentira del demonio es decir «puedo solo, sin la gracia», «es imposible» o «es demasiado difícil» (pelagianismo, protestantismo, jansenismo), y le da como respuesta esta frase de san Pablo.
+- «…ayúdese también y el cielo la ayudará.» — *T. II, c. 394 · a la Señorita María Etchandy, 1863* `LA`
+  - San Miguel le envía un impreso, el “Método para conocer y seguir la voluntad de Dios”, para guiar sus decisiones fuera del convento, y le asegura que puede salvarse viva donde viva si pone también su propio esfuerzo.
+- «…una vez que tenemos la conciencia de que hicimos todo lo que pudimos…, paciencia, abandono total en la Providencia y redoblar de celo y de coraje…» — *T. II, c. 408 · a un Superior* `SCJ`
+  - Fragmento sin fecha y de destinatario desconocido. Ante hechos lamentables en una comunidad, San Miguel aconseja no culparse si se hizo lo posible para evitarlos, confiar en Dios y trabajar con más empeño todavía.
+- «…todas esas cosas que le pesan tanto, son parte de las disposiciones de la divina Providencia…» — *T. II, c. 428 · a un Sacerdote del Sagrado Corazón* `SCJ`
+  - Un religioso con problemas se mostró dispuesto a seguir adelante con la ayuda de Dios, y San Miguel se alegra. Le explica que esas cargas son medios para hacerse un buen religioso: callar o hablar a tiempo y avanzar por la obediencia.
+- «Nada de preocupaciones; abandono total del éxito en Dios. Dios sabe sacar el bien del mal.» — *T. II, c. 430 · a un Sacerdote del Sagrado Corazón* `SCJ`
+  - San Miguel recuerda los tiempos pobres de los comienzos de Betharram, con una sopa con babosas, para animar a un religioso desanimado por dificultades materiales. Le pide hacer lo posible y dejar en Dios el resultado.
+- «Menos se cuida ella misma y más Dios la cuida.» — *T. II, c. 468 · a una Religiosa* `CL`
+  - En la misma carta, San Miguel describe a la religiosa ferviente de los primeros años: cuanto menos se ocupa de sí misma, más cuida Dios de ella. Luego muestra cómo la relajación lleva a perder ese consuelo.
+- «…hay que abandonarse, totalmente y de buena fe, en la Providencia divina, y aceptar todo lo que quiera ordenarnos…» — *T. II, c. 468 · a una Religiosa* `CL`
+  - Resumen de los remedios: volver a Dios, cumplir los deberes con exactitud, dejar los alivios vanos y abandonarse a la Providencia, ya sea que Dios prolongue la prueba o la termine cuando quiera.
+- «…nuestro Dios no está nunca perdido para los que le pertenecen, y Dios no perderá a los suyos.» — *T. II, c. 475 · a una Persona probada* `LA`
+  - Carta inspirada en San Agustín a alguien que sufría una pérdida de bienes materiales. San Miguel lo anima a levantarse con la certeza de que Dios nunca se pierde para los suyos.
+- «Por lo demás, confianza. La obra de Dios tiene que ser cumplida.» — *T. II, c. 476 · a una Desconocida* `LA`
+  - Una mujer que acababa de superar una larga enfermedad quería fundar una obra religiosa y buscaba una congregación que le diera personas. San Miguel, desde lejos, no puede indicársela, pero la anima a confiar en que la obra se hará.
+- «…todo sucede para instruirnos y prevenirnos...» — *T. III, c. 17bis · a la Hermana Marta, Hija de la Cruz* `HC`
+  - Escrita tras los crímenes de Vincent Eliçabide, vinculado a la escuela de Betharram, y un incendio en Betharram (abril de 1839). San Miguel llama a desconfiar de uno mismo y lee estos golpes como lecciones de Dios.
+- «Pero una palabra, Dios mío, y seré todo lo que quieras.» — *T. III, c. 85bis · a una religiosa, 1852* `CL`
+  - Carta del 1 de enero de 1852 a una religiosa maestra que se sentía tibia y sentía rechazo en la oración, la confesión y la comunión. San Miguel le asegura que eso no es endurecimiento y le enseña esta oración confiada.
+- «Conozco a mi Padre, me concederá esta palabra» — *T. III, c. 85bis · a una religiosa, 1852* `CL`
+  - San Miguel completa la oración que propone a la religiosa desalentada: tras reconocer su indignidad, debe apoyarse en la certeza de que Dios, que la ama como Padre, no le negará la gracia que necesita.
+- «Adelante con toda confianza... los ojos cerrados...» — *T. III, c. 85bis · a una religiosa, 1852* `CL`
+  - San Miguel pide a la religiosa considerar sus miedos, tensiones e imaginaciones, por terribles que sean, como mentiras del demonio y no tenerlas en cuenta, avanzando en confianza.
+- «Abandono total del éxito en Dios. Dios sabe sacar el bien del mal.» — *T. III, c. 518 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Ante las preocupaciones del superior de Orthez por el éxito del colegio, San Miguel le pide no descuidar nada pero dejar los resultados en manos de Dios, que sabe sacar bien aun de las dificultades.
+- «No descuidar nada y esperar todo de Dios abandonándole todo.» — *T. III, c. 518 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - San Miguel resume al superior de Orthez su actitud ante los problemas del colegio y las tensiones con el ecónomo: hacer todo lo que esté a su alcance y abandonarse por completo a Dios.
+- «Adelante, pues, siempre a través de todo lo que Dios permite para instruir, ejercitar, manifestar a sus elegidos.» — *T. III, c. 544 · a la Señorita María Magdalena de Bonnecaze, 1861* `LA`
+  - San Miguel la anima a perseverar en su vocación en medio de la corrupción del ambiente que la rodea, que él compara con la de Egipto en tiempos de la Sagrada Familia, tema de la meditación de esos días en Betharram.
+- «Tarde o temprano la verdad triunfará: Fatigari potest, vinci non potest (puede cansarse, no puede ser vencida).» — *T. III, c. 545 · al P. Pedro Barbé, superior del Colegio Moncade, 1861* `SCJ`
+  - Ante las críticas y 'sugestiones' que circulaban sobre Moncade, San Miguel asegura al superior que la verdad terminará imponiéndose, y pide que pronto se conviertan quienes llama víctimas de 'alucinaciones satánicas'.
+- «…esperando todo el bien del que es la única fuente, no dejando sin embargo de ayudarse, en la medida de sus fuerzas, para ser ayudado por el cielo.» — *T. III, c. 558 · al señor Conde de Urusky, 1861* `LA`
+  - San Miguel elogia la moderación del conde ante la agitación política y el futuro de Polonia: confiar todo a Dios sin dejar de hacer la propia parte.
+- «Sea muy fiel a él y cada vez más, bien convencido de que nunca se dejará vencer, ni en fidelidad ni en generosidad.» — *T. III, c. 558 · al señor Conde de Urusky, 1861* `LA`
+  - San Miguel ve 'el dedo de Dios' en la vida del conde y lo anima a corresponderle con fidelidad creciente, seguro de que Dios nunca se deja ganar en generosidad.
+- «Todo esto debe animarnos a no descuidar nada de lo que Dios quiere y a esperar todo el bien de Dios solo.» — *T. III, c. 562 · al P. Diego Barbé, superior del Colegio San José, 1861* `SCJ`
+  - Carta al superior de la misión de Buenos Aires con noticias de Betharram: éxitos en el bachillerato del colegio de Olorón, elogiados por el decano de Burdeos, y la visita de los jesuitas de Pau. San Miguel saca de ellas esta conclusión.
+- «Recemos, gimamos y llevemos el peso del día y del trabajo con humildad y con un total abandono en Dios…» — *T. III, c. 590 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Para el superior de Buenos Aires, cansado por el peso del gobierno, San Miguel propone rezar y cargar el trabajo con humildad, confiando en Dios.
+- «…siempre persuadidos que es él quien nos gobierna y que conduce todo y que por consiguiente nada nos faltará.» — *T. III, c. 590 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - San Miguel concluye su aliento al superior de Buenos Aires con la confianza en la Providencia, que gobierna todo, y le da noticias alentadoras sobre los éxitos de los alumnos del colegio.
+- «Abandono en la Providencia y redoblamiento de celo y de ánimo en las tareas.» — *T. III, c. 602 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1862* `SCJ`
+  - Ante la conducta del P. Hayet, que había entregado sus cuentas al obispo con quejas, San Miguel recomienda al superior de Olorón no desanimarse y seguir trabajando con más ganas.
+- «La duración es el secreto, el asunto de Dios, tenemos que abandonarla en Dios, sin suposiciones…» — *T. III, c. 611 · al P. Honoré Taret, 1862* `SCJ`
+  - San Miguel pide al P. Taret, inquieto por el futuro de su obra, dejar en manos de Dios cuánto durará, y no ponerla en riesgo con sus preocupaciones.
+- «Abandónese en la divina Providencia; si cae enfermo, no le faltará nada.» — *T. III, c. 618 · al Hermano Fabián, 1862* `SCJ`
+  - San Miguel tranquiliza a este Hermano que estaba en América: si obedece, no tiene nada que temer, y si enferma, el superior lo cuidará como a todos.
+- «¡Ánimo! El buen Dios hablará cuando y como lo juzgue conveniente.» — *T. III, c. 620 · a Andrés Cazaubon, 1862* `LA`
+  - Sacerdote de pasado difícil que había vivido un tiempo de retiro en Betharram y buscaba entrar con los benedictinos. San Miguel le pide paciencia mientras discierne su camino de vida.
+- «Sin duda nada puede por sí misma, pero puede siempre todo en Jesucristo.» — *T. III, c. 640 · a una Hija de la Cruz* `HC`
+  - Breve mensaje de aliento a una religiosa de las Hijas de la Cruz, congregación de la que San Miguel era capellán, que se sentía impotente. La carta no da más datos sobre ella ni sobre su situación.
+
+## 5. Oración, vida interior y santidad
+
+*Pureza de intención, «un corazón puro y un espíritu recto», vivir con Dios solo.* — 64 frases
+
+- «…le temo a una piedad que necesite, para sostenerse, determinado país y determinadas personas; es la piedad de un niño…» — *T. I, c. 11 · a la señorita Nabarrette, 1834* `LA`
+  - Penitente de San Miguel, vivía en Lasseube llevando la casa de su hermano, joven sacerdote destinado allí, y quería volver a Lestelle porque se aburría. San Miguel le reprocha una piedad que depende del lugar y de las personas.
+- «Es tratando con Dios en la oración que aprendemos a entusiasmarnos en su amor…» — *T. I, c. 13 · a la Hermana Marie-Raphaelina, superiora de las Hijas de la Cruz, 1836* `HC`
+  - San Miguel pide a la superiora ser mujer de oración y formar en ella a sus Hermanas, porque sin trato con Dios no hay celo ni palabras que edifiquen.
+- «Agradar a Dios y edificar al prójimo, es tan grande, es tan bueno.» — *T. I, c. 40 · a una Hija de la Cruz, 1845* `HC`
+  - Hija de la Cruz afligida por una pena y por tentaciones. San Miguel le aconseja despreciarlas, no escucharlas y entregarse a sus deberes por amor a Jesús.
+- «…el más ardiente de todos… es que no sea usted quien vive, sino Jesús que viva en usted.» — *T. I, c. 43 · a la Hermana Reine-Agnès, Hija de la Cruz, 1847* `HC`
+  - Hija de la Cruz enferma, de la que no se tienen otros datos. San Miguel no puede darle aún un reglamento adaptado a su salud y le expresa su deseo más profundo, eco de san Pablo (Gál 2,20).
+- «Nunca le agradamos más a Dios que cuando nos aplicamos a nuestros deberes con tanta más felicidad cuanto menos consuelo y fervor experimentamos.» — *T. I, c. 48 · a una señora, 1847* `LA`
+  - San Miguel le pide no dejar a su confesor ordinario y cumplir sus deberes aunque no sienta consuelo; servir a Dios en la aridez le agrada más.
+- «Las declaraciones no la convertirán; pero un corazón puro y un espíritu recto le harán evitar todas sus faltas…» — *T. I, c. 73 · a una Hija de la Cruz, 1850* `HC`
+  - Escrita la víspera de la fiesta de la Purificación de María. San Miguel pide a una Hija de la Cruz no apoyarse en sus acusaciones en confesión, sino en formar un corazón y un espíritu rectos.
+- «…vivir y morir purificándonos de nuestras faltas cotidianas y presentándonos a María, por María a Jesús y, por Jesús, a nuestro Padre celeste.» — *T. I, c. 74 · a una Hija de la Cruz, 1850* `HC`
+  - Escrita en la fiesta de la Purificación de María y la Presentación de Jesús en el Templo: San Miguel saca de ella dos prácticas para toda la vida, purificarse y presentarse a Dios.
+- «…pida también a menudo a Dios un corazón puro y un espíritu recto para usted y para nosotros.» — *T. I, c. 84 · a una Hija de la Cruz, 1851* `HC`
+  - Hija de la Cruz que, ante ciertos contratiempos, había decidido responder «No son asuntos míos». San Miguel aprueba esa calma y le pide rezar por un corazón puro, para ella y para él.
+- «Animada con ese divino Espíritu, estará divinizada, con lo que hace y todo lo que sufre.» — *T. I, c. 88 · a una Hija de la Cruz, 1852* `HC`
+  - Escrita poco antes de una gran fiesta (Pentecostés): San Miguel le pide llenarse del Espíritu de Jesús, que es caridad, para que todo lo que haga y sufra tenga valor divino.
+- «…recurrir a Dios como una buena hija, a cada instante… está tan cerca de usted, está en usted.» — *T. I, c. 103 · a una Hija de la Cruz, 1854* `HC`
+  - Una religiosa le había confiado movimientos de ternura natural que la inquietaban. San Miguel le aconseja no alarmarse, dirigirse a Dios con una breve oración y seguir adelante, reavivando la costumbre de recurrir a Él constantemente.
+- «Vuélvase hacia Él, y nada le faltará nunca.» — *T. I, c. 103 · a una Hija de la Cruz, 1854* `HC`
+  - Final de la misma carta: ante sus afectos y tentaciones, San Miguel le recuerda que Dios habita en lo más íntimo de su corazón, deseoso de escucharla, sostenerla y darse a ella; basta con volverse a Él.
+- «…un hombre nuevo, despojado de todo afecto para revestirse de Cristo; muerto para sí mismo para vivir como santo…» — *T. I, c. 104 · a un sacerdote del Sagrado Corazón, 1854* `SCJ`
+  - Carta de 1854 a un religioso de la congregación fundada por San Miguel. Según el editor, es el primer retrato escrito de un religioso del Sagrado Corazón, adaptado de un texto de las Constituciones jesuitas, que le ofrece «como espejo».
+- «…que uno esté poseído no por el demonio sino por Dios y que caminemos, que volemos en sus vías.» — *T. I, c. 106 · al P. Pedro Vignau, Superior de San Luis Gonzaga, 1854* `SCJ`
+  - El destinatario dirigía la residencia de la Sociedad en Pau. San Miguel le envía una exhortación espiritual y textos sobre la recta intención y la formación de superiores para que los medite y practique, y pide para ambos una «marca divina».
+- «…ya sea que nos pregunten para quién trabajamos, habrá que poder responder: para Dios.» — *T. I, c. 111 · Carta Circular, 1855* `SCJ`
+  - Circular de mayo de 1855 a los religiosos de la Sociedad sobre la «soledad interior»: mantener el espíritu unido a Dios en medio de las ocupaciones, de modo que todo trabajo se haga solo por Él.
+- «…hay que tomar la costumbre de ofrecer el corazón a Dios cada vez que cambiamos de ocupación…» — *T. I, c. 111 · Carta Circular, 1855* `SCJ`
+  - Entre los medios prácticos para vivir unidos a Dios en medio del trabajo, la circular propone un gesto sencillo: ofrecerle el corazón al comenzar cada actividad, para conservar la serenidad y el recuerdo de su presencia.
+- «…la luz se hace y se hará aún más, a medida que pidamos con sinceridad un corazón puro y un espíritu recto.» — *T. I, c. 119 · a la Hermana Thérésine, Hija de la Cruz, 1856* `HC`
+  - Breve carta de julio de 1856 a una Hija de la Cruz relacionada con Sarrance, donde había habido dificultades. San Miguel se alegra de lo que ella le escribe y le asegura que en Sarrance no hay males irreparables.
+- «¿Quiere poseerse para que Dios la posea?» — *T. I, c. 122 · a una Superiora de las Hijas de la Cruz, 1856* `HC`
+  - Según el editor, quizás la misma religiosa de la carta anterior. La superiora sentía un afecto peligroso por el párroco del lugar, y San Miguel le pide dominarse a sí misma para que Dios sea el dueño de su corazón.
+- «Tómala, guárdala y dale un corazón grande y un alma bien dispuesta.» — *T. I, c. 124 · a una Hija de la Cruz, 1856* `HC`
+  - San Miguel promete a esta religiosa tenerla presente cada día en la misa, al ofrecer la patena, y le dice la oración que hará entonces por ella.
+- «Señor, no soy digna, pero una palabra y seré digna…» — *T. I, c. 137 · a una Superiora de las Hijas de la Cruz, 1857* `HC`
+  - Septiembre de 1857. La superiora se reprochaba no tener suficiente caridad maternal con algunas hermanas difíciles. San Miguel le dice que no es falta grave ni materia de confesión y le sugiere esta oración, inspirada en la del centurión, antes de comulgar.
+- «…la gran ventaja que los nuestros tienen de vivir cada uno sólo con Dios solo…» — *T. I, c. 153 · al P. Luis Lassus, Superior de Sainte-Croix, 1858* `SCJ`
+  - Febrero de 1858. San Miguel nombraba al destinatario padre espiritual de los religiosos de Oloron, entre quienes había malestar. Le pide ayudarlos a vivir en trato directo con Dios, como remedio contra el demonio, «que ciega y confunde todo».
+- «Es lo que Dios espera de Ud, y que yo le pido todos los días: Que sea santo y haga a muchos santos.» — *T. II, c. 187 · al Hermano Joannès, 1859* `SCJ`
+  - Cierre de la misma carta: tras recordarle sus tropiezos en Pau, Orthez y Asson, San Miguel le muestra el fruto de dejarse conducir por las reglas y los superiores: llegar a ser santo y llevar a otros a la santidad, lo que pide por él cada día.
+- «…combatirlos en nuestro corazón y en el de los demás, siendo y mostrando lo que somos, y exactamente lo que somos…» — *T. II, c. 194 · al P. Juan Espagnolle, 1859* `SCJ`
+  - Ante los abusos que denunciaba este profesor de Olorón, San Miguel responde que existen en toda sociedad por la corrupción del corazón humano y que el remedio es el propio ejemplo. Eco de un principio que repetía: "ser lo que se es, y serlo bien".
+- «Que nuestra naturaleza se equivoque, es normal; pero que nuestras personas sean irreprensibles.» — *T. II, c. 235 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1860* `SCJ`
+  - San Miguel envía al P. Etchecopar a hacer la visita canónica del seminario de Olorón, que el destinatario dirigía en medio de tensiones. Desearía que la culpa recayera en el demonio y la debilidad humana, y que la conducta de cada uno fuera intachable.
+- «…esta celeste comunidad, cuyo Superior General es Jesucristo; sólo ahí viviremos siempre felices…» — *T. II, c. 240 · a la Hermana Vincent de Bonnecaze, Hija de la Cruz, 1860* `HC`
+  - San Miguel había guiado la conversión de esta mujer, que tras confesarse con él en Betharram dejó un matrimonio deseado por su familia para consagrarse a Dios. Le escribe sobre la verdadera amistad y la felicidad eterna, en clave de san Agustín.
+- «Nadie puede hacer al hombre feliz, si no el que hizo al hombre.» — *T. II, c. 240 · a la Hermana Vincent de Bonnecaze, Hija de la Cruz, 1860* `HC`
+  - En la misma carta, San Miguel advierte contra el error de quienes, incluso en comunidades santas, pretenden fabricarse la felicidad con sus propias fuerzas, en lugar de pedirla y esperarla de Dios, el único que puede darla.
+- «…primero, siempre y de todo corazón, Dios y la ley de caridad que tiene costumbre de grabar en las almas; luego, las letras, las ciencias…» — *T. II, c. 241 · al P. Florencio Lapatz, 1860* `SCJ`
+  - El destinatario, de 25 años, era profesor de retórica en el seminario de Olorón, tan apasionado por la cultura grecolatina que se hacía llamar con el nombre griego Agramant. San Miguel alaba sus éxitos, pero le recuerda el orden: primero Dios, luego el saber.
+- «…viva la verdadera piedad que encuentra a Dios en todas partes.» — *T. II, c. 243 · a una Superiora de las Hijas de la Cruz, 1860* `HC`
+  - A la superiora, que deseaba una piedad auténtica, San Miguel le propone la que encuentra a Dios en todas partes y lo ama con todo el corazón. Le pide además usar el afecto que inspira para llevar a todos hacia Dios.
+- «…por amor a Él, abrámonos sin entregarnos, de paso a lo que pasa.» — *T. II, c. 243 · a una Superiora de las Hijas de la Cruz, 1860* `HC`
+  - En la misma carta, San Miguel resume la actitud ante las cosas de este mundo: por amor a Dios, acogerlas sin apegarse, pasando por ellas como lo que son, pasajeras. Escribe a una superiora a la que exhorta a hacerse amar sin buscarse a sí misma.
+- «No esperar a que se tenga ese espíritu para actuar por ese espíritu, sino actuar por ese espíritu para tenerlo después.» — *T. II, c. 253 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Sobre cómo adquirir el espíritu religioso que faltaba en la comunidad de Orthez, San Miguel propone reflexionar, actuar y rezar: obrar como si ya se lo tuviera, porque así se lo va formando en uno mismo.
+- «…entréguese en cuerpo y alma a Dios, el descanso eterno de los corazones…» — *T. II, c. 264 · a la Hermana Marie-Victorina, Hija de la Cruz, 1860* `HC`
+  - Una Hija de la Cruz de la comunidad de Hagetmau había consultado a San Miguel sobre su situación. Él le responde que no ve gran peligro en ella, pues todo la lleva a unirse a Dios, y la invita a entregarse a Él sin reservas.
+- «…pedir con insistencia y constantemente a Dios un corazón puro y un espíritu derecho, el recta sapere.» — *T. II, c. 287 · al P. Domingo Guilhas, 1860* `SCJ`
+  - El destinatario, de 26 años, acababa de ser nombrado director del colegio Moncade de Orthez, bajo la autoridad del P. Pedro Barbé como superior. San Miguel le recuerda que las reglas definen sus funciones y le recomienda pedir a Dios un juicio recto (recta sapere).
+- «Sé que no cesa de hablarnos en el fondo de nuestras almas, para tomar posesión de ellas, iluminarlas, fecundarlas haciéndolas vivir con una vida divina.» — *T. II, c. 309 · a los Religiosos de América, 1861* `SCJ`
+  - Carta de Año Nuevo de 1861 a los religiosos de la misión del Río de la Plata, enviada al superior pero destinada a todos. San Miguel describe dos movimientos en lo íntimo del alma: Dios que habla sin cesar y el anhelo del alma de responderle.
+- «Si fuera así, todo estaría dicho: Dios sería todo para nosotros y viviríamos de su vida.» — *T. II, c. 309 · a los Religiosos de América, 1861* `SCJ`
+  - San Miguel se pregunta por qué la voz de Dios y el anhelo del alma, tan cercanos en lo más íntimo, permanecen distantes; si llegaran a encontrarse, la unión con Dios sería plena.
+- «Ojalá podamos… imponer silencio absoluto a nuestro alrededor y sobre todo en nosotros…» — *T. II, c. 309 · a los Religiosos de América, 1861* `SCJ`
+  - San Miguel responde a su pregunta con el Salmo 61, que en hebreo dice «Mi alma, permanece en silencio delante de Dios»: el silencio interior permite que la Palabra de Dios venga a habitar en nosotros. Es su deseo para el nuevo año.
+- «El medio de comprenderse y andar en la luz es rezar…» — *T. II, c. 311 · al P. Honorato Taret, 1861* `SCJ`
+  - Joven y brillante profesor, vice-ministro del colegio de Orthez, que había escrito a San Miguel una carta que este, tras releerla, no lograba explicarse. San Miguel le propone rezar, desprenderse de lo pasajero y hablarle con franqueza.
+- «Debería sentarse, como María Magdalena, a los pies de Jesús, sin preocuparse por otra cosa que por escuchar lo que el Maestro quiera de ella…» — *T. II, c. 328 · a un Director de Almas, 1861* `CL`
+  - San Miguel aconseja que el sacerdote atribulado se oriente a la «punta fina» del alma, expresión de san Francisco de Sales para la parte superior de la voluntad, y se abandone en Dios mientras soporta las pruebas en los demás niveles.
+- «Recemos siempre por la Iglesia, por el Soberano Pontífice y por todos los nuestros…» — *T. II, c. 334 · al P. Diego Barbé, Superior del Colegio San José, 1861* `SCJ`
+  - San Miguel recomienda al superior del colegio de Buenos Aires el Apostolado de la Oración, asociación que difundía el jesuita P. Ramière, y lo invita a rezar y esperar ante una situación política incierta.
+- «Constantemente al servicio y a la vista de tan gran Amigo… ¿Hace falta más contra el vértigo de la actividad propia…?» — *T. II, c. 346 · a una Hija de la Cruz, 1861* `HC`
+  - Religiosa preocupada por no cumplir sus resoluciones del retiro. San Miguel, que había extraviado su carta, le advierte del arrastre de las ocupaciones y la invita a vivir en presencia de Dios, frente al exceso de iniciativa personal.
+- «…tomar el Evangelio y nuestra santa religión como son, igualmente alejados de un rigorismo a ultranza y de una molicie culpable…» — *T. II, c. 360 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1862* `HC`
+  - San Miguel compara la carta de la religiosa con la actitud de los jansenistas, que con exigencias desmedidas de perfección acababan desalentando y arruinando la religión; le pide vivir el Evangelio con equilibrio.
+- «Su mentira eterna, es ésta: o lo puedo hacer por mí mismo sin la gracia de Dios, o es imposible, o es demasiado difícil…» — *T. II, c. 374 · a una Hija de la Cruz, 1862* `HC`
+  - Junio de 1862: San Miguel anima a una religiosa que ha empezado a progresar a entregarse a Cristo con un “Aquí estoy” como María. Llama al demonio “el mentiroso” y resume sus tres engaños, que identifica con el pelagianismo, el protestantismo y el jansenismo.
+- «…les deseo que estén siempre a la escuela de nuestro Señor.» — *T. II, c. 390 · al P. Diego Barbé, Superior del Colegio San José, 1863* `SCJ`
+  - Saludo de Año Nuevo (1863) a los religiosos de Betharram en América. Para San Miguel hay que elegir entre la escuela de Satanás y la de Nuestro Señor; desde ella propone vivir con sobriedad, justicia y piedad, y arrancar de raíz el espíritu razonador y mundano.
+- «Pronto se dirá de mí lo que se dice de los demás: “¡Murió!...” Feliz el corazón que medita esto y se une a Dios solo.» — *T. II, c. 400 · a un Desconocido, 1863* `LA`
+  - Texto que acompaña la primera estampa fúnebre de San Miguel, que murió el 14 de mayo de 1863. Es una nota de retiro sobre lo pasajero de este mundo, en la que piensa en su propia muerte.
+- «Esta intención pura consiste en: Elegir a Dios con una determinación reflexionada y generosa.» — *T. II, c. 439 · a un Escolástico* `SCJ`
+  - Escrito a un escolástico, religioso joven aún en formación, que había perdido su sencillez. Con la parábola de las vírgenes necias, San Miguel le advierte que puede faltarle el “aceite”, la intención pura, y la describe con las virtudes cardinales.
+- «Esta intención pura se revela en la elección de lo Absoluto, de lo Inmutable, de lo Eterno, de Dios…» — *T. II, c. 440 · a un Escolástico* `SCJ`
+  - Carta muy parecida a la anterior, a un escolástico entregado al estudio. San Miguel advierte que incluso la teología puede ser un obstáculo si falta la intención recta, y le pide recuperar su candor y entenderse con su superior.
+- «Nadie puede hacer feliz al hombre: sólo el que ha creado al hombre.» — *T. II, c. 459 · a la Hermana Lucie, Hija de la Cruz* `HC`
+  - A una religiosa que fue superiora provincial y a la que San Miguel dirigió durante catorce años. Retomando ideas de San Agustín, explica que la felicidad no se fabrica con el propio esfuerzo: hay que pedirla a Dios, que es el único que la da.
+- «…cuanto más mortifica su cuerpo en el sentido de la obediencia, más vivifica su espíritu…» — *T. II, c. 468 · a una Religiosa* `CL`
+  - Segundo remedio: retomar también los trabajos de su estado. San Miguel presenta como un “misterio de la vida espiritual” que mortificar el cuerpo por obediencia fortalece el espíritu.
+- «…sólo piense en agradar a Dios y Dios le bastará.» — *T. II, c. 479 · a una Joven* `LA`
+  - A la pregunta de si debía casarse, San Miguel le responde con dureza que no. Le pide que se limite a sus deberes, que deje lo demás y que busque solo agradar a Dios.
+- «Haga así cada cosa, olvidando la precedente, no cuidando más que de la que vendrá luego, y le aseguro que hará su camino divinamente bien.» — *T. III, c. 85bis · a una religiosa, 1852* `CL`
+  - San Miguel resume su método a la religiosa agobiada por la tibieza: vivir cada tarea del momento, entregándose a ella por completo, sin volver sobre lo pasado ni angustiarse por lo que vendrá.
+- «Dios mío, danos ese espíritu de tu divino Hijo.» — *T. III, c. 490 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - San Miguel recuerda al superior de Buenos Aires que el primer deber religioso es presentarse a Dios y a sus representantes reconociendo la propia nada y diciendo «Aquí estoy», la disponibilidad de Cristo ante el Padre.
+- «…primero siempre y de todo corazón, Dios y la ley de caridad… luego las letras, las ciencias, la teología, pero como medios…» — *T. III, c. 504 · al P. Florent Lapatz, 1860* `SCJ`
+  - El destinatario, brillante profesor de retórica en el seminario de Olorón y amante de la cultura grecolatina, arriesgaba su salud en el estudio. San Miguel le recuerda el orden: primero Dios y la caridad, luego los saberes.
+- «…consistiría en olvidar el fin y en convertir el medio en fin…» — *T. III, c. 504 · al P. Florent Lapatz, 1860* `SCJ`
+  - San Miguel teme que este joven profesor de Olorón, apasionado por las letras clásicas, ponga el estudio por delante de Dios. Una nota de la copia lo explica así: «en poner el medio en vez y lugar del fin».
+- «…ciencias, incluso teológicas… se puede aún ser de la familia de las vírgenes insensatas...» — *T. III, c. 505 · al P. Dominique Guilhas, 1860* `SCJ`
+  - Forma parte de una serie de cartas del 27 de enero de 1860 a jóvenes religiosos profesores. San Miguel advierte que el saber, incluso teológico, no basta sin intención pura, como en la parábola de las vírgenes necias.
+- «Que ciertos aires misteriosos, tan contrarios a su inocencia, a su sencillez pasadas, a la infancia evangélica, desaparezcan para siempre…» — *T. III, c. 508 · al P. Honoret Taret, 1860* `SCJ`
+  - El destinatario, joven y brillante profesor del colegio de Orthez, fallecería a los 26 años. En la serie de cartas del 27 de enero de 1860, San Miguel le pide recuperar la sencillez evangélica que antes lo caracterizaba.
+- «El sentimiento casi siempre engañoso, a menudo criminal, y siempre sentimiento, nada más, nada mejor…» — *T. III, c. 541 · al P. Domingo Guilhas, 1861* `SCJ`
+  - Un joven religioso, director del colegio de Orthez a los 26 años, le había confiado que las dificultades de su cargo se le presentaban como un sentimiento vago. San Miguel desarrolla esa intuición.
+- «…en lugar de lo vago y del sentimiento, tenemos la pura luz de la fe y las grandes realidades de la fe.» — *T. III, c. 541 · al P. Domingo Guilhas, 1861* `SCJ`
+  - San Miguel explica al joven director del colegio de Orthez que la fe ofrece una luz segura frente a la vaguedad de las ideas y la inestabilidad de los sentimientos, que dividen a los hermanos.
+- «…pida insistente y constantemente a Dios un corazón puro y un espíritu recto, el recta sapere.» — *T. III, c. 555 · al P. Domingo Guilhas, 1861* `SCJ`
+  - San Miguel lamenta que el P. Guilhas no haya entendido sus funciones en Moncade a pesar de casi un año de esfuerzos, y le corrige también un discurso demasiado largo para la entrega de premios. El 'recta sapere' es gustar y juzgar rectamente las cosas.
+- «Recemos siempre por la Iglesia, por el Soberano Pontífice, por todos los nuestros.» — *T. III, c. 573 · al P. Diego Barbé, Superior del Colegio San José, 1861* `SCJ`
+  - Al final de una carta con noticias de Betharram y de los enfermos de la comunidad, San Miguel pide a los religiosos de Buenos Aires orar por la Iglesia y el papa, y ser 'apóstoles de la oración', en referencia al Apostolado de la Oración.
+- «¡Ojalá que nunca dejen de estar al servicio del Espíritu que han recibido por la imposición de las manos del Obispo!» — *T. III, c. 593 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - San Miguel se alegra por la ordenación sacerdotal de dos religiosos de la Sociedad en Buenos Aires, y les desea vivir siempre según la gracia que recibieron al ser ordenados.
+- «Deshágase para siempre de esas bagatelas, que le impiden parecer un hombre de peso, como debe serlo, un hombre de Dios.» — *T. III, c. 596 · al P. Julio Augé, 1862* `SCJ`
+  - Joven sacerdote y profesor de Betharram al que habían visto pasear con los enemigos del párroco de Pontacq; además circulaban rumores de que dejaría la Sociedad. San Miguel le pide dejar esas ligerezas y actitudes de descontento.
+- «Prudencia, pues, siempre y en todas partes. No lo olvidemos: vigilemos y recemos.» — *T. III, c. 596 · al P. Julio Augé, 1862* `SCJ`
+  - En la posdata, San Miguel advierte que todo lo que hacen los religiosos es observado y difundido, a veces de manera escandalosa, incluso por amigos, y pide prudencia y vigilancia.
+- «…ese grado universitario no vale, ni mucho menos, lo que otro doctorado que yo quisiera verle obtener un día u otro...» — *T. III, c. 628 · al P. Florent Lapatz, 1862* `SCJ`
+  - El P. Lapatz, brillante profesor del seminario de Olorón, recibió permiso para preparar un doctorado universitario. San Miguel se lo concede, pero le recuerda que hay otro 'doctorado' mucho más valioso.
+- «…les deseo que se pongan siempre a la escuela de Nuestro Señor.» — *T. III, c. 630 · al P. Diego Barbé, Superior del Colegio San José, 1863* `SCJ`
+  - Saludo de Año Nuevo a los religiosos de América. San Miguel les desea que se dejen enseñar por Cristo, y lo desarrolla con un largo texto latino.
+- «…cuanto menos hablen con las criaturas, más les hablará Dios al corazón.» — *T. III, c. 641 · a algunas religiosas* `HC`
+  - En estos consejos espirituales a unas religiosas, San Miguel explica por qué guardar silencio: para escuchar a Dios.
+- «Su estado las asocia a los ángeles, sean ángeles visibles.» — *T. III, c. 641 · a algunas religiosas* `HC`
+  - En sus consejos a unas religiosas, San Miguel recuerda que su vocación las une a los ángeles y que deben mostrarlo en su vida, teniendo siempre a Dios presente.
+
+## 6. Cruz, sufrimiento y paciencia
+
+*Las pruebas, tentaciones y contrariedades como camino.* — 36 frases
+
+- «Coraje y confianza. A la corona de los esposos, se añadirá la corona de los mártires.» — *T. I, c. 2 · a una desconocida* `LA`
+  - En la misma carta, San Miguel le pide no cambiar su modo de vida: a su consagración como «esposa» de Cristo se sumará el mérito de sobrellevar fielmente esa prueba interior.
+- «Aprenda, pues, haciendo menos, a hacer más; soporte las pequeñas privaciones con el mérito de los mayores sacrificios.» — *T. I, c. 11 · a la señorita Nabarrette, 1834* `LA`
+  - San Miguel le muestra que liberar a su hermano sacerdote de los cuidados del hogar y edificar la parroquia ya es una gran obra, y la invita a valorar las pequeñas renuncias como grandes sacrificios.
+- «…¡adelante siempre!, no sólo cuando esté en el Tabor, sino también cuando esté velando en el Huerto de los Olivos y tenga que subir el Calvario.» — *T. I, c. 21 · a la Señorita Marie-Claude Saüt, 1843* `LA`
+  - San Miguel la anima a perseverar no solo en la consolación (el Tabor, monte de la Transfiguración), sino también en la angustia y la cruz (el Huerto de los Olivos y el Calvario).
+- «…llevando como guerrera las cruces que conlleva su posición... cuidando de no tomar otras que no harían más que entorpecer su camino glorioso...» — *T. I, c. 24 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1844* `HC`
+  - San Miguel la felicita por su profesión religiosa, llegada tras años de espera, y le pide llevar las cruces propias de su estado sin buscar otras: nada de imprudencias so pretexto de mortificación.
+- «…todo lo que no puede remediar, Dios lo quiere para usted; es su cruz más preciosa…» — *T. I, c. 32 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1845* `HC`
+  - Respuesta punto por punto, con letras, a una larga carta de la misma religiosa, muy escrupulosa. San Miguel le dice que las penas que no puede evitar son la cruz que Dios le da para afianzarla en su vocación.
+- «…toda alma que quiere realmente entregarse a Dios debe esperar ser tentada y mucho.» — *T. I, c. 48 · a una señora, 1847* `LA`
+  - Una mujer laica, tentada de volver atrás en su entrega a Dios y de dejar a su confesor por sus turbaciones. San Miguel le explica que la tentación es normal en quien quiere darse a Dios y lo hace experimentar su debilidad.
+- «…por sensible que sea, debemos amarlo por respeto a la mano que lo hizo.» — *T. I, c. 57 · a la Hermana Saint-Régis, Hija de la Cruz, 1849* `HC`
+  - Hija de la Cruz cuya madre, mujer piadosa de Nay y penitente de San Miguel, acababa de morir. San Miguel reconoce lo legítimo de su dolor, pero la invita a amarlo por venir de Dios.
+- «…imite a María al pie de la Cruz. Sufría, pero amaba su dolor; quería la muerte de su Hijo, porque Dios la quería.» — *T. I, c. 57 · a la Hermana Saint-Régis, Hija de la Cruz, 1849* `HC`
+  - Para su duelo, San Miguel le propone el modelo de María al pie de la cruz, que sufría pero aceptaba la voluntad de Dios.
+- «…sin combate y, por consiguiente, sin tentación, no hay corona.» — *T. I, c. 78 · a la Reverendísima Hna. Saint-Sabinien, Hija de la Cruz, 1850* `HC`
+  - La joven religiosa, en Tarbes, sufría tentaciones extraordinarias. San Miguel le explica para qué sirven: merecer la corona, conocer la propia miseria y aprender a ayudar a otros.
+- «No hay que quejarse de tener algo que sufrir por Dios.» — *T. I, c. 122 · a una Superiora de las Hijas de la Cruz, 1856* `HC`
+  - La superiora sufría al ver padecer a aquel sacerdote por algo que ella había emprendido. San Miguel le dice que hizo lo que Dios quería y que debe aceptar con paciencia ese sufrimiento, sin excusas ni reparos.
+- «…la cruz está en todas partes. Sólo, ¡ánimo! A una buena Hija de la Cruz nunca le debe faltar…» — *T. I, c. 129 · a una Superiora de las Hijas de la Cruz, 1857* `HC`
+  - Enero de 1857. La superiora le había contado sus sufrimientos. San Miguel le recuerda que la cruz es inevitable y que a una Hija de la Cruz no le debe faltar el ánimo para seguir siempre adelante.
+- «Qué bálsamo en este pensamiento: Dios lo quiere.» — *T. I, c. 134 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1857* `HC`
+  - Marzo de 1857. La religiosa había perdido, uno tras otro, a varios seres queridos de su familia. San Miguel se une a su dolor y le ofrece como consuelo la certeza que da la obediencia de saber siempre lo que Dios quiere.
+- «El sentimiento del sufrimiento que provoca su sensibilidad, explotada por el demonio, no es un pecado y debe ser incluso un mérito…» — *T. I, c. 145 · al P. Daniel Cameigt, 1858* `SCJ`
+  - El joven se angustiaba por el dolor que le causaba pensar en dejar a su familia. San Miguel le aclara que ese sentimiento, avivado por el demonio, no es pecado, sino ocasión de sacrificio y de mérito.
+- «…las cruces, pesadas como la del Calvario, son signo especial de la amistad del Señor…» — *T. I, c. 147 · al P. Daniel Cameigt, 1858* `SCJ`
+  - El joven, que no había ido a Betharram para no dejar a su madre, vivía penas amargas. San Miguel lo consuela con su doctrina de la cruz: las pruebas son signo de la amistad divina y de semejanza con Cristo.
+- «…el mundo es un calvario, la cruz está por todos lados, hay que llevarla con coraje y constancia.» — *T. I, c. 164 · a un joven, 1858* `LA`
+  - Tercer paso del método que San Miguel propone a este joven indeciso: disponerse a imitar a Cristo con todas sus exigencias, porque la cruz se encuentra en cualquier estado de vida.
+- «Con la esperanza de obtener la vida eterna, debemos soportar, sin amarla, esta vida temporal y mortal…» — *T. II, c. 193 · a un Sacerdote del Sagrado Corazón, 1859* `SCJ`
+  - Respuesta a un religioso de la Sociedad que se lamentaba de sus penas, también dentro de la comunidad. San Miguel, citando a san Pablo ("alegres en la esperanza, pacientes en la tribulación"), le recuerda que la vida presente es siempre prueba, incluso en la Iglesia.
+- «Tiene que saber también que el paraíso no está aquí abajo. Este es el lugar del tanteo y de la paciencia…» — *T. II, c. 196 · al P. Juan Espagnolle, 1859* `SCJ`
+  - En la misma carta, San Miguel invita al inquieto profesor a abandonar sus sueños de reforma: siempre habrá abusos alrededor, y cada uno debe cargar la cruz de su vocación como enviado de Cristo.
+- «Mire qué bueno es el Señor al brindarnos la ocasión de amontonar tesoros para el cielo, incluso en las cosas que nos contrarían…» — *T. II, c. 199 · a un Sacerdote del Sagrado Corazón, 1859* `SCJ`
+  - Un religioso de la Sociedad estaba contrariado porque la obediencia le impedía ocuparse de ciertos asuntos suyos en Pau. San Miguel lo tranquiliza: obedeciendo no pierde nada y gana los méritos de la obediencia, la caridad, la paciencia y la abnegación.
+- «…esa suerte de contrariedades debe hacernos queridas, sagradas incluso, las empresas que conllevan.» — *T. II, c. 232 · a una Señorita, 1860* `LA`
+  - Una joven que deseaba entrar en una congregación religiosa recibió de su padre una negativa irrevocable. San Miguel la anima: las contrariedades confirman las obras de Dios, como sucedió con Vicente de Paúl, Francisco de Sales o Luis Gonzaga.
+- «…reza como un ángel, spe gaudens, in tribulatione patiens (gozando en la esperanza, paciente en la tribulación); que podamos ser como él.» — *T. II, c. 268 · al P. Juan Espagnolle, 1860* `SCJ`
+  - San Miguel da noticias al destinatario de su hermano Pierre, de 16 años, gravemente enfermo en Betharram, que moriría el 20 de junio de 1860. Destaca su paciencia y su oración, y lo propone como ejemplo.
+- «…feliz con la voluntad de Dios, aunque esa voluntad fuera muy amarga para ella.» — *T. II, c. 316 · a la Hermana Séraphia, Hija de la Cruz, 1861* `HC`
+  - En esa meditación San Miguel contempla a María al pie de la cruz: sufrimiento inmenso, pero sin queja ni amargura, siempre dulce, caritativa y sumisa. Parte del pasaje está escrito en vasco, lengua materna de ambos.
+- «…hay que pasar como por el frío, el calor, la lluvia y el buen tiempo, sufriéndolos como una condición inevitable de nuestro paso por aquí.» — *T. II, c. 328 · a un Director de Almas, 1861* `CL`
+  - Un sacerdote, director de almas, consultó a San Miguel sobre un excelente sacerdote que sufría pruebas interiores. San Miguel las atribuye a su salud y a su imaginación, y no lo cree responsable mientras no consienta en sus faltas.
+- «…reciba esas preciosas contrariedades, a medida que se presentan algunas, con respeto y amor…» — *T. II, c. 356 · a una Hija de la Cruz, 1862* `HC`
+  - San Miguel explica que Dios lleva a cada uno al cielo por las tribulaciones propias de su estado, que son numerosas; por eso pide acoger cada contrariedad con reverencia, como un don.
+- «Los Hijos de la Cruz y las Hijas de la Cruz deben esperar las cruces.» — *T. II, c. 365 · a una Hija de la Cruz, 1862* `HC`
+  - Breve nota de abril de 1862, en plena crisis interna de la Sociedad, en la que San Miguel pide oraciones. «Hijos de la Cruz» designa a los religiosos de Betharram, en eco del proyecto de san Andrés Fournet de dar a las Hijas de la Cruz una rama masculina.
+- «…por muy fuertes que sean sus tentaciones y tribulaciones, no pierda el ánimo…» — *T. II, c. 388 · a la Hermana Salvinie, Hija de la Cruz, 1862* `HC`
+  - Carta profética: San Miguel ve a Satanás levantarse contra esta religiosa y la prepara para la prueba. Le pide confianza en la Virgen y no dejar las comuniones. Ella declaró después que el aviso se cumplió en años de aridez y tentaciones de desesperación.
+- «…es una de las pruebas delicadas por las que debe pasar para que su virtud se desarrolle y se consolide.» — *T. II, c. 397 · a la Señorita Constance Mézard, 1863* `LA`
+  - San Miguel está convencido de que esta joven está llamada a ser Hija de la Cruz y de que las razones en contra no tienen peso. La oposición de su madre es, dice, una prueba para su virtud. Ella ingresó en la congregación en 1866.
+- «Los enfermos, lejos de ser un obstáculo en la obra de Dios, atraen la bendición del cielo por sus sufrimientos y sus oraciones.» — *T. II, c. 403bis · al P. Pedro Perguilhem* `SCJ`
+  - San Miguel informa a uno de sus primeros compañeros de que admitió en la congregación a un sacerdote enfermo. Solía acoger en Betharram a sacerdotes enfermos, porque veía en ellos una fuente de bendiciones para la comunidad.
+- «…por todos lados hay que vencerse para ir al cielo.» — *T. II, c. 449 · a un Postulante* `LA`
+  - Un postulante dudaba entre ser religioso, ser sacerdote o seguir en el mundo, y temía todo lo que limitara su libertad. San Miguel le advierte que, elija el camino que elija, tendrá que dominarse.
+- «Amemos, pues, querida Hermana, y aceptemos con respeto y amor cada una de las cruces de nuestro estado; es nuestro primer deber y nuestra primera necesidad.» — *T. II, c. 458 · a la Hermana Sophie-Justine, Hija de la Cruz* `HC`
+  - En la posdata, San Miguel le regala un “ramillete espiritual”: la frase de los Hechos según la cual hay que entrar en el Reino por muchas tribulaciones. La invita a llevar las cruces propias de las Hijas de la Cruz.
+- «…un enfermo no examina, no debe examinar, si el remedio que se le presenta es amargo, sino si lo cura.» — *T. II, c. 468 · a una Religiosa* `CL`
+  - Larga carta a una religiosa hundida en el disgusto por su vida religiosa, a quien no puede volver atrás de sus votos. San Miguel le explica que ese disgusto suele nacer de infidelidades y le avisa que el remedio será amargo, pero necesario.
+- «Dios sigue probándonos: sea bendita su santa y muy dulce voluntad.» — *T. II, c. 473 · a un Enfermo* `LA`
+  - Carta breve y sin fecha a una persona enferma. San Miguel acepta la nueva prueba como voluntad de Dios, en la que dice que estamos unidos a Él, y promete pedir para ella paz y coraje.
+- «¡Qué ventajoso es pasar un poco por la prueba!» — *T. III, c. 25bis · a la Hermana Stanislas Kostka, Hija de la Cruz, 1844* `HC`
+  - Carta de 1844 a una Hija de la Cruz con cargo de responsabilidad, de carácter ardiente, que vivía una relación difícil con una Hermana mayor que la había ayudado a dejar el mundo. San Miguel valora la prueba como ocasión de crecer.
+- «Pues, finalmente, la tribulación es tan general que la vida no es otra cosa.» — *T. III, c. 514 · al P. Juan Espagnolle, 1860* `SCJ`
+  - El destinatario había dejado la Sociedad. San Miguel le habla de su hermano menor, novicio enfermo que rezaba «como un ángel» y moriría días después, el 20 de junio de 1860.
+- «…todas esas cosas que le abruman tanto son parte de las disposiciones de la Divina Providencia, para ayudarlo a ser un perfecto religioso…» — *T. III, c. 533 · al P. Juan Hayet, 1860* `SCJ`
+  - El destinatario, ecónomo del seminario de Olorón, sufría por las tensiones causadas por una decisión disciplinaria de su superior. San Miguel, que envía visitadores, le dice que esas pruebas lo forman como religioso.
+- «Recemos siempre y armémonos de paciencia...» — *T. III, c. 542 · al P. Diego Barbé, Superior del Colegio San José, 1861* `SCJ`
+  - El superior de Buenos Aires deseaba fundar una residencia en Montevideo, pero el obispo de Bayona decía que faltaban religiosos. San Miguel le cuenta la respuesta que le dio al obispo.
+- «…hay que entrar al cielo con muchas tribulaciones.» — *T. III, c. 558 · al señor Conde de Urusky, 1861* `LA`
+  - Destinatario: noble polaco, amigo de San Miguel, que había hecho un retiro en Betharram y sufría por la desgracia de su patria. San Miguel lo sostiene ante las pruebas que le contaba en su carta.
+
+## 7. Ánimo, alegría y paz interior
+
+*¡Adelante! Paz a todo precio, alegría en el servicio.* — 71 frases
+
+- «…haga el bien que él le pide. Hágalo sin prisa, tranquilamente y en paz.» — *T. I, c. 3 · a una persona del mundo, 1829* `LA`
+  - La destinataria, una mujer consagrada a Dios que vivía en su familia, había fundado con éxito una obra benéfica. San Miguel la invita a quedarse en paz donde Dios la puso y a obrar el bien sin agitación.
+- «Sirva al buen Maestro con un corazón abierto y lleno de alegría.» — *T. I, c. 4 · a una persona del mundo (la misma persona), 1829* `LA`
+  - Ella acababa de recibir la gracia de la paz interior tras largas inquietudes. San Miguel le pide no volver atrás con miedos y servir a Dios con alegría, dejando en sus manos todas las contrariedades.
+- «Aunque le parezca que haya sido infiel, no se deje llevar por el desánimo.» — *T. I, c. 6 · a una persona del mundo, 1830* `LA`
+  - A la misma mujer consagrada que vivía en el mundo. San Miguel le pide que ninguna tentación ni falta aparente la haga dudar del amor de Cristo: basta decirle a Jesús que tratará de mejorar.
+- «…ánimo, confianza y santa alegría. Así es como el Señor quiere ser servido.» — *T. I, c. 6 · a una persona del mundo, 1830* `LA`
+  - Tras reconocer sus faltas, seguir adelante sin tristeza. San Miguel le recuerda que la confianza tiene más mérito justamente cuando uno no encuentra en sí mismo motivos para ella.
+- «…cuanto más me acerco a mis orígenes, a mi antigua desnudez, tanto más feliz soy.» — *T. I, c. 12 · a su primo, Juan Bautista Etcheberry, 1835* `LA`
+  - San Miguel cuenta a su primo que, a causa de la huida de un tal Hiriart, tuvo que vender todos sus libros y solo conserva breviario, Biblia y Teología; ese despojo lo hace feliz, como un regreso a la pobreza de sus orígenes.
+- «Adiós, querida hermana, paciencia, ánimo, perseverancia.» — *T. I, c. 20 · a la Señorita Marie-Madeleine de Bonnecaze, 1842* `LA`
+  - Joven que, tras confesarse con San Miguel en Betharram, renunció a un matrimonio deseado por su familia para ser Hija de la Caridad, pero su padre se oponía. San Miguel la anima a ganarlo con paciencia y ternura, como otra joven lo había logrado.
+- «En cuanto a su alma, no se atormente, estoy convencido de que Dios no se ofende por sus tentaciones.» — *T. I, c. 29 · a una Hija de la Cruz, 1845* `HC`
+  - Hija de la Cruz que sufría tentaciones y se inquietaba por algo que había dicho a un párroco. San Miguel la tranquiliza; en la misma carta pide oraciones por su madre, que acababa de morir.
+- «…me siento obligado a recomendarle con toda mi alma que viva constantemente en la alegría del Señor…» — *T. I, c. 31 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1845* `HC`
+  - Joven Hija de la Cruz, presentada por San Miguel y enviada a Colomiers, propensa a enredarse en impresiones y razonamientos que le quitaban la paz. San Miguel le recomienda vivir en alegría bajo la mirada bondadosa de Dios.
+- «…ese gran Dios, ese buen Padre me mira: nada, no, nada - ni siquiera mi pecado - será capaz de desanimarme.» — *T. I, c. 31 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1845* `HC`
+  - San Miguel le propone hacer suyo el Magníficat: saberse mirada por Dios Padre basta para no desanimarse por nada, ni siquiera por las propias faltas.
+- «Qué espectáculo para el cielo y la tierra, todas esas chicas que trabajan y sufren en paz, que viven y mueren en paz, y siempre en paz.» — *T. I, c. 31 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1845* `HC`
+  - San Miguel percibe en ella «la raíz de un defecto» contrario a la paz, y le desea esa paz a ella y a las Hermanas de Colomiers en el trabajo, el sufrimiento y la muerte.
+- «¡Viva la alegría, la paz en Dios!» — *T. I, c. 31 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1845* `HC`
+  - Despedida de la carta, que resume su insistencia: la alegría y la paz en Dios como signo de una vida religiosa entregada.
+- «No tenga para nada en cuenta lo que puede ser. Al hecho. Al hecho... Su defecto es preocuparse por lo que puede ser...» — *T. I, c. 32 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1845* `HC`
+  - San Miguel señala su defecto principal: angustiarse por hipótesis y posibles faltas. «Al hecho» significa atenerse a lo que realmente ocurrió y no a lo que imagina.
+- «Jesucristo no quiere soldados holgazanes, sino combatientes y victoriosos.» — *T. I, c. 48 · a una señora, 1847* `LA`
+  - San Miguel le advierte que ese camino será trabajoso y que demasiado fervor sensible podría adormecerla, como a Lucifer o a Adán y Eva.
+- «Las tentaciones que experimenta no deben turbarla ni desalentarla. Al contrario, deben ser para usted un motivo de aliento.» — *T. I, c. 56 · a la Hermana Marie-Sidonie, Hija de la Cruz* `HC`
+  - Joven que había dejado el noviciado de Igon por una fuerte crisis vocacional y volvió años después; seguía tentada de abandonar. San Miguel le dice que esos ataques del demonio prueban que Dios la llamó a ser Hija de la Cruz.
+- «…cuanto más tentada sea, tanto más serena debe mostrarse, entregada a su vocación…» — *T. I, c. 56 · a la Hermana Marie-Sidonie, Hija de la Cruz* `HC`
+  - San Miguel le aconseja responder a la tentación con más serenidad, más fidelidad a la regla y comunión más frecuente, sin hablar de ella en detalle fuera del confesionario.
+- «…ese volver con un poco de inquietud sobre el pasado es para usted un verdadero peligro…» — *T. I, c. 60 · a la Reverendísima Hna. Saint-Sabinien, Hija de la Cruz* `HC`
+  - Ella tendía a volver sobre los pecados de su vida pasada; San Miguel ve en esa inquietud un peligro para su alma y le pide no exponer más esas dudas.
+- «…incluso las tentaciones, contribuirán a sus éxitos y victorias.» — *T. I, c. 61 · a una Hija de la Cruz* `HC`
+  - Hija de la Cruz que había pasado por una fuerte tentación. San Miguel le recuerda la protección que le brinda la vida religiosa y le aplica el Salmo 22 («Dios es mi pastor»).
+- «…encuentre, día a día, nuevos motivos de confianza y de amor por Dios y de ánimo por su santo servicio.» — *T. I, c. 71 · a una Hija de la Cruz, 1850* `HC`
+  - Hija de la Cruz cuya familia le daba preocupaciones: una hermana inestable y dos hermanos que, según noticias vagas, habrían muerto. San Miguel la felicita por sentirse feliz en su vocación.
+- «Siga con sus comuniones y todos sus asuntos, a pesar de esas miserias, en paz total y apreciando cada vez más su vocación.» — *T. I, c. 75 · a una Hija de la Cruz, 1850* `HC`
+  - Hija de la Cruz turbada por ciertas «miserias» interiores que la hacían volver atrás. San Miguel le pide despreciarlas sin declararlas y seguir comulgando con paz.
+- «¡Ánimo, pues! ¡Siempre adelante! ¡Dios lo quiere! ¡Siempre adelante! dando la espalda a todas las tentaciones.» — *T. I, c. 78 · a la Reverendísima Hna. Saint-Sabinien, Hija de la Cruz, 1850* `HC`
+  - Tras darle remedios concretos (confianza, oraciones breves, fidelidad a la regla, comunión), San Miguel cierra con este grito de ánimo, típico de su espiritualidad.
+- «No le digo que lo logrará de golpe; ponga tan sólo manos a la obra, firme, y no se canse nunca de continuar.» — *T. I, c. 81 · a una Hija de la Cruz, 1850* `HC`
+  - San Miguel reconoce que ese cambio de actitud no se logra enseguida y la anima a empezar con firmeza y no cansarse de perseverar.
+- «Paz, paz, incluso en la guerra, paz a todo precio, paz a pesar de todo, y ánimo.» — *T. I, c. 107 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1854* `HC`
+  - Lo que San Miguel más teme en esta religiosa de espíritu muy razonador no es su cargo ni su desánimo, sino su falta de confianza ilimitada en Dios. Por eso le propone la paz como «sentimiento-rey» de su corazón, aun en plena lucha.
+- «Viva, pues, así, sin que nada la turbe, en la paz del Señor.» — *T. I, c. 117 · a una Hija de la Cruz, 1856* `HC`
+  - Enero de 1856. La destinataria se inquietaba por sus faltas a las reglas y por ciertas impresiones en materia delicada. San Miguel le explica que no son materia de confesión, sino de dirección, y la anima a seguir comulgando sin escrúpulos.
+- «Vamos, pues, tenga el coraje de su cargo.» — *T. I, c. 124 · a una Hija de la Cruz, 1856* `HC`
+  - La religiosa sufría «tempestades del corazón» y quizás el enojo de otras personas. San Miguel le pide comportarse como si nada ocurriera, sin dar excusas ni explicaciones, y asumir con valentía las exigencias de su función.
+- «Adiós, hija mía, sea siempre alegre y valiente.» — *T. I, c. 125 · a la Hermana Marie-Séraphique, Hija de la Cruz, 1856* `HC`
+  - Despedida escrita en vasco en el original: San Miguel conocía a toda la familia y les escribía en su lengua. La carta trae noticias de su sobrina Adela, que deseaba hacerse Hija de la Cruz, y de la llegada de los misioneros a Montevideo.
+- «…es una fiesta encontrar personas religiosas, felices de su vocación…» — *T. I, c. 128 · a la Hermana Saint-Pothin, Hija de la Cruz, 1857* `HC`
+  - Enero de 1857. La destinataria, superiora de la comunidad de Maubourguet, era hermana de un hermano de la Sociedad, misionero en América, y de otras religiosas. San Miguel se alegra de verla tan feliz con su vocación y la de los suyos.
+- «No lo olvide, ánimo y un día sus hijas serán sus delicias.» — *T. I, c. 131 · a una Superiora de las Hijas de la Cruz, 1857* `HC`
+  - Promesa final de la misma carta: si persevera con paciencia y caridad maternal, las hermanas que hoy la hacen sufrir llegarán a ser su alegría.
+- «Sirva, pues, al Señor en paz y con una calma inquebrantable.» — *T. I, c. 134 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1857* `HC`
+  - La misma religiosa volvía una y otra vez sobre su pasado y su confesión general. San Miguel le asegura que esas vueltas atrás son tentaciones del demonio y asume él la responsabilidad, pidiéndole servir a Dios en calma.
+- «…servirá a Dios con alegría, si me escucha, en vez de escuchar al enemigo, que quiere hacerla mala.» — *T. I, c. 136 · a una Hija de la Cruz, 1857* `HC`
+  - Junio de 1857. Una religiosa se había dejado abatir por una tentación hasta sentirse confundida. San Miguel le pide seguir comulgando, no confesar esas pequeñeces y no escuchar al «enemigo», es decir, al demonio, que busca desanimarla.
+- «…sea siempre sumisa a la voluntad de Dios, siempre de buen humor, siempre contenta.» — *T. I, c. 149 · a la Hermana Marie-Séraphique, Hija de la Cruz, 1858* `HC`
+  - Despedida, escrita en vasco en el original, a esta religiosa de una familia de Barcus que San Miguel conocía bien. Le pide alegría y sumisión a la voluntad de Dios y le asegura que reza por ella cada día.
+- «…no tenga en absoluto en cuenta sus tormentos, siempre adelante hacia Dios.» — *T. I, c. 150 · a la Hermana Marie-Victorina, Hija de la Cruz, 1858* `HC`
+  - Posdata de la misma carta: San Miguel repite a la religiosa la regla que ya le había dado varias veces ante sus luchas interiores: no darles importancia y seguir avanzando hacia Dios.
+- «Que nada nos desanime en este camino; es nuestro deber, y no dudo que Dios bendecirá nuestros esfuerzos reunidos.» — *T. I, c. 154 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1858* `SCJ`
+  - San Miguel informa al superior del seminario de Oloron que ha nombrado un padre espiritual para la comunidad y le pide unir esfuerzos para inculcar el discernimiento y las reglas esenciales de la Sociedad, en un momento de tensiones internas.
+- «…decir: ¡Dios mío, ten piedad de mí! y luego avanzar alegremente.» — *T. I, c. 160 · a una Hija de la Cruz, 1858* `HC`
+  - Julio de 1858. A una Hija de la Cruz turbada por pequeñas dificultades cotidianas, San Miguel le propone una fórmula breve para no perder la paz: pedir misericordia a Dios y seguir adelante con alegría.
+- «…viva en paz y con entusiasmo, como verdadera Hija de la Cruz, totalmente sencilla, contenta y constante.» — *T. I, c. 170 · a una Hija de la Cruz, 1858* `HC`
+  - Diciembre de 1858. La religiosa se inquietaba por su pasado y por la confesión para ganar el jubileo de 1858. San Miguel le indica cómo hacerla con sencillez y asume la responsabilidad de sus tentaciones.
+- «Le suplico, no más jeremiadas, no más quejas; sólo pueden arruinarlo en cuanto al alma y al cuerpo...» — *T. II, c. 180 · al P. Víctor Paradis, 1859* `SCJ`
+  - Tercera carta de ese año a un religioso de Pau que seguía preocupado por obras ajenas a su cargo, por su salud y sus incomodidades. San Miguel, presentándose como su mejor amigo, le pide mostrarse obediente y hombre de comunidad, y dejar las lamentaciones.
+- «Hacer, en los límites de su posición, todo lo que pueda… Y luego quedarse perfectamente tranquilo, como si todo fuera a la perfección.» — *T. II, c. 196 · al P. Juan Espagnolle, 1859* `SCJ`
+  - Respuesta práctica a la pregunta de cómo comportarse ante los abusos: prevenirlos y corregirlos dentro del propio cargo y dejar el resto a Dios. San Miguel escribe a un religioso cuyo celo impaciente entristecía a las comunidades donde vivía.
+- «Hay que hacer todo lo que se puede; cuando es imposible, paciencia.» — *T. II, c. 267 · al P. Juan Bautista Castelnau, Cura de Sarrance, 1860* `SCJ`
+  - El párroco de Sarrance, religioso de la Sociedad, tenía dificultades para observar ciertas reglas, como la del socius (no salir sin un compañero designado). San Miguel le pide hacer todo lo posible y tener paciencia con lo imposible.
+- «…sólo hace falta una palabra para establecer la calma en su alma. Y esa palabra aquí está: “El Señor es bueno.» — *T. II, c. 274 · a una Señorita, 1860* `LA`
+  - Es la misma joven de la carta 232, cuyo padre se oponía a su vocación. San Miguel juzga urgente su situación y, pese a sus muchas ocupaciones antes de la fiesta de la Asunción, le responde con una sola palabra de paz.
+- «Siga con sus comuniones, y trabaje en paz en su obra. Me responsabilizo de todo.» — *T. II, c. 308 · a la Hermana Seraphia, Hija de la Cruz, 1861* `HC`
+  - Religiosa vasca de la comunidad de Arros, inquieta por sueños y tentaciones que le causaban horror. San Miguel le asegura que en ellos no hay pecado, que no necesita confesarse y que no deje de comulgar.
+- «Bendigo al Señor, que es el único que tiene el secreto de hacernos verdaderos felices…» — *T. II, c. 310 · al P. Eugenio Peyret, 1861* `SCJ`
+  - San Miguel responde con alegría a la carta del joven escolástico, que le expresaba su felicidad en la Sociedad y su confianza total en Dios, y pide al Señor que lo conserve en esas disposiciones.
+- «…que, al contrario, todo ande como si no pasara nada, sencilla, alegremente. Haga esto y vivirá feliz…» — *T. II, c. 314 · a una Hija de la Cruz, 1861* `HC`
+  - San Miguel le pide que no deje traslucir sus impresiones ni dé explicaciones inútiles a nadie. La Superiora General, Hna. Saint-Roger, que la había visitado, ya la encontraba más contenta.
+- «Paciencia y siempre adelante.» — *T. II, c. 314 · a una Hija de la Cruz, 1861* `HC`
+  - Fórmula de ánimo con que San Miguel acepta no haber podido combinar la visita a esta religiosa con su viaje a Ustarritz junto al P. Mérigot, director de las Hijas de la Cruz.
+- «…que su vida se desarrolle en una alegría y en una paz inalterables…» — *T. II, c. 323 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1861* `HC`
+  - San Miguel le escribe desde Poitiers, al volver de La Puye, recordando el día de su admisión en Igon, y le confía lo que pide a Dios por ella, también que no se deje llevar por su actividad personal.
+- «Ni Dios ni los hombres le pedirán lo imposible, quédese tranquilo.» — *T. II, c. 330 · al P. Pedro Barbé, Superior del Colegio Moncade, 1861* `SCJ`
+  - San Miguel reprocha al superior de Moncade haberse mantenido al margen en lugar de seguir sus indicaciones sobre el trato con el P. Guilhas, pero lo tranquiliza: la tensa situación del colegio tendrá pronto un desenlace.
+- «Adelante, pues, y no mire nunca atrás ni siquiera para examinarse.» — *T. II, c. 347 · a la Hermana Reine..., Hija de la Cruz, 1861* `HC`
+  - Pasaje que San Miguel escribe en vasco: le asegura que no hay duda de que Dios la quiere para sí y le pide que no vuelva la mirada al pasado para examinar su vocación.
+- «Tiene que dilatar absolutamente su corazón, ante las dificultades exteriores e interiores…» — *T. II, c. 348 · a la Hermana Sophie-Flavie, Hija de la Cruz, 1861* `HC`
+  - San Miguel le pide ensanchar el corazón con confianza ante las dificultades de fuera y los escrúpulos de dentro, recordando que es hija amada del Padre; le advierte que es el demonio quien la impulsa a dejar las comuniones.
+- «Es siempre con un nuevo placer que veo personas agradecidas, felices y constantes en el servicio de Dios.» — *T. II, c. 353 · a la Hermana Théodorine, Hija de la Cruz, 1862* `HC`
+  - Religiosa nacida en Igon, a la que San Miguel da noticias de su pueblo y de conocidos enfermos o difuntos. Antes le agradece la carta en que ella le expresaba su gratitud y su felicidad en la vida religiosa.
+- «…fiel, por amor por Dios; contenta, porque Dios merece ser servido con alegría; constante, porque la perseverancia sola será coronada.» — *T. II, c. 359 · a la Hermana Marie-Séraphique, Hija de la Cruz, 1862* `HC`
+  - Hermana de la Hna. Séraphia y superiora de la comunidad de Caraman, a quien San Miguel escribe aprovechando un viaje de la Superiora General. Le enumera las virtudes que pide para ella y explica el porqué de cada una.
+- «Mire todas sus tentaciones como no sucedidas, no haga nada por ellas ni contra ellas, sino, cuando las sienta, diga: Dios mío, ten piedad de mí.» — *T. II, c. 360 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1862* `HC`
+  - Superiora de una comunidad de Hijas de la Cruz, angustiada por las normas de trato con el párroco, que veía como exigencias sobrehumanas. San Miguel le da un remedio sencillo: no luchar de frente contra la tentación, sino ignorarla y rezar.
+- «…olvide lo que está atrás, y no dejará de alcanzar el fin. Será ciertamente lo que Dios quiera.» — *T. II, c. 390 · al P. Diego Barbé, Superior del Colegio San José, 1863* `SCJ`
+  - Al final de la misma carta de Año Nuevo, San Miguel se dirige al superior de América, su discípulo querido y el sucesor que deseaba. Con palabras de San Pablo lo anima a no mirar atrás y seguir siempre adelante.
+- «…conservar siempre la libertad del alma, que nadie ni nada podrán nunca alterar.» — *T. II, c. 392 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1863* `HC`
+  - En la misma carta, San Miguel explica por qué no hay que dejarse absorber por las obras: quien se reserva para Dios guarda una libertad interior que nadie puede tocar, y desde ella puede obedecer con calma y felicidad.
+- «Dormir, no es todo…; pero… dormir en paz y descansar, eso es lo que nos hace falta absolutamente…» — *T. II, c. 392 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1863* `HC`
+  - Final de la carta: San Miguel juega con la imagen del sueño. Hacer lo que manda la obediencia y descansar en Dios permite “dormir en paz” en esta vida y en la eternidad, y eso desea para ella y pide para sí mismo.
+- «Fidelidad por fidelidad, y será feliz ahora y siempre.» — *T. II, c. 458 · a la Hermana Sophie-Justine, Hija de la Cruz* `HC`
+  - A una Hija de la Cruz que San Miguel conocía desde niña, ya anciana y firme en su vocación, entonces en Colomiers. Dios se ha mostrado siempre fiel con ella, y San Miguel le pide que responda con la misma fidelidad.
+- «Desprecie esas tonterías, no se ocupe de ellas, siga adelante en todo.» — *T. II, c. 464 · a una Hija de la Cruz* `HC`
+  - Breve nota escrita desde Igon, donde San Miguel era capellán de las Hijas de la Cruz, a una religiosa inquieta por algo que le había pasado. Le dice que no ha pecado, que evite esa curiosidad en adelante y que se quede tranquila.
+- «Hagas lo que hagas, viviré y moriré con la gracia de Dios.» — *T. II, c. 466 · a una Hija de la Cruz* `HC`
+  - La religiosa sufría recuerdos de antiguas ocasiones de pecado incluso al comulgar. San Miguel lo toma como señal de que el demonio está descontento y le da una frase para responderle.
+- «Ánimo, Hermana; Dios la ama y la bendecirá siempre; pero sea siempre fiel.» — *T. II, c. 466 · a una Hija de la Cruz* `HC`
+  - Final de la carta: la religiosa le había contado la muerte de su madre y que su hermana había quedado sola y expuesta. San Miguel promete rezar por su madre y la anima a confiar en el amor de Dios y a ser fiel.
+- «Sea sorda y ciega respecto a todas esas cosas, que el demonio le hace ver bajo colores tan particulares y llenos de artificio…» — *T. II, c. 467bis · a una Religiosa* `CL`
+  - A una religiosa turbada por imaginaciones que atribuye al demonio. San Miguel le pide no prestarles atención, elevarse por encima de ellas y repetir una oración de confianza, mientras mantiene ante los demás una conducta edificante.
+- «…todo se le vuelve agradable, hasta en los ejercicios más contrarios a la naturaleza, y, si puedo usar esta expresión, las espinas se vuelven flores.» — *T. II, c. 468 · a una Religiosa* `CL`
+  - Describe el estado de quien vive con fervor la vida religiosa: sostenida por la gracia, encuentra suave incluso lo que más cuesta. Es el estado que la destinataria perdió y que San Miguel quiere ayudarle a recuperar.
+- «La pena pasa, la nube se disipa, las victorias alcanzadas por un alma la fortifican cada vez más y la vuelven desde entonces invencible.» — *T. II, c. 468 · a una Religiosa* `CL`
+  - Primer remedio que San Miguel propone a la religiosa desanimada: retomar con fidelidad los ejercicios descuidados. Advierte que es un error dejarlos para aliviar la pena, y promete que la constancia trae la paz.
+- «En vez de perder su tiempo en pensar en sus pecados, en sus confesiones, emplearlo en hacer actos de fe, de confianza, de caridad…» — *T. II, c. 478 · a una Escrupulosa* `LA`
+  - Reglas que San Miguel escribió de su mano para una persona escrupulosa, muy angustiada por su conciencia, que pasaba de un confesor a otro. Le pide un solo confesor y dedicar el tiempo a actos de fe y caridad en vez de repasar sus pecados.
+- «…sólo hace falta una palabra para asegurar la tranquilidad en su alma, y esta palabra es ésta: “¡Qué bueno es el Señor!» — *T. III, c. 25bis · a la Hermana Stanislas Kostka, Hija de la Cruz, 1844* `HC`
+  - La Hermana atravesaba una situación que San Miguel califica de urgente. En plena preparación de la fiesta de la Asunción, sin tiempo libre, le responde igualmente y le ofrece una sola palabra para recuperar la paz.
+- «…ánimo, entonces, hoy, en la voz del Señor…» — *T. III, c. 492 · a Juan Espagnolle, 1859* `SCJ`
+  - Al final de la carta sobre la conversión de Saulo, San Miguel insiste al religioso, cuya fidelidad vacilaba: Dios está cerca de él y lo llama hoy. Le pide leer Hechos 9 y no postergar su respuesta.
+- «No hay por qué alborotarse.» — *T. III, c. 509 · al P. Víctor Paradis* `SCJ`
+  - El destinatario, religioso propenso a dejarse llevar por iniciativas propias, se había molestado por tener que asistir a unos exámenes como testigo y ayudante de otro sacerdote. San Miguel le pide calma.
+- «…no se desanime por nada. ¡Nada de preocupaciones!» — *T. III, c. 518 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Carta de 1860 al superior del colegio de Orthez, inquieto por el futuro del colegio, la pobreza de la comida y el «qué dirán». San Miguel le recuerda las penurias de los inicios de Betharram y le pide confianza.
+- «…con igual entrega y sobre todo contentos, mostrándose impasibles a todo lo que se pueda decir a su alrededor, exterior e interiormente.» — *T. III, c. 566 · al P. Pedro Barbé, superior del Colegio Moncade, 1861* `SCJ`
+  - El superior de Moncade se preocupaba por el número de alumnos y profesores. San Miguel le pide cuidar bien a los pocos alumnos que tiene, con entrega y alegría, sin hacer caso de las críticas de fuera ni de los propios pensamientos.
+- «Le ruego, no más jeremiadas, no más quejas: sólo pueden arruinarlo en el alma y el cuerpo.» — *T. III, c. 568 · al P. Victor Paradis, 1861* `SCJ`
+  - El P. Paradis, sacerdote de salud frágil, se dispersaba en obras no encargadas, como la de los militares, y se quejaba. San Miguel le pide dedicarse solo al orfanato por el momento y dejar de lamentarse.
+- «…a tomar un impulso generoso, como héroes, para recorrer cada uno su carrera…» — *T. III, c. 573 · al P. Diego Barbé, Superior del Colegio San José, 1861* `SCJ`
+  - Respondiendo al informe del superior sobre los alumnos del colegio de Buenos Aires, San Miguel les concede dos días de feriado para animarlos a crecer con generosidad en sus estudios y en su vida.
+- «Siga haciendo su deber con toda sencillez haciendo lo que pueda para disipar esas tristes nubes y tempestades, que nuestro enemigo no deja de formar.» — *T. III, c. 600 · al P. Angelin Minvielle, Sup. del Seminario de Olorón, 1862* `SCJ`
+  - El P. Hayet, ecónomo de Olorón, amenazaba con dejar la comunidad. San Miguel pidió a todos los religiosos rezar cuarenta días por esta causa y anima al superior a seguir cumpliendo su deber.
+- «…la paz del Señor, que es la única deseable, la única permanente, eterna así como la divina caridad, de la que es el primero y más precioso fruto.» — *T. III, c. 603 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1862* `SCJ`
+  - En Olorón parecía haber vuelto la calma, pero San Miguel duda que sea la paz verdadera, la que los religiosos pedían durante los cuarenta días de oración por la comunidad.
+- «¡Adelante! Quae retro sunt obliviscens (Olvidando lo que pasó), usted no dejará de obtener éxito. Sea lo que Dios quiera.» — *T. III, c. 630 · al P. Diego Barbé, Superior del Colegio San José, 1863* `SCJ`
+  - Palabra de ánimo al superior de Buenos Aires, a quien San Miguel aprueba por cómo resolvió un conflicto con un religioso. La cita de san Pablo invita a no mirar atrás.
+- «Nunca se desanimen a pesar de sus debilidades y sus caídas.» — *T. III, c. 641 · a algunas religiosas* `HC`
+  - Serie de consejos espirituales a religiosas, sin fecha; el editor no sabe si es una carta o una lista de consejos. Esta frase anima a no desanimarse con las propias faltas.
+
+## 8. Caridad fraterna y vida comunitaria
+
+*«Que todos los nuestros sean uno»: unión, comprensión, no juzgar.* — 35 frases
+
+- «Obediencia perfecta, caridad inalterable, de eso depende el bien y la conservación de la Congregación.» — *T. I, c. 13 · a la Hermana Marie-Raphaelina, superiora de las Hijas de la Cruz, 1836* `HC`
+  - Conclusión de la carta: el honor y la permanencia de la Congregación dependen de la unión entre las Hermanas y con sus superiores. Las Hijas de la Cruz usaron este texto como explicación oficial de su espíritu.
+- «…que sean pequeñas..., por la humildad; que sean uno... por la obediencia y la caridad.» — *T. I, c. 22 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1844* `HC`
+  - Oración diaria de San Miguel por las Hijas de la Cruz: humildad, obediencia y caridad, de las que, según él, dependen la conservación y el éxito de la Congregación.
+- «…todo lo que haga a esta Hermana, a esta hija, a este enfermo, lo habré hecho a Jesucristo.» — *T. I, c. 46 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1847* `HC`
+  - Pensamiento que San Miguel propone a la superiora para alimentar ese afecto respetuoso: ver a Cristo en cada religiosa, alumna o enfermo (cf. Mt 25,40).
+- «Haga, pues, la obra de la verdad en la caridad; y vivirá, y hará vivir a muchos...» — *T. I, c. 49 · a la Hermana Saint-Jerôme, Hija de la Cruz, 1847* `HC`
+  - San Miguel le recomienda meditar Efesios 4 («realizar la verdad en la caridad») como programa de gobierno: humildad, paciencia, unidad. También le aconseja el «Manual del superior» del P. Aquaviva.
+- «Estimar y querer la Congregación y encontrar en ella la felicidad y la paz, es casi tener asegurada la predestinación…» — *T. I, c. 60 · a la Reverendísima Hna. Saint-Sabinien, Hija de la Cruz* `HC`
+  - Joven Hija de la Cruz que debía su vocación a San Miguel y décadas después fue superiora general. Feliz en la Congregación, la inquietaban sus pecados pasados; San Miguel le prohíbe hacer confesión general.
+- «…ejercer, a ejemplo suyo, la inmensidad de la caridad en los límites de nuestra condición.» — *T. I, c. 85 · a un amigo, 1851* `LA`
+  - Pésame por la muerte de un «verdadero amigo», quizá el canónigo Claverie, clave en la formación de San Miguel. Pide imitar su caridad; «inmensidad de la caridad» es una expresión típica de San Miguel.
+- «…ámense unas a otras, y Dios las bendecirá e, incluso, les perdonará muchos pecados; pero ámense en Dios y por Dios.» — *T. I, c. 88 · a una Hija de la Cruz, 1852* `HC`
+  - Hija de la Cruz en una comunidad unida, pero con dificultades con su superiora. San Miguel alaba esa unión, pero pide que el amor mutuo sea en Dios y por Dios.
+- «…nunca responder insulto por insulto, frialdad por frialdad… sino ser siempre usted misma, imperturbable…» — *T. I, c. 155 · a la Hermana Marie-Victorina, Hija de la Cruz, 1858* `HC`
+  - Febrero de 1858. La religiosa sufría desaires del párroco del lugar y quería «hacerse la valiente». San Miguel le explica cómo hacerlo bien: sin devolver ofensa por ofensa, manteniendo la cortesía y siendo siempre ella misma.
+- «Si cada miembro de la Comunidad quiere arreglar así los asuntos de la Comunidad desde su punto de vista, ¿que será de la Comunidad?» — *T. II, c. 210 · a Monseñor Lacroix, Obispo de Bayona, 1859* `CL`
+  - Algunos religiosos de Orthez habían pedido directamente al obispo, sin pasar por San Miguel, abrir un segundo curso en el colegio. San Miguel le expresa respetuosamente su desaprobación: saltarse al superior divide a la comunidad, aunque se somete a lo que el obispo decida.
+- «Sólo la ausencia del espíritu de humildad, de caridad, de obediencia y de entrega… divide, paraliza y arruina esta obra» — *T. II, c. 211 · a un Profesor del Colegio Moncade, 1859* `SCJ`
+  - En agosto de 1859 el colegio Moncade de Orthez estaba dividido por rivalidades y por el rumor de que se lo quería arruinar. San Miguel escribe a uno de sus profesores que la causa del mal no son los planes de estudio, sino la falta de humildad, caridad y obediencia.
+- «…cuidémonos de comernos entre nosotros mismos, y de arruinar la obra de Dios con nuestras propias manos.» — *T. II, c. 212 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - San Miguel pide que en Orthez se diga solo lo que dijo el obispo (que habría escuela primaria como antes) y que cesen las rivalidades entre el colegio Moncade y la escuela de la parte baja de la ciudad, con las que se arruinaba desde dentro la obra de Dios.
+- «…podemos ejercer la inmensidad de la caridad en los límites de toda posición, que nos hace la Providencia bajo las órdenes de los Superiores» — *T. II, c. 215 · al P. Augusto Etchecopar, 1859* `SCJ`
+  - El P. Etchecopar era visitador de las casas de la Sociedad en 1859. San Miguel le escribe por la crisis del colegio Moncade de Orthez, donde se murmuraba que se quería arruinar la obra, y le recuerda que la caridad puede vivirse sin límites dentro del puesto asignado.
+- «Personas y cosas… repugnantes, que la Iglesia encierra en su seno, no deben impedir… a sus hijos mirarla y proclamarla como la Iglesia de Dios» — *T. II, c. 226 · al P. Jacques Dartigues, 1859* `SCJ`
+  - El destinatario, profesor en Orthez, se escandalizaba de cosas de la comunidad que no le competían, hasta perderle estima. San Miguel le recuerda que tampoco las miserias de personas y cosas dentro de la Iglesia impiden reconocerla como santa.
+- «…nadie puede ser verdaderamente amigo de otro, si no lo es primero de la verdad.» — *T. II, c. 240 · a la Hermana Vincent de Bonnecaze, Hija de la Cruz, 1860* `HC`
+  - Siguiendo a san Agustín, San Miguel explica a la religiosa que la amistad verdadera no se apoya en ventajas temporales, sino en un amor gratuito que nace del amor a la verdad y a la felicidad eterna.
+- «…por bagatelas, no hace falta ir ante los tribunales, ni faltar a la caridad.» — *T. II, c. 259 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Sobre las pensiones del colegio Moncade: el mes comenzado debe pagarse entero, según el folleto del colegio, pero las excepciones son cuestión de prudencia. San Miguel recuerda al superior no llegar a pleitos ni faltar a la caridad por pequeñeces.
+- «…encontrará todo el amor paternal y fraternal que ha dejado, sobre todo ese amor paternal más fuerte que la muerte…» — *T. II, c. 276 · al P. Florencio Lapatz, 1860* `SCJ`
+  - El joven profesor se había alejado de la Sociedad, poco después de la salida del P. Espagnolle, que San Miguel vivió como la pérdida de un hijo. Le pide volver a Betharram "a cara descubierta", asegurándole el perdón y el afecto paternal.
+- «No se pierde nada en mostrarse generoso, al menos agradecidos.» — *T. II, c. 290 · al P. Diego Barbé, Superior del Colegio San José* `SCJ`
+  - El Sr. Idiart, vasco emigrado, constructor y administrador de los fondos para ampliar el colegio San José de Buenos Aires, merecía reconocimiento; San Miguel le obtuvo una condecoración de la Santa Sede y anima al superior a mostrarse agradecido.
+- «Que todos los nuestros sean uno…» — *T. II, c. 340 · al P. Pedro Barbé, Superior del Colegio Moncade, 1861* `SCJ`
+  - Tras dos años de división en la comunidad del colegio de Orthez, San Miguel se alegra por la reconciliación y desea que la unidad entre los religiosos sea duradera, retomando la oración de Cristo «que sean uno».
+- «Dios mío, no mires mis pecados, sino la Sociedad que tu Sagrado Corazón concibió y formó.» — *T. II, c. 368 · Carta circular, 1862* `SCJ`
+  - Circular de abril de 1862 a los superiores, en una grave crisis: el obispo prefería una sociedad sacerdotal sin votos y había división interna. San Miguel manda rezar esta oración durante cuarenta días por la paz y la unidad.
+- «…practiquemos la gran regla de la caridad fraterna, y sintámonos más bien llevados a participar que a criticar…» — *T. II, c. 377 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Sobre la misma capellanía de San Juan en Buenos Aires: San Miguel pide al superior de los religiosos en América que nadie muestre desconfianza hacia el obispo y que se trate a los demás con caridad fraterna, sumándose a su obra en lugar de criticarla.
+- «…justificar la intención, si es imposible justificar la acción; y si es imposible justificar la intención, ejerzamos la caridad…» — *T. II, c. 377 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - San Miguel enuncia una “gran regla” tomada de San Ignacio: ver primero el aspecto bueno de un acto; si no lo hay, excusar al menos la intención; y si tampoco se puede, corregir con bondad. La aplica al trato con el obispo y el clero de Buenos Aires.
+- «Si nos ayudamos de esta forma, ¡cómo nos ayudará el cielo!» — *T. II, c. 401 · Carta circular* `SCJ`
+  - Fragmento de una circular sin fecha a los religiosos de Betharram. San Miguel pide vivir en la mayor concordia, incluso en las cosas pequeñas, y confiar en la fuerza de la obediencia más que en las propias fuerzas.
+- «¡Oh! ¡Qué bueno, qué dulce es vivir juntos!» — *T. II, c. 404 · al P. Diego Barbé, Superior del Colegio San José* `SCJ`
+  - Carta sin fecha al superior de los religiosos en América. Ambos se alegran de las buenas noticias que se dan, y San Miguel cita el Salmo 133 sobre la alegría de que los hermanos vivan unidos.
+- «…nadie puede ser verdaderamente amigo de un hombre si no lo ha sido primero de la verdad…» — *T. II, c. 459 · a la Hermana Lucie, Hija de la Cruz* `HC`
+  - La religiosa le atribuía a San Miguel gran sabiduría. Él lo rechaza, pero se alegra de su amor a la verdad, y explica que la verdadera amistad es gratuita y nace de ese amor a la verdad, no de ventajas temporales.
+- «…el espíritu de la Comunidad, un espíritu escondido y entregado, y eso constantemente, la volverá infinitamente agradable a los ojos de Dios y útil al prójimo.» — *T. II, c. 467 · a una Hija de la Cruz* `HC`
+  - A una superiora de las Hijas de la Cruz, sobre una hermana con manías y singularidades. San Miguel pide que no busque distinguirse en nada y le opone el espíritu de la comunidad, que consiste en vivir escondida y entregada.
+- «…debería ser la última en pretensiones y la primera en espíritu de sacrificio y caridad.» — *T. II, c. 479 · a una Joven* `LA`
+  - Respuestas a una joven que hacía muchas preguntas sobre su vida espiritual. Sobre la frecuencia de la confesión, San Miguel le pide no exigir tanto al confesor y dejar sitio a los demás penitentes.
+- «Detéstelo, persígalo, calúmnielo; lo querrá más.» — *T. III, c. 9bis · a un desconocido* `LA`
+  - En esta carta sin fecha, San Miguel transmite a un destinatario no identificado el afecto de un amigo común y describe una amistad sobrenatural, que no nace de intereses humanos y que ni la ingratitud ni la injusticia podrían alterar.
+- «Hay que tomar a los hombres como son y tratar de sacar todo el provecho posible, sabiendo sacrificar lo mejor.» — *T. III, c. 490 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - En la misma carta sobre los pedidos llegados de Buenos Aires (título de Misionero Apostólico, misión entre indígenas, fundación en Montevideo), San Miguel invita al superior a un realismo paciente con las personas.
+- «Ayudémonos así y seguro que Dios nos ayudará.» — *T. III, c. 490 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - San Miguel pide al superior de Buenos Aires ayuda mutua y comprensión con los hermanos de carácter impetuoso, en un momento en que la comunidad multiplicaba proyectos por iniciativa propia.
+- «…unanimidad, pues, contra viento y marea y contra la rabia y la habilidad del Infierno.» — *T. III, c. 519 · al P. Alexis Goailhard, 1860* `SCJ`
+  - Carta de 1860 al ecónomo de la casa de Orthez, que vivía tensiones con su superior. San Miguel espera que la comunidad mantenga la unidad en la oración y la acción frente a los obstáculos que pone el demonio.
+- «…por tonterías, no hay que ir ni ante los tribunales, ni faltar a la caridad.» — *T. III, c. 519 · al P. Alexis Goailhard, 1860* `SCJ`
+  - El ecónomo de Orthez consultaba sobre el cobro de meses de pensión empezados. San Miguel le recuerda que el reglamento obliga a pagarlos enteros, pero le pide no llegar a pleitos ni faltar a la caridad por asuntos menores.
+- «Si nos ayudamos de esa manera, ¡cómo nos ayudará el cielo!» — *T. III, c. 550 · al P. Angelin Minvielle, superior del Seminario de Olorón, 1861* `SCJ`
+  - San Miguel envía un joven religioso a Olorón para reemplazar a otro destinado a Buenos Aires, y pide al superior formarlo en la concordia, incluso en las cosas más pequeñas, según un texto de las Reglas que cita en latín.
+- «Que todos los nuestros sean uno… En esto, insiste oportuna e inoportunamente.» — *T. III, c. 570 · al P. Angelin Minvielle, Sup. del Seminario de Olorón, 1861* `SCJ`
+  - San Miguel reorganiza al personal del seminario de Olorón, en medio de tensiones internas. Cita en latín la oración de Cristo por la unidad y el consejo de san Pablo de insistir 'a tiempo y a destiempo'.
+- «Quisiera que todos tengan siempre razón, y que el diablo y la triste humanidad fueran los únicos en equivocarse y nunca las personas.» — *T. III, c. 579 · al P. Juan Cazedepats, 1861* `SCJ`
+  - El P. Cazedepats, religioso del colegio de Orthez, había escrito una carta que San Miguel cree no del todo inspirada por Dios. San Miguel le envía un visitador y distingue entre las faltas de la naturaleza humana y las personas, que desea irreprochables.
+- «…tender más a ver el lado bueno que a censurar, justificar la intención cuando es imposible justificar la acción…» — *T. III, c. 613 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - San Miguel advierte al superior de Buenos Aires contra invocar las Constituciones de la Sociedad para oponerse al obispo, y le recuerda la regla de la caridad fraterna.
+
+## 9. Gobierno y acompañamiento
+
+*Consejos a superiores, formadores y directores: tomar a los hombres como son.* — 73 frases
+
+- «…en la dirección de las almas, no hay que salir de una simple posibilidad, hay que fundar las decisiones sobre los hechos.» — *T. I, c. 5 · a un eclesiástico* `CL`
+  - Un sacerdote consultaba si absolver a un músico ambulante que tocaba en bailes, entonces muy mal vistos. San Miguel, aún de criterio rigorista (según el editor), responde que hay que decidir según los hechos, no por simples posibilidades.
+- «Consiga usted misma el espíritu y la vida de su Congregación en la práctica de una perfecta obediencia; obedezca incluso mandando.» — *T. I, c. 13 · a la Hermana Marie-Raphaelina, superiora de las Hijas de la Cruz, 1836* `HC`
+  - Superiora de las Hijas de la Cruz, congregación fundada en 1807 para la enseñanza y el cuidado de enfermos, de cuya casa de Igon San Miguel era capellán. En este «manual» de gobierno le pide ser la primera en obedecer.
+- «Ámelas sin límites y porque Dios las ama y porque son capaces de amar y actúe siempre con ternura.» — *T. I, c. 13 · a la Hermana Marie-Raphaelina, superiora de las Hijas de la Cruz, 1836* `HC`
+  - San Miguel le pide ganarse el corazón de sus Hermanas con ternura, citando a san Vicente de Paúl, que se arrepentía de las pocas veces que reprendió con dureza y todo lo obtuvo con dulzura.
+- «…ese espíritu, que le hizo amar tanto a las personas y corregir sus vicios, como persona que los amaba. Era bueno. Era encantador.» — *T. I, c. 36 · a una Superiora de las Hijas de la Cruz, 1846* `HC`
+  - Breve carta a una superiora: San Miguel la exhorta a dejarse guiar por el espíritu de Jesús, que desde niño dijo «Aquí estoy» y amaba a las personas aun al corregirlas.
+- «Que nadie ambicione gobernar a sus hermanos; si siente el deseo, que lo ahogue enseguida…» — *T. I, c. 41 · a una superiora de las Hijas de la Cruz, 1847* `HC`
+  - Texto sobre el gobierno religioso dirigido a una superiora. San Miguel advierte contra la ambición de mandar, pero pide aceptar el cargo con sinceridad y confianza cuando Dios lo impone.
+- «Gobernar, al menos en la caridad, es dar a luz.» — *T. I, c. 41 · a una superiora de las Hijas de la Cruz, 1847* `HC`
+  - Imagen central del texto: la superiora es como una madre que da a luz con dolor; el sufrimiento es inevitable en el gobierno, pero si Dios está con ella todo irá bien.
+- «Debe ser prudente… pero tenga por seguro que lo será siempre suficientemente con las criaturas, si es siempre sencilla con Dios.» — *T. I, c. 41 · a una superiora de las Hijas de la Cruz, 1847* `HC`
+  - Cierre del texto: la prudencia es capital al gobernar, pero la mejor garantía es una relación sencilla, confiada y filial con Dios. El editor defiende que el texto es de San Miguel, aunque Mons. Gay publicó uno parecido.
+- «…ámelas y estímelas mucho y actúe con ellas constantemente, constantemente, como persona que las quiere y las estima…» — *T. I, c. 46 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1847* `HC`
+  - El método que San Miguel le resume «en cuatro palabras»: amar y estimar a quienes tiene a su cargo, y actuar así siempre, incluso al instruirlas, premiarlas o castigarlas.
+- «…el verdadero método especial, es no considerar nada invariable; es, creo, variar con destreza... según las circunstancias de la persona…» — *T. I, c. 55 · al P. Juan Domingo Miégeville, 1848* `CL`
+  - El destinatario le preguntaba cómo dirigir los Ejercicios Espirituales de san Ignacio. San Miguel responde que el método se aprende practicándolos según el Directorio y adaptándolos a cada persona.
+- «…condúzcase siempre de manera a granjearse su afecto, para utilizarlo sólo para llevarlas más eficazmente a Dios.» — *T. I, c. 62 · a la Reverendísima Hermana Saint-Sabinien, Hija de la Cruz, 1849* `HC`
+  - Consejo para su nuevo cargo: ganarse el afecto de sus Hermanas, pero solo como medio para llevarlas a Dios.
+- «El mejor médico, es el que ha estado a menudo enfermo él mismo.» — *T. I, c. 78 · a la Reverendísima Hna. Saint-Sabinien, Hija de la Cruz, 1850* `HC`
+  - Una de las utilidades de la tentación según San Miguel: la experiencia propia vuelve más compasivo y más apto para enseñar a otros a vencerla.
+- «Que no se tergiversen las cosas, que se comprendan tal como son y que se atengan a ellas, hay que ejercer en eso la inmensidad de la caridad.» — *T. I, c. 86 · al P. Pedro Barbé, Superior del colegio Moncade, 1852* `SCJ`
+  - Discípulo predilecto de San Miguel, dirigía la escuela de Orthez. San Miguel le transmite las disposiciones del obispo sobre confesiones y obras, y le pide aplicarlas tal como son, sin desvirtuarlas.
+- «…hagamos lo que hagamos, tendremos siempre la imperfección de los instrumentos, como condición inevitable de todo bien…» — *T. I, c. 95 · al P. Juan Hayet, Superior del Colegio San Francisco, 1853-1854* `SCJ`
+  - El destinatario había fundado en 1849 el colegio de Mauléon, instalado en un viejo convento en ruinas, con escasos medios y muchas dificultades. Agotado e impaciente, recibe este llamado a sacar el mejor partido de lo que hay, sin pretender la perfección.
+- «…el celo amargo no vale nada; el celo es el hijo de la caridad; debe, pues, ser firme, pero sobre todo dulce y misericordioso…» — *T. I, c. 97 · a una Superiora de las Hijas de la Cruz, 1854* `HC`
+  - Enero de 1854. La superiora le había consultado sobre su modo de gobernar y varias dudas de conciencia. San Miguel le recuerda que el celo de quien manda debe nacer de la caridad: firme, pero materno, sin dureza.
+- «No arranque nunca la cizaña, ni a la vez, ni antes de tiempo, ni en detrimento del trigo.» — *T. I, c. 97 · a una Superiora de las Hijas de la Cruz, 1854* `HC`
+  - En la misma carta sobre el difícil arte de gobernar, San Miguel alude a la parábola del trigo y la cizaña: la superiora no debe querer corregir de golpe todos los defectos, ni los de sus hermanas ni los propios, sino saber esperar el tiempo de Dios.
+- «…teniendo que usar una gran discreción, el silencio y sobre todo la paciencia. Así ha funcionado la obra.» — *T. I, c. 108 · al P. Romain Bourdenne, Sup. del Colegio San Francisco, 1855* `SCJ`
+  - El destinatario acababa de asumir la dirección del colegio de Mauléon y se inquietaba por el número de alumnos y profesores. San Miguel le cuenta cómo se fundó la escuela de Betharram y cómo él solo sorteó los conflictos con la Academia y los inspectores de Pau.
+- «…tiene que tener mucho cuidado de la salud de sus hermanas, para que nunca teman que les falte el cuidado de la madre más cariñosa y atenta.» — *T. I, c. 109 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1854* `HC`
+  - La destinataria, superiora de una comunidad de Hijas de la Cruz, le había consultado varios casos de conciencia. Entre otras indicaciones prácticas, San Miguel le pide velar con ternura maternal por la salud de sus hermanas.
+- «…lo pastoreará con la oración del espíritu, con la exhortación de la palabra y con el ejemplo de la acción.» — *T. I, c. 129 · a una Superiora de las Hijas de la Cruz, 1857* `HC`
+  - Para ayudarla a gobernar a sus hermanas, San Miguel le transmite una «receta» de san Bernardo, tomada del P. Aquaviva: guiar con la oración, la palabra y el ejemplo, mediante nueve «perfumes» como la compasión, el celo y la paciencia.
+- «Sin duda sufre mucho, sufrirá; pero es la condición de todas las madres, sobre todo de las madres espirituales.» — *T. I, c. 131 · a una Superiora de las Hijas de la Cruz, 1857* `HC`
+  - Febrero de 1857. La superiora sufría por la relación con sus compañeras de comunidad. San Miguel le pide mucha paciencia y corazón materno, ganándolas con atenciones y caridad, porque ese sufrimiento es propio de toda madre espiritual.
+- «…recemos y hagamos lo mejor que podamos, contando siempre sólo con su bendición, como verdaderos novicios en el arte de las artes…» — *T. I, c. 138 · al P. Augusto Etchecopar, 1857* `SCJ`
+  - El destinatario, de 27 años, acababa de ser elegido maestro de novicios y se declaraba incapaz. San Miguel le responde que, desde la Revolución, todos los sacerdotes ejercen ministerios difíciles sin la formación conveniente.
+- «…demasiado a menudo, por desgracia, he visto los cedros del Líbano por tierra, arrastrando en su caída a una multitud de débiles.» — *T. I, c. 151 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1858* `SCJ`
+  - Borrador para el superior del seminario de Oloron sobre un joven religioso de conducta imprudente. San Miguel evoca ermitaños que, pese a sus virtudes, cayeron por falta de discernimiento, y alude a caídas de sacerdotes que él mismo presenció.
+- «Las intenciones son buenas; es la luz la que falta.» — *T. I, c. 152 · al P. Angelin Minvielle, Superior del Seminario de Olorón, 1858* `SCJ`
+  - Enero de 1858. Había descontento entre los religiosos del seminario de Oloron. San Miguel lo atribuye a error e ignorancia más que a mala voluntad, y envía instrucciones sobre el discernimiento y las reglas para leer en conferencias comunitarias.
+- «Hay que tomar a los hombres como son, y tratar sólo de sacar todo lo bueno posible, sabiendo sacrificar lo mejor.» — *T. I, c. 163 · al P. Diego Barbé, Superior del Colegio San José, 1858* `SCJ`
+  - Hacia 1858. Algunos misioneros de Buenos Aires habían pedido, sin consultar a San Miguel, el título de misioneros apostólicos. Escribiendo al superior de la misión, critica sus «ideas fijas», pero pide soportarlos y aprovechar lo bueno que tienen.
+- «…un excelente brazo, con tal que comprenda que no es sino un brazo, y que piense sólo en desempeñar el oficio de brazo…» — *T. I, c. 167 · al P. Pedro Barbé, Superior del Colegio Moncade, 1858* `SCJ`
+  - Noviembre de 1858. El P. Goaillard acababa de ser nombrado ecónomo de las obras de Orthez. San Miguel aconseja al superior cómo integrarlo: es muy capaz, siempre que se limite a su función de colaborador sin invadir otras.
+- «Apúrese a poner orden en este asunto, y a transmitir a los demás serenidad, por medio de la suya propia...» — *T. II, c. 179 · al P. Pedro Vignau, Superior de San Luis Gonzaga, 1859* `SCJ`
+  - San Miguel escribe al superior de la residencia de Pau para resolver el caso del P. Paradis: precisa qué ministerio con soldados y enfermos permitirle y le pide hacer cumplir la regla. Le insiste en que su propia calma es el modo de serenar a la comunidad.
+- «Ame a toda esa gente, trátelos de manera que lo amen…» — *T. II, c. 188 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - San Miguel presenta al superior de la misión en Buenos Aires a los nuevos misioneros que le envía en 1859, con sus cualidades y defectos (indolencia, imaginación, carácter difícil). Le pide ganarse su afecto y hacerlos progresar según el espíritu de las reglas.
+- «…el bien que tiene que durar no se hace sino lenta, imperceptiblemente…» — *T. II, c. 196 · al P. Juan Espagnolle, 1859* `SCJ`
+  - El destinatario, de celo impulsivo, vivía triste por las imperfecciones del gobierno de la comunidad y soñaba con reformas. San Miguel le pone el ejemplo de la Iglesia, que tolera lo que no puede extirpar y reforma con paciencia y lentitud.
+- «Que la economía y la religión vayan al unísono, ayudándose recíprocamente, en vez de estorbarse, destruirse.» — *T. II, c. 219 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - En Moncade la parte material dependía de un ecónomo del obispo, el P. Goailhard, religioso de la Sociedad. San Miguel pide al superior que, sin quitarle esa dependencia, lo mantenga fiel a la vida religiosa, de modo que administración y religión colaboren.
+- «Temo que imposibilidades imaginarias lo estén limitando.» — *T. II, c. 225 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - Por la enfermedad del P. Serres, el destinatario había asumido la dirección de las obras de Orthez y se desanimaba ante las dificultades. San Miguel le pide tomar las riendas con firmeza y no dejarse frenar por obstáculos en buena parte imaginarios.
+- «Hay mucha tela, pero el punto está en utilizar lo que se tiene. Tiene misión y gracia para ello.» — *T. II, c. 225 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - San Miguel insiste en que el superior de Orthez cuenta con colaboradores capaces (los PP. Lalanne, Guilhas, Taret) y solo le falta servirse de ellos: tiene la misión y la gracia de su cargo para conducir la obra.
+- «…está en la naturaleza de las cosas avanzar, prosperar por los mismos medios que le dieron nacimiento.» — *T. II, c. 228 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - El P. Dartigues, a cargo de la escuela de Orthez, no seguía el método riguroso de su predecesor. San Miguel pide al superior que lo dirija "como a un niño", para que la obra continúe con los mismos medios con que nació y prosperó.
+- «…una vez el desorden constatado, persígalo sin descanso hasta que haya desaparecido completamente.» — *T. II, c. 229 · al P. Pedro Barbé, Superior del Colegio Moncade, 1859* `SCJ`
+  - Al día siguiente San Miguel insiste al superior de las obras de Orthez: debe actuar sin miedo, ver los desórdenes con sus propios ojos y perseguirlos hasta eliminarlos, apoyándose en las reglas, la obediencia y sus colaboradores.
+- «Los hombres son y serán siempre hombres. Hay que tratar de sacar el mejor partido posible.» — *T. II, c. 231 · al P. Diego Barbé, Superior del Colegio San José, 1859-1860* `SCJ`
+  - El superior de la misión de Buenos Aires sentía el peso de gobernar a otros. San Miguel lo anima evocando el salmo 65 ("pusiste hombres sobre nuestras cabezas"): siempre fue así, y hay que aceptar a las personas como son.
+- «…nada más fácil que estropear los mejores novicios, si no se atiene uno a la observancia de la regla.» — *T. II, c. 251 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Al revisar las cuentas de Moncade, San Miguel ve que el superior repetía los errores del P. Serres: descuentos, cobros atrasados, falta de disciplina. Ante las críticas a la formación de los jóvenes religiosos, responde que sin observancia de la regla se arruina a los mejores.
+- «Tendrá siempre razón ante Dios y ante los hombres, con tal de que actúe en toda la amplitud [de la gracia] y en los límites de las reglas» — *T. II, c. 257 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Tras la muerte del P. Serres, el colegio Moncade sufría indisciplina y descuentos indebidos. San Miguel, de acuerdo con el obispo, pide al nuevo responsable ejercer su autoridad suave en el modo y firme en el fondo, seguro de tener razón si actúa según las reglas.
+- «¡cuánto puede un hombre de buena y firme voluntad, dispuesto a toda clase de sacrificios!» — *T. II, c. 257 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Posdata sobre el P. Claverie: tras seis semanas de espera, reunió a alumnos y profesores, leyó la regla y anunció que la haría cumplir; de la noche a la mañana el seminario cambió. San Miguel lo propone como modelo al vacilante superior de Orthez.
+- «Quiere estar bien con los que están bien contigo; es el mundo al revés…» — *T. II, c. 258 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - San Miguel insiste en que el superior de Moncade imite al P. Claverie, quien enseñaba que nadie tiene razón contra la autoridad. Le reprocha buscar el favor solo de quienes le son favorables, lo contrario de como Dios trata a los hombres.
+- «Cese, pues, de hacerse tan irreconocible; va a ganar siempre haciéndose conocer.» — *T. II, c. 258 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Entre siete consejos de gobierno, San Miguel reprocha al superior de Moncade encerrarse en sí mismo y volverse inaccesible, lo que atemoriza a los demás. Le pide hacerse amable por la caridad y la humildad.
+- «Sea benevolente y suave con todos; firme sin rigidez, sin severidad desubicada.» — *T. II, c. 258 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Cuarto de los siete consejos de gobierno que San Miguel da al superior del colegio Moncade de Orthez, al que reprocha lentitud y encierro: unir bondad y suavidad con una firmeza que no caiga en rigidez ni en severidad fuera de lugar.
+- «Llévelos, y no se deje llevar, compréndalo bien…» — *T. II, c. 261 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - El superior de Moncade creía que se habían equivocado al confiarle un cargo tan difícil. San Miguel le responde que se espera que imponga orden, y le pide conducir a sus colaboradores, como el ecónomo Goailhard, en vez de dejarse conducir por ellos.
+- «Ni Dios ni los hombres le piden el éxito, sino la buena y constante voluntad, esfuerzos constantes en ese sentido; el éxito no es nuestro asunto.» — *T. II, c. 261 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - San Miguel explica al superior de Moncade, desanimado, que como capitán debe guiar a los jóvenes profesores por medio de las reglas y no de su persona. Lo libera de la presión del resultado: solo se le pide buena voluntad y esfuerzo constante.
+- «…hacerse una justa idea de las cosas y actuar sin turbación… sabiendo tolerar una multitud de cosas que todos deben tolerar, vista la debilidad humana» — *T. II, c. 273 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Una de las cartas más dolorosas de San Miguel, ya enfermo: el superior de Moncade seguía sin reformar la casa y sus colaboradores estaban divididos. Le envía al P. Etchecopar y le pide ver las cosas con lucidez, tolerar lo inevitable y perseguir el desorden.
+- «Simplificar las cosas y mostrar un poco de entrega, eso es lo que hace falta para llevar bien… todas las obras divinas.» — *T. II, c. 295 · al P. Pierre Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - El nuevo superior del colegio Moncade de Orthez pensaba instalarse en la escuela primaria de abajo. San Miguel lo desaprueba: con orden y actividad puede atender el colegio, la clase de abajo y a las Damas de Saint-Maur, y debe ajustar el personal a lo que pide el obispo.
+- «Ejerza a su alrededor toda la influencia que pueda… dejándoles, sin embargo, su libertad de acción en el cumplimiento de sus deberes…» — *T. II, c. 296 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - Posdata con consejos de gobierno: San Miguel pide al superior de Moncade asumir a fondo su cargo, reunir a la comunidad cada semana y tratar a cada uno con facilidad, sin sofocar la iniciativa de sus profesores e interviniendo solo si la ve en peligro.
+- «Animar en vez de acabar con ese pobre X... que se arruina por sí mismo… Ilumínelo, levántelo, sosténgalo…» — *T. II, c. 302 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - San Miguel pide al superior de Moncade sostener a un religioso en dificultades, al parecer el P. Guilhas, en vez de hundirlo, como Pío IX, que creó una cátedra para intentar frenar la caída del exjesuita Passaglia.
+- «Ofenderían a Dios si ayunaran, porque se volverían incapaces de cumplir bien sus deberes de estado.» — *T. II, c. 313 · a una Superiora de las Hijas de la Cruz, 1861* `HC`
+  - Carta escrita al comenzar la Cuaresma de 1861 a la superiora de una comunidad dedicada a la enseñanza. Como esa tarea exigía todas sus fuerzas, San Miguel dispensa del ayuno a todas las hermanas.
+- «De lo que se exige con tanta fuerza de los alumnos, tiene que dar ejemplo uno mismo.» — *T. II, c. 319 · al P. Pierre Barbé, Superior del Colegio Moncade, 1861* `SCJ`
+  - Tras advertir a un profesor, San Miguel pide al superior del colegio de Orthez que haga del respeto, la seriedad, la piedad y la observancia de las reglas el tema de sus conferencias del año, empezando por los propios formadores.
+- «Sírvase de él como de su brazo, pero brazo libre…» — *T. II, c. 327 · al P. Pierre Barbé, Superior del Colegio Moncade, 1861* `SCJ`
+  - San Miguel insiste al superior de Moncade en establecer una relación fluida con el P. Guilhas, director del colegio, formándolo en privado en vez de cerrarse y parecer prepararle golpes; debe contar con él como colaborador, respetando su libertad.
+- «En sus límites, la inmensidad de la caridad y de la entrega…» — *T. II, c. 378 · al P. Pedro Sardoy, Capellán de las Clarisas, 1862* `SCJ`
+  - El destinatario, de 52 años, acababa de ser nombrado capellán de las Clarisas de Buenos Aires y casi no había ejercido ese ministerio. San Miguel, con más de treinta años como capellán en Igon, le fija reglas precisas y, dentro de ellas, le pide una entrega sin medida.
+- «…se necesita prudencia; se necesita también amplitud de caridad bien ubicada...» — *T. II, c. 380 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Octubre de 1862: el Vicario Apostólico de Montevideo, Mons. Vera, perseguido por el gobierno uruguayo, se refugió en el colegio de Buenos Aires, y San Miguel aprueba la acogida. Sobre otro caso delicado, el del canónigo Piñero, confía en la prudencia del superior.
+- «Exija a todos la observancia de la regla; en cuanto al fondo, no puede dispensar; en cuanto al modo, toda clase de buenas maneras y caridad.» — *T. II, c. 417 · a Superiores* `SCJ`
+  - Instrucciones sin fecha a superiores de casas de Betharram sobre las cartas, las salidas y el “socio” (compañero obligatorio). San Miguel distingue: la regla misma no se dispensa, pero hay que exigirla con buenos modales y caridad.
+- «Se puede y se debe hacer a menudo en el mundo, no lo que se quiere, sino lo que se puede.» — *T. II, c. 422 · a un Profesor del Seminario de Olorón* `SCJ`
+  - A un profesor que se quejaba del nivel de sus colegas: San Miguel reconoce que no todos son lo que él quisiera y que le gustaría que fueran doctores, pero sostiene que se puede enseñar bien sin ser bachiller y que hay que ser realista.
+- «…el P. X. lo ayudará así como ayuda a todos los nuestros. Es nuestro deber, pero también nuestro placer, créalo.» — *T. II, c. 444 · a un Hermano del Sagrado Corazón* `SCJ`
+  - A un Hermano preocupado por dificultades en su comunidad. San Miguel le asegura que obedeciendo no tiene nada que temer y que su superior lo ayudará, porque ayudar a los suyos es para ellos una alegría además de un deber.
+- «…ayudar a las almas a ayudarse a sí mismas a que se pongan bajo la guía del Espíritu Santo…» — *T. II, c. 456 · a un Director de Almas* `CL`
+  - A un sacerdote que acompañaba vocaciones. San Miguel recomienda el Directorio de los Ejercicios y las Industrias del P. Aquaviva, y pide que el director solo ayude a que cada alma elija bajo la guía del Espíritu Santo, dejándole mucha libertad.
+- «…la felicidad de una Comunidad no sale de otro principio que de la felicidad del hombre…» — *T. II, c. 461 · a una Superiora Provincial* `HC`
+  - Carta que se inspira en un texto de San Agustín sobre el Estado. San Miguel aplica a una comunidad religiosa la idea de que la felicidad de un grupo depende de la de cada persona, y la propone a una religiosa que gobernaba una provincia.
+- «…de querer formar a los demás a su imagen, siempre será desgraciado y terminará por volverse imposible.» — *T. III, c. 486 · al P. Juan Espagnolle, 1859* `SCJ`
+  - Carta de 1859 a un religioso de Betharram, entonces profesor de retórica en el seminario de Olorón, inteligente pero inquieto. San Miguel le advierte contra su afán desordenado de reformarlo todo y moldear a los demás.
+- «Quería ver puesto en sus rieles un vagón por quien yo gemía al verlo descarrilar.» — *T. III, c. 497 · al P. Cipriano Espagnolle, 1859* `SCJ`
+  - Carta de 1859 a un joven religioso, hermano de otro que estaba en crisis, que deseaba dejar la Sociedad y acusaba a San Miguel de denigrarlo. San Miguel explica que lo retuvo tanto tiempo con la esperanza de verlo enderezarse.
+- «Tiemblo siempre por usted como por su hermano, al que llevo al altar todos los días.» — *T. III, c. 507 · al P. Cyprien Espagnolle, 1860* `SCJ`
+  - Escrita en enero de 1860, cuando el hermano del destinatario acababa de dejar la Sociedad. San Miguel teme que ambos acaben como las vírgenes necias, por falta de intención pura, y reza por ellos cada día en la misa.
+- «En cuanto a las Reglas, no puede dispensar en cuanto al contenido; en cuanto al modo, toda clase de buenas maneras (y de) caridad.» — *T. III, c. 518 · al P. Pedro Barbé, Superior del Colegio Moncade, 1860* `SCJ`
+  - El superior de Orthez tenía tensiones con el ecónomo y los profesores. San Miguel le pide exigir la Regla sin rebajar su contenido, pero con buenos modos y caridad en la forma de aplicarla.
+- «…establecer toda la tranquilidad posible en los demás a través de la que pondrá en usted mismo.» — *T. III, c. 524 · al P. Pierre Vignau, sup. del Colegio San Luis Gonzaga, 1860* `SCJ`
+  - San Miguel pide al superior de la casa de Pau que ordene la situación creada por un religioso que atendía a militares por iniciativa propia, y le da instrucciones precisas. La frase es la posdata de la carta.
+- «Que las cuasi cosas dejen lugar a las cosas.» — *T. III, c. 535 · al Padre Juan Francisco Sécail, 1860* `CL`
+  - Breve carta de 1860 a un sacerdote jesuita, antiguo dirigido de San Miguel, que había recibido bien a religiosos de su orden. La frase, de tono enigmático, invita a pasar de las apariencias a la realidad.
+- «…es un excelente brazo, con tal de que comprenda lo que es un brazo y que sólo piense en cumplir el rol de brazo, en toda su extensión, pero también en sus límites.» — *T. III, c. 548 · al P. Angelin Minvielle, superior del Seminario de Olorón, 1861* `SCJ`
+  - El P. Hayet era ecónomo del seminario de Olorón y chocaba con el superior y los profesores. San Miguel insiste en que sea un colaborador fiel ('brazo') sin salir de su función: si ve desórdenes ajenos a su cargo, solo debe avisar.
+- «…en lo posible, cara a cara, sin comunicaciones indiscretas, que sólo pueden engendrar la desconfianza.» — *T. III, c. 548 · al P. Angelin Minvielle, superior del Seminario de Olorón, 1861* `SCJ`
+  - San Miguel pide que los roces entre el ecónomo, los profesores y el superior del seminario de Olorón se arreglen 'en familia', con caridad y hablando directamente, y que solo se recurra al obispo si es necesario.
+- «Que su vice-ministro sea su brazo derecho, como usted debe ser el mío. De lo contrario, sólo tenemos que perder.» — *T. III, c. 557 · al P. Pedro Barbé, superior del Colegio Moncade, 1861* `SCJ`
+  - San Miguel recuerda las instrucciones que le había dado al superior de Moncade: el P. Guilhas debía rendirle cuentas y obrar a su vez con su propio vice-ministro, así como el superior debía obrar con San Miguel.
+- «Se hace y se debe hacer muy a menudo en el mundo, no lo que se quiere, sino lo que se puede.» — *T. III, c. 567 · al P. Florent Lapatz, 1861* `SCJ`
+  - El P. Lapatz, profesor del seminario de Olorón, criticaba el plan de estudios y la falta de profesores con título. San Miguel reconoce que los profesores no son ideales, pero hay que trabajar con lo que se tiene.
+- «…acertará rezando, inspirándose en las Reglas, y sin soltar la presa, yendo siempre adelante.» — *T. III, c. 570 · al P. Angelin Minvielle, Sup. del Seminario de Olorón, 1861* `SCJ`
+  - San Miguel aconseja al superior de Olorón sobre el P. Hayet, ecónomo algo precipitado pero capaz y entregado: integrarlo como colaborador, ayudarlo a entender su función y perseverar en ello.
+- «Ensaye siempre; refiérase a mí; no tendrá que arrepentirse, ni ante Dios, ni ante sus Superiores.» — *T. III, c. 576 · a la Madre Ágata, Superiora de las Damas de Saint-Maur, 1861* `CL`
+  - San Miguel pide a la superiora que exponga con confianza sus dificultades al nuevo capellán, como lo hacía con el anterior, siguiendo un método impreso para conocer la voluntad de Dios.
+- «…nada más allá: en esos límites, la inmensidad de la caridad y de la entrega. Todo eso y nada más que eso.» — *T. III, c. 577 · al P. Pedro Barbé, Superior del Colegio Moncade, 1861* `SCJ`
+  - Regla que San Miguel da al nuevo capellán de las religiosas de Orthez: ocuparse de los asuntos de la comunidad, fuera de la confesión, solo cuando la superiora lo pida y en la medida en que eso la ayude a cumplir sus Reglas.
+- «…como verdadero auxiliar de la Superiora; nada más que esto, con el fin de ser con esto mismo completamente auxiliar de Dios.» — *T. III, c. 578 · al P. Augusto Etchecopar, 1861* `SCJ`
+  - Instrucciones dictadas por San Miguel al P. Etchecopar, enviado como visitador a Orthez, sobre la actitud de los capellanes en el convento: ayudar a la superiora, sin pretender dirigir la comunidad.
+- «Los hombres son y serán siempre hombres, hay que sacar el mejor provecho posible.» — *T. III, c. 590 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - El superior de Buenos Aires sentía el peso de gobernar a sus religiosos. San Miguel le recuerda un salmo sobre el peso de la autoridad y le pide aceptar las limitaciones de las personas con realismo.
+- «…si hace falta prudencia, hace falta también una gran apertura de caridad bien ubicada.» — *T. III, c. 594 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Un canónigo de Buenos Aires había pedido una ayuda en especie que prometía devolver. San Miguel deja la decisión al superior y le pide unir la prudencia con una caridad generosa.
+- «Sólo puedo animarlo una vez más a seguir siempre esta línea de conducta… disponiendo todo con fuerza y suavemente.» — *T. III, c. 619 · al P. Juan Bautista Harbustán, 1862* `SCJ`
+  - El P. Harbustán había sido arrestado en Montevideo por negarse a reconocer al Vicario Apostólico que imponía el gobierno, y huyó a Buenos Aires. San Miguel aprueba su firmeza y moderación.
+- «…para ayudar a las almas a ayudarse ellas mismas, a que se pongan bajo la guía del Espíritu Santo…» — *T. III, c. 626 · al P. Jean Florence, 1862* `SCJ`
+  - Sobre el discernimiento vocacional de los jóvenes, San Miguel remite al Directorio de los Ejercicios de San Ignacio: el director debe ser instrumento del Espíritu Santo y respetar la libertad de cada uno.
+
+## 10. Misión, celo apostólico y educación
+
+*Corazón de apóstol, auxiliares y no obstáculos, la obra educativa.* — 39 frases
+
+- «Se trata de convertir el corazón de esas pobres chicas en corazones apostólicos, con la gracia de Dios.» — *T. I, c. 22 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1844* `HC`
+  - Hija de la Cruz en Colomiers, con jóvenes a su cargo; más tarde fue provincial y asistente general, con un don especial para despertar vocaciones. San Miguel le envía consejos del P. Aquaviva y de san Bernardo para superiores.
+- «…hágase pequeña, anonádese; pero también tenga un corazón grande, un alma valiente, un corazón de apóstol.» — *T. I, c. 22 · a la Hermana Jeanne-Sophie, Hija de la Cruz, 1844* `HC`
+  - Para la tarea de formar a esas jóvenes, San Miguel le pide unir la humildad y la desconfianza de sí con un ánimo grande y apostólico, apoyado en Dios.
+- «Ejerza la inmensidad de la caridad en donde está; conságrese sin condiciones a la obra de Garaison.» — *T. I, c. 55 · al P. Juan Domingo Miégeville, 1848* `CL`
+  - Sacerdote de los misioneros de Garaison, a quien San Miguel había orientado allí, y que pensaba en otras opciones. San Miguel le dice que no haga más gestiones y se entregue por entero a esa obra.
+- «…toda empresa que Dios y sus ministros nos confíen, hay que iniciarla y proseguirla como si tuviera promesas de inmortalidad.» — *T. I, c. 67 · a un Sacerdote del Sagrado Corazón, 1850* `SCJ`
+  - Un sacerdote de la congregación de San Miguel se había indignado por ciertos sucesos y lo había comentado con sus compañeros. En plena expansión de la Sociedad, San Miguel le explica con qué espíritu emprender las obras.
+- «Seamos muy buenos, nosotros, y luego Dios hará milagros de conversión.» — *T. I, c. 77 · a una Hija de la Cruz, 1850* `HC`
+  - Al darle noticias de su familia, San Miguel comenta que uno de sus parientes aún no había hecho su Pascua: la mejor ayuda es la propia bondad; Dios hará el resto.
+- «Celo, pues, para plantar y regar bajo la mano de Dios como pequeña y generosa Hija de la Cruz y luego abandono completo en Dios en cuanto al crecimiento.» — *T. I, c. 79 · a una Hija de la Cruz, 1850* `HC`
+  - Hija de la Cruz que tenía una alta idea de su trabajo. San Miguel lo llama verdadero apostolado y le recuerda, con san Pablo (1 Cor 3,6), que a ella le toca plantar y regar, y a Dios dar el crecimiento.
+- «…ejerza la inmensidad de la caridad en los límites de esa posición, con un corazón grande, un alma que quiere.» — *T. I, c. 107 · a la Hermana Zéphirin-Saint-Blaise, Hija de la Cruz, 1854* `HC`
+  - Ante la queja de que había mucho por hacer en su cargo, San Miguel le pide no dar más vueltas y vivir una caridad sin medida dentro de los límites concretos de su puesto, contando solo con Dios y sin preocuparse del éxito.
+- «Hay que dedicarse al estudio del corazón humano.» — *T. I, c. 111 · Carta Circular, 1855* `SCJ`
+  - Quinto principio de la circular de 1855 sobre la vida interior de los religiosos. La frase aparece sin más desarrollo, entre las consignas para vivir unidos a Dios en medio de la actividad apostólica.
+- «Cuando se sacrifica por las almas, dé, dé todo lo que tiene.» — *T. I, c. 113bis · al P. Simón Guimon, 1855* `SCJ`
+  - Durante la epidemia de cólera de 1855, el destinatario asistía a los enfermos en Salies-de-Béarn, donde muchos morían en la miseria. Había recibido donativos y, por su voto de pobreza, pidió permiso para usarlos; esta es la respuesta.
+- «Pida a Dios por ellos un pequeño viático material y un rico viático espiritual.» — *T. I, c. 118 · a la Hermana Saint-Jérôme, Hija de la Cruz, 1856* `HC`
+  - San Miguel pide oraciones porque Betharram preparaba su primera misión en América: cinco o seis misioneros y algunos hermanos rumbo a Montevideo. Según el editor, una benefactora de Oloron terminó donando el dinero del viaje.
+- «…hacer lo que Dios quiere y como él lo quiere. Lo que Dios quiere, lo sabe por sus deberes actuales de alumno.» — *T. I, c. 127 · a un Superior de Seminario Menor, 1856-1857* `CL`
+  - Respuestas de San Miguel a un superior de seminario menor (probablemente el de Oloron) sobre cómo discernir la vocación sacerdotal de los alumnos. Sobre qué verdades morales inculcar al futuro seminarista, lo resume todo en la voluntad de Dios.
+- «Ordinate, diligenter, es decir, con el cuidado y aplicación que pide la voluntad y la presencia de Dios…» — *T. I, c. 127 · a un Superior de Seminario Menor, 1856-1857* `CL`
+  - Continúa la misma respuesta: la voluntad de Dios se cumple realizando los deberes cotidianos «con orden y diligencia» (en latín, ordinate, diligenter), con abnegación y a imitación de Cristo.
+- «Siempre llega demasiado pronto el momento en que hay que poner por obra todos esos medios. Felices, entonces, si estamos preparados.» — *T. I, c. 147 · al P. Daniel Cameigt, 1858* `SCJ`
+  - Mientras no pueda ingresar por ser menor de edad, San Miguel aconseja al joven aprovechar el tiempo creciendo en ciencia, virtud y fuerzas, para estar listo cuando llegue el momento de servir a Dios y a las almas.
+- «No es ni con las cuotas de pensión, ni con el número de alumnos que hacemos prosperar un establecimiento.» — *T. I, c. 173 · al P. Honoré Serres, 1858-1859* `SCJ`
+  - El destinatario era el director oficial del colegio Moncade de Orthez, cuyo internado competía con el de la escuela primaria de la ciudad. San Miguel le recuerda que las obras prosperan por la gracia de Dios y el espíritu de las reglas, no por las cifras.
+- «…ante todo, que se siga haciendo todo el bien posible en donde se está.» — *T. II, c. 184 · al P. Diego Barbé, Superior del Colegio San José, 1859* `SCJ`
+  - Los misioneros de Betharram en Buenos Aires atendían a vascos y franceses en una capilla prestada y querían construir una iglesia propia. San Miguel lo juzga inadmisible en una ciudad con tantas iglesias y les pide, como sacerdotes auxiliares, hacer el bien donde están.
+- «La mejor manera de hacer prosperar las clases, es sacar buen partido de lo que se tiene, bien conducir lo que se tiene…» — *T. II, c. 207 · al P. Jacques Dartigues, 1859* `SCJ`
+  - En 1859 el obispo exigía restablecer la escuela primaria de francés en Orthez, donde se lamentaba la falta de alumnos. San Miguel pide al destinatario, profesor de Moncade, obedecer sin rodeos y cuidar mejor a los pocos alumnos, como hizo el P. Barbé en Betharram y en Buenos Aires.
+- «Pidamos al buen Dios, para todos los nuestros ese espíritu apostólico, tan fecundo en frutos prodigiosos.» — *T. II, c. 207 · al P. Jacques Dartigues, 1859* `SCJ`
+  - Conclusión de la misma carta: tras narrar cómo el colegio de Buenos Aires pasó de cinco a cien alumnos sin que su superior se desanimara, San Miguel contrapone ese espíritu, que hace prosperar las obras, al desaliento que las paraliza y destruye.
+- «Ame a los pobres y a los afligidos. Sea, cuanto le sea posible, la consolación y el recurso de los desgraciados.» — *T. II, c. 233 · a una Señora, 1860* `LA`
+  - San Miguel confirma a esta mujer en su situación: seguir cuidando de su madre y de la pequeña comunidad que el Señor le confió, y dedicarse a los pobres y afligidos, con la promesa de que Dios multiplicará en sus manos los medios de hacer el bien.
+- «Las ciencias, las letras, la teología deben ser sumisas y no ser dueñas; deben seguir no conducir.» — *T. II, c. 241 · al P. Florencio Lapatz, 1860* `SCJ`
+  - San Miguel teme que el joven profesor ponga los estudios en lugar del fin y arruine su salud por ellos. Apoyándose en san Juan Crisóstomo y san Jerónimo, le enseña que la ciencia debe estar al servicio de la religión y del ministerio sacerdotal.
+- «¿Qué son nuestros obstáculos ante semejante hecho, para un hombre que pesa las cosas con el peso del santuario?» — *T. II, c. 271 · al P. Pedro Etchanchu, Capellán del Carmelo de Olorón, 1860* `CL`
+  - El capellán alegaba su edad, su tranquilidad y el bien que hacía en Olorón. San Miguel responde que esas mismas razones fueron vistas como tentaciones en otros misioneros y que pesan poco frente a miles de vascos abandonados en Montevideo.
+- «Sin este fundamento, con toda la erudición y los títulos posibles, sólo se podrá producir un vano esplendor..., nada sólido..., ruinas.» — *T. II, c. 293 · Carta circular, 1860* `SCJ`
+  - Primer punto de la circular a los superiores de colegios: el fundamento de la renuncia a sí mismo y del progreso en la virtud debe preceder y acompañar los estudios, eco de las Constituciones de la Compañía de Jesús que San Miguel retoma.
+- «…es sobre todo en el campo de batalla, y no sólo sobre el terreno de las maniobras, que los guerreros del Sagrado Corazón deben caminar bajo este estandarte.» — *T. II, c. 293 · Carta circular, 1860* `SCJ`
+  - Cierre de la circular: San Miguel exhorta a los superiores a levantar el estandarte del «Aquí estoy» y a usar todos los medios de las reglas; con la imagen militar insiste en que no basta la teoría, sino la práctica en las situaciones reales.
+- «La escuela gratuita y la congregación, eso es lo que es popular y lo que puede hacer un gran bien, si esta tarea es bien hecha.» — *T. II, c. 320 · al P. Juan Ducasse, 1861* `SCJ`
+  - El obispo había decidido que en Orthez la Sociedad se limitara al colegio y a la escuela gratuita, sin escuela paga abajo. San Miguel valora esa escuela y la congregación mariana de jóvenes como lo más popular y fecundo.
+- «…somos y debemos ser sacerdotes auxiliares de los curas con los que trabajamos, sacerdotes auxiliares, ni más ni menos…» — *T. II, c. 350 · al P. Bernardo Sanstort, Cura de Soumoulou, 1862* `CL`
+  - Párroco de Soumoulou que se quejó de la conducta del P. Vignolle, religioso de Betharram que trabajaba con él. San Miguel le pide disculpas y recuerda que los suyos son, por su nombre oficial, auxiliares de los párrocos.
+- «…tenemos que ofrecernos como auxiliares preciosos, jamás estorbos, jamás obstáculos…» — *T. II, c. 377 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Octubre de 1862. Al morir el capellán de las Clarisas de la iglesia de San Juan, en Buenos Aires, el obispo pidió que lo reemplazaran los padres de Betharram, que dudaban. San Miguel pide no escudarse en las Constituciones y servir al obispo como “auxiliares”.
+- «…cuanto más ayudemos en ese sentido, más nos ayudará el cielo.» — *T. II, c. 396 · al P. Diego Barbé, Superior del Colegio San José, 1863* `SCJ`
+  - Abril de 1863, carta dictada por San Miguel enfermo: se plantea traer a Francia a un padre de América para reorganizar las misiones. San Miguel antepone el buen entendimiento con los obispos de Buenos Aires y Montevideo para no perjudicar la obra americana.
+- «Ayúdelo a ponerse bien en el carril, para que pueda luego volar de virtud en virtud…» — *T. II, c. 407 · al P. Augusto Etchecopar* `SCJ`
+  - Fragmento sin fecha. San Miguel pide a uno de sus sacerdotes que atienda bien a un vasco que acudirá a él y lo ayude a encauzar su vida espiritual. La imagen del “carril” vuelve en otros escritos suyos sobre almas desviadas.
+- «…hay que rezar sin cesar y siempre exclamar: “Misericordia. Auxilio. Pronto”. Y plantar y regar al mismo tiempo.» — *T. II, c. 409 · a un Superior de Colegio* `SCJ`
+  - A un superior de colegio, sobre el cuidado de no dar a los alumnos impresiones contrarias a la religión. San Miguel pide rezar sin descanso y, al mismo tiempo, trabajar (“plantar y regar”, como dice San Pablo).
+- «…abrazando con una inmensa caridad toda la amplitud de su gracia y de su posición, y respetando… los límites de una y otra con una delicadeza virginal.» — *T. II, c. 426 · a un Sacerdote del Sagrado Corazón* `SCJ`
+  - Segundo consejo de la misma carta: tender a Dios según la gracia recibida y el puesto que se ocupa, abrazándolos con generosidad pero sin salirse de sus límites, por delicadeza.
+- «…no tema salir todas las veces que la amable Providencia le presente la ocasión de ser útil al prójimo…» — *T. III, c. 9ter · a una persona del mundo, 1833* `LA`
+  - San Miguel anima a esta mujer, inclinada a la vida escondida, a no encerrarse: el amor a Cristo debe darle celo para ganarle corazones. El editor ve aquí una temprana apertura al mundo en la espiritualidad de San Miguel.
+- «…hacer desaparecer la carne y dejar ver sólo el espíritu; pues hay que decirlo en voz alta: sin esta última condición, no hay arte católico.» — *T. III, c. 20bis · al redactor del Memorial de los Pirineos, 1843* `LA`
+  - San Miguel escribe de forma anónima («uno de sus abonados») a un periódico regional sobre el Calvario de Betharram. Elogia la 4.ª capilla, la Flagelación, del escultor Renoir, y expone su idea del arte sagrado.
+- «No, no, mil veces no, no es con descuentos ni con el número que se hace prosperar un establecimiento.» — *T. III, c. 528 · al P. Pedro Barbé, superior del Colegio Moncade, 1860* `SCJ`
+  - El superior del colegio de Orthez quería atraer alumnos ofreciendo descuentos en la pensión. San Miguel rechaza tajantemente esa idea, que considera una obsesión del superior.
+- «…dejando número y éxito al cuidado de Dios. Es el único medio para hacer prosperar nuestras obras, que no son sino la obra de Dios.» — *T. III, c. 528 · al P. Pedro Barbé, superior del Colegio Moncade, 1860* `SCJ`
+  - Frente a la escasez de alumnos en el colegio de Orthez, San Miguel pide no bajar la cuota: aunque haya solo diez alumnos, hay que cuidarlos mejor que nadie y dejar el número y el éxito en manos de Dios.
+- «…un corazón inmenso, lleno de amor, un corazón de Apóstol, que se inmola con una alegría abundante y superabundante…» — *T. III, c. 541 · al P. Domingo Guilhas, 1861* `SCJ`
+  - San Miguel pide al joven director del colegio de Orthez no solo hacer el bien que le piden sus superiores, sino hacerlo con un corazón generoso y alegre, de verdadero apóstol.
+- «…ejerciendo dentro de los límites de su función la inmensidad de la caridad divina y luego dejando todo lo demás… al cuidado de Dios.» — *T. III, c. 541 · al P. Domingo Guilhas, 1861* `SCJ`
+  - San Miguel pide al joven director de Orthez darlo todo dentro de su tarea y dejar en manos de Dios el número de alumnos, el «qué dirán» y el éxito humano. Retoma una expresión usada antes con el superior de Buenos Aires.
+- «…para que redoblemos de celo, a medida que las necesidades aumentan, para ser verdaderos auxiliares del Sagrado Corazón de N.S.J.» — *T. III, c. 593 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Cierre de una carta con muchas noticias: enfermos, la falta de personal y la aparición de la Virgen en Lourdes, recién reconocida por el obispo. San Miguel pide redoblar el celo como 'auxiliares', el nombre de su Sociedad.
+- «…toda empresa que Dios y sus ministros nos confíen, debemos comenzarla y proseguirla como si tuviera promesas de inmortalidad.» — *T. III, c. 611 · al P. Honoré Taret, 1862* `SCJ`
+  - El P. Taret, joven religioso de Orthez, se preocupaba por si la obra duraría y había compartido su indignación con sus compañeros. San Miguel le pide dedicarse a la obra encomendada como si fuera a durar para siempre.
+- «Tenemos que prestarnos a ser auxiliares preciosos, nunca impedimentos, nunca obstáculos...» — *T. III, c. 612 · al P. Diego Barbé, Superior del Colegio San José, 1862* `SCJ`
+  - Sobre la capellanía de la iglesia de San Juan en Buenos Aires, San Miguel recuerda que los religiosos de su Sociedad, llamados 'auxiliares', deben ayudar al obispo y al clero, y nunca ser un obstáculo.
+- «…hay que exclamar, siempre y sin cesar: “¡Misericordia! ¡Deprisa, socorro!” y plantar y regar al mismo tiempo.» — *T. III, c. 626 · al P. Jean Florence, 1862* `SCJ`
+  - El P. Florence se ocupaba de jóvenes alumnos y preguntaba cómo cuidar su fe y sus vocaciones. San Miguel pide confiar en Dios y, al mismo tiempo, trabajar.
+
+---
+*Las frases fueron extraídas del texto de los PDF y verificadas automáticamente contra el original. La carta T. III, c. 541 aparece firmada «Etchecopar» en esta edición; se mantiene porque los editores la incluyen en la correspondencia de SMG.*

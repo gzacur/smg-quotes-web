@@ -1,0 +1,363 @@
+<title>Frases de San Miguel Garicoïts</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="608 frases breves de las cartas de San Miguel Garicoïts (1825–1863), con la carta, el destinatario, el año y el contexto de cada una.">
+<meta property="og:title" content="Frases de San Miguel Garicoïts">
+<meta property="og:description" content="608 frases de su correspondencia, con el contexto de cada carta. Filtre por tema, destinatario o tomo.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#eeeee9">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%23e1ebd3'/%3E%3Ctext x='32' y='44' font-family='Georgia,serif' font-size='36' text-anchor='middle' fill='%233c5a2a'%3E%C2%AB%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;1,9..144,400&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: cabecera con buscador → filtros siempre visibles → lista de tarjetas (2 col.) | panel de detalle fijo. Tablet: 2 col. y detalle a pantalla completa. Celular: 1 col. y detalle a pantalla completa. Ver DESIGN.md */
+:root{
+  --canvas:#eeeee9; --card:#ffffff; --stone:#e3e4dc; --ink:#1f2421; --muted:#62675f; --line:#dcddd5; --sage:#e1ebd3; --sage-ink:#3c5a2a;
+  --shadow:0 1px 2px rgba(31,36,33,.06),0 8px 24px rgba(31,36,33,.06);
+  --font-serif:"Fraunces",Georgia,"Times New Roman",serif;
+  --font-sans:"Plus Jakarta Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --s1:4px; --s2:8px; --s3:12px; --s4:16px; --s5:20px; --s6:24px; --s7:32px; --s8:48px;
+  --r-card:16px; --r-input:12px; --maxw:1280px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --canvas:#191b19; --card:#222522; --stone:#2b2f2b; --ink:#e7e9e3; --muted:#a3a89f; --line:#333733; --sage:#2c3a24; --sage-ink:#cfe3b8;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25); color-scheme:dark}}
+:root[data-theme="dark"]{--canvas:#191b19; --card:#222522; --stone:#2b2f2b; --ink:#e7e9e3; --muted:#a3a89f; --line:#333733; --sage:#2c3a24; --sage-ink:#cfe3b8;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25); color-scheme:dark}
+
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--canvas);color:var(--ink);font-family:var(--font-sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--sage-ink);outline-offset:2px}
+.wrap{max-width:var(--maxw);margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.label{font-size:11px;letter-spacing:.06em;text-transform:uppercase;font-weight:600;color:var(--muted);line-height:1.3}
+.muted{color:var(--muted)}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;flex:none;background:var(--c,#999)}
+svg{flex:none}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+/* Cabecera */
+header{padding-block:var(--s5) var(--s4)}
+.top{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:var(--s6);align-items:center}
+.brand{display:flex;align-items:center;gap:10px;font-weight:600;font-size:17px;line-height:1.2}
+.brand .mark{width:28px;height:28px;border-radius:50%;background:var(--sage);color:var(--sage-ink);display:grid;place-items:center;font-family:var(--font-serif);font-size:18px}
+.brand h1{margin:0;font:inherit}
+.brand small{display:block;font-weight:400;font-size:13px;color:var(--muted)}
+.lede{margin:var(--s3) 0 0;font-size:14px;color:var(--muted);max-width:70ch}
+.search{position:relative;max-width:560px;width:100%;justify-self:center}
+.search input{width:100%;height:46px;border:1px solid transparent;background:var(--stone);border-radius:999px;padding:0 var(--s4) 0 44px;font-size:15px}
+.search input::placeholder{color:var(--muted)}
+.search input:focus{outline:none;border-color:var(--sage-ink);background:var(--card)}
+.search svg{position:absolute;left:16px;top:14px;color:var(--muted)}
+.total{font-size:14px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+
+/* Filtros */
+.filters{display:grid;gap:var(--s3);padding-block:var(--s3) var(--s5)}
+.chips{display:flex;flex-wrap:wrap;gap:var(--s2)}
+.chip{display:inline-flex;align-items:center;gap:8px;flex:none;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:7px 14px;font-size:14px;line-height:1.2;cursor:pointer;white-space:nowrap}
+.chip:hover{border-color:var(--muted)}
+.chip .n{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+.chip[aria-pressed="true"]{background:var(--sage);border-color:transparent;color:var(--sage-ink);font-weight:600}
+.chip[aria-pressed="true"] .n{color:var(--sage-ink)}
+.row2{display:flex;flex-wrap:wrap;gap:var(--s2) var(--s4);align-items:center;justify-content:space-between}
+.selects{display:flex;flex-wrap:wrap;gap:var(--s2);align-items:center}
+select{appearance:none;background:var(--stone) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2362675f' stroke-width='2.2' stroke-linecap='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E") no-repeat right 12px center;border:1px solid transparent;border-radius:var(--r-input);padding:8px 34px 8px 12px;font-size:14px;cursor:pointer;max-width:100%}
+select:focus{outline:none;border-color:var(--sage-ink)}
+.toggles{display:flex;gap:var(--s2);flex-wrap:wrap;align-items:center}
+.ghost{display:inline-flex;align-items:center;gap:6px;background:none;border:0;color:var(--muted);font-size:14px;cursor:pointer;padding:6px 4px;border-radius:8px}
+.ghost:hover{color:var(--ink)}
+.ghost:disabled{opacity:.4;cursor:default}
+
+/* Cuerpo */
+.body{display:grid;grid-template-columns:minmax(0,1fr) 420px;gap:var(--s6);align-items:start;padding-bottom:var(--s8)}
+.list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--s4);align-items:start;margin:0 0 var(--s4);padding:0;list-style:none}
+.card{min-width:0}
+.cardbtn{display:grid;gap:var(--s3);width:100%;text-align:left;background:var(--card);border:2px solid transparent;border-radius:var(--r-card);padding:var(--s5);cursor:pointer;transition:border-color .15s,box-shadow .15s}
+.cardbtn:hover{border-color:var(--line)}
+.cardbtn[aria-current="true"]{background:color-mix(in srgb,var(--sage) 70%,var(--card));border-color:transparent;box-shadow:inset 4px 0 0 var(--sage-ink)}
+.cardbtn:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+.cardbtn .q{font-family:var(--font-serif);font-size:18px;line-height:1.45;font-variation-settings:"opsz" 24}
+.meta{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;justify-content:space-between;font-size:13px;color:var(--muted)}
+.meta .t{display:inline-flex;align-items:center;gap:7px}
+.fav-mark{color:var(--sage-ink)}
+.more{display:flex;justify-content:center;margin-top:var(--s2)}
+.empty{background:var(--card);border-radius:var(--r-card);padding:var(--s7);color:var(--muted)}
+mark{background:var(--sage);color:var(--sage-ink);border-radius:3px;padding:0 2px}
+
+/* Botones */
+.btn{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:10px 18px;font-size:14px;font-weight:600;cursor:pointer;border:0;line-height:1.2}
+.btn.primary{background:var(--ink);color:var(--card)}
+.btn.primary:hover{opacity:.88}
+.btn.secondary{background:var(--stone)}
+.btn.secondary:hover{background:var(--line)}
+.btn.secondary[aria-pressed="true"]{background:var(--sage);color:var(--sage-ink)}
+.btn.secondary[aria-pressed="true"] svg{fill:currentColor}
+.btn:disabled{opacity:.4;cursor:default}
+.iconbtn{display:inline-grid;place-items:center;width:40px;height:40px;border-radius:50%;background:var(--stone);border:0;cursor:pointer}
+.iconbtn:hover{background:var(--line)}
+.iconbtn:disabled{opacity:.35;cursor:default}
+
+/* Detalle */
+.detail{position:sticky;top:calc(16px + env(safe-area-inset-top,0px));background:var(--card);border-radius:var(--r-card);padding:var(--s6);display:grid;gap:var(--s5);max-height:calc(100vh - 32px);overflow:auto;box-shadow:var(--shadow)}
+.dtop{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:var(--s3)}
+.theme{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;background:var(--sage);color:var(--sage-ink);border-radius:999px;padding:5px 12px 5px 10px;white-space:nowrap;flex:none;max-width:100%}
+.dnav{display:flex;gap:var(--s2);align-items:center}
+.dnav .pos{white-space:nowrap;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;margin-right:4px}
+.bigq{margin:0;font-family:var(--font-serif);font-size:clamp(24px,2.4vw,30px);line-height:1.3;font-variation-settings:"opsz" 72;text-wrap:pretty}
+.facts{display:grid;margin:0;border-top:1px solid var(--line)}
+.facts div{display:grid;grid-template-columns:110px minmax(0,1fr);gap:var(--s3);padding-block:10px;border-bottom:1px solid var(--line)}
+.facts dt{margin:0}
+.facts dd{margin:0;font-size:15px;line-height:1.45}
+.ctx{background:var(--canvas);border-radius:var(--r-input);padding:var(--s4)}
+.ctx p{margin:6px 0 0;font-size:15px;line-height:1.65}
+.dacts{display:flex;flex-wrap:wrap;gap:var(--s2)}
+.mback,.mnav{display:none}
+
+footer{padding-block:var(--s6) var(--s8);font-size:13px;color:var(--muted)}
+footer p{margin:0;max-width:90ch}
+.toast{position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--card);padding:9px 16px;border-radius:999px;font-size:14px;opacity:0;pointer-events:none;transition:opacity .2s;z-index:40}
+.toast.show{opacity:1}
+
+@media (max-width:960px){
+  .top{grid-template-columns:minmax(0,1fr) auto;gap:var(--s3)}
+  .search{grid-column:1/-1;grid-row:2;max-width:none}
+  .body{grid-template-columns:minmax(0,1fr)}
+  .list{grid-template-columns:minmax(0,1fr)}
+  .chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin-right:calc(-1 * max(16px,env(safe-area-inset-right,0px)));padding-right:32px;-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 40px),transparent);mask-image:linear-gradient(to right,#000 calc(100% - 40px),transparent)}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{min-height:40px}
+  .dacts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}
+  .dacts .btn{justify-content:center;min-height:44px;padding-inline:8px}
+  .mback .back{min-height:44px}
+  .mnav .btn{min-height:48px}
+  /* Detalle en celular: una vista de pantalla completa dentro de la página (sin capas flotantes) */
+  .detail{display:none;position:static;max-height:none;overflow:visible;box-shadow:none;padding:var(--s5);gap:var(--s5)}
+  body.detail-view .detail{display:grid}
+  body.detail-view header,body.detail-view .filters,body.detail-view .listcol,body.detail-view footer{display:none}
+  body.detail-view .body{padding-top:0}
+  .mback{display:flex;position:sticky;top:env(safe-area-inset-top,0px);z-index:5;margin:calc(-1 * var(--s5)) calc(-1 * var(--s5)) 0;padding:var(--s3) var(--s4);background:var(--card);border-bottom:1px solid var(--line);border-radius:var(--r-card) var(--r-card) 0 0;justify-content:space-between;align-items:center}
+  .mback .back{font-weight:600;color:var(--ink);font-size:15px}
+  .dtop .dnav{display:none}
+  .mnav{display:grid;grid-template-columns:1fr 1fr;gap:var(--s2);position:sticky;bottom:0;margin:0 calc(-1 * var(--s5)) calc(-1 * var(--s5));padding:var(--s3) var(--s4) calc(var(--s3) + env(safe-area-inset-bottom,0px));background:var(--card);border-top:1px solid var(--line);border-radius:0 0 var(--r-card) var(--r-card)}
+  .mnav .btn{justify-content:center;padding:13px 12px}
+  body.detail-view{background:var(--canvas)}
+  body.detail-view .body{padding-top:var(--s3)}
+}
+@media (min-width:640px) and (max-width:960px){.list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:639px){
+  .lede{font-size:13px}
+  .selects{display:grid;grid-template-columns:1fr 1fr;width:100%}
+  .selects .label{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+  .selects select{width:100%;min-height:40px}
+  .toggles{width:100%}
+  .toggles .btn{min-height:40px}
+}
+@media (prefers-reduced-motion:reduce){.detail,.cardbtn,.toast{transition:none}}
+</style>
+
+<header class="wrap">
+  <div class="top">
+    <div class="brand"><span class="mark" aria-hidden="true">«</span><span><h1>San Miguel Garicoïts</h1><small>Frases de su correspondencia</small></span></div>
+    <label class="search" for="q">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+      <input id="q" type="search" placeholder="Buscar en frases, destinatarios o contexto" autocomplete="off" aria-label="Buscar frases">
+    </label>
+    <span class="total" id="total" aria-live="polite"></span>
+  </div>
+  <p class="lede">Frases breves tomadas de sus cartas (1825–1863). Elija una para leer a quién escribía, cuándo y por qué.</p>
+</header>
+
+<section class="filters wrap" aria-label="Filtros">
+  <div class="chips" id="chips" role="group" aria-label="Tema"></div>
+  <div class="row2">
+    <div class="selects">
+      <label class="label" for="f-tipo">Destinatario</label>
+      <select id="f-tipo">
+        <option value="">Destinatarios</option><option value="HC">Hijas de la Cruz</option><option value="SCJ">Religiosos de Betharram</option><option value="CL">Obispos y clero</option><option value="LA">Laicos y familia</option>
+      </select>
+      <label class="label" for="f-tomo">Tomo</label>
+      <select id="f-tomo"><option value="">Tomos</option><option value="I">Tomo I</option><option value="II">Tomo II</option><option value="III">Tomo III</option></select>
+    </div>
+    <div class="toggles">
+      <button class="btn secondary" id="t-ess" type="button" aria-pressed="false">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.9l-5.2 2.7 1-5.8-4.3-4.1 5.9-.9z"/></svg>Selección esencial</button>
+      <button class="btn secondary" id="t-fav" type="button" aria-pressed="false">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg><span id="fav-l">Marcadas</span></button>
+      <button class="ghost" id="reset" type="button" hidden>Quitar filtros</button>
+    </div>
+  </div>
+</section>
+
+<main class="body wrap">
+  <div class="listcol">
+    <h2 class="sr-only">Frases</h2>
+    <ol class="list" id="list"></ol>
+    <div class="empty" id="empty" hidden>Ninguna frase coincide con estos filtros. Pruebe con otra palabra o toque «Quitar filtros».</div>
+    <div class="more"><button class="btn secondary" id="more" type="button" hidden>Mostrar más</button></div>
+  </div>
+
+  <aside class="detail" id="detail" aria-labelledby="d-h">
+    <h2 class="sr-only" id="d-h">Detalle de la frase</h2>
+    <div class="mback"><button class="ghost back" id="close" type="button"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg>Volver a la lista</button><span class="muted" id="m-pos" style="font-size:13px;font-variant-numeric:tabular-nums"></span></div>
+    <div class="dtop">
+      <span class="theme" id="d-theme"></span>
+      <div class="dnav">
+        <span class="pos" id="d-pos"></span>
+        <button class="iconbtn" id="d-prev" type="button" aria-label="Frase anterior"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg></button>
+        <button class="iconbtn" id="d-next" type="button" aria-label="Frase siguiente"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
+      </div>
+    </div>
+    <blockquote class="bigq" id="d-quote"></blockquote>
+    <dl class="facts">
+      <div><dt class="label">Carta</dt><dd id="d-carta"></dd></div>
+      <div><dt class="label">Destinatario</dt><dd id="d-dest"></dd></div>
+      <div><dt class="label">Año</dt><dd id="d-anio"></dd></div>
+    </dl>
+    <div class="ctx"><span class="label">Contexto</span><p id="d-ctx"></p></div>
+    <div class="dacts">
+      <button class="btn primary" id="d-copy" type="button"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a1 1 0 0 1 1-1h9"/></svg>Copiar</button>
+      <button class="btn secondary" id="d-fav" type="button" aria-pressed="false"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg><span>Marcar</span></button>
+      <button class="btn secondary" id="d-link" type="button"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg>Enlace</button>
+    </div>
+    <div class="mnav">
+      <button class="btn secondary" id="m-prev" type="button"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg>Anterior</button>
+      <button class="btn primary" id="m-next" type="button">Siguiente<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
+    </div>
+  </aside>
+</main>
+
+<footer class="wrap">
+  <p>Fuente: <i>Correspondencia de San Miguel Garicoïts</i>, edición del P. Pierre Miéyaa, scj; traducción del P. Miguel Martínez y del P. Angelo Recalcati, scj. Las frases son literales; «…» indica un recorte.</p>
+</footer>
+<div class="toast" id="toast" role="status"></div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function(){
+const DATA=JSON.parse(document.getElementById('data').textContent);
+const CATS=[['VD','Voluntad de Dios','#8fb07a'],['OB','Obediencia y humildad','#c9a77c'],['AM','Amor de Dios','#d48a8f'],['CO','Confianza','#7fa7c9'],['OR','Oración y vida interior','#a998cf'],['CR','Cruz y paciencia','#b98468'],['AN','Ánimo y alegría','#e0b25e'],['CF','Caridad fraterna','#7fbfab'],['GO','Gobierno y acompañamiento','#8a94a6'],['MI','Misión y educación','#a3a95f']];
+const LONG={VD:'Voluntad de Dios y disponibilidad',OB:'Obediencia y humildad',AM:'Amor de Dios y Sagrado Corazón',CO:'Confianza y abandono en Dios',OR:'Oración, vida interior y santidad',CR:'Cruz, sufrimiento y paciencia',AN:'Ánimo, alegría y paz interior',CF:'Caridad fraterna y vida comunitaria',GO:'Gobierno y acompañamiento',MI:'Misión, celo apostólico y educación'};
+const COL=Object.fromEntries(CATS.map(c=>[c[0],c[2]]));
+const SHORT=Object.fromEntries(CATS.map(c=>[c[0],c[1]]));
+const TOMO={I:'Tomo I',II:'Tomo II',III:'Tomo III'};
+const PAGE=40;
+const $=id=>document.getElementById(id);
+const norm=s=>s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+DATA.forEach(r=>{r.s=norm(r.f+' '+r.x+' '+r.d+' carta '+r.c)});
+const byId=new Map(DATA.map(r=>[r.id,r]));
+const mobile=()=>matchMedia('(max-width:960px)').matches;
+
+let favs=new Set();
+try{favs=new Set(JSON.parse(localStorage.getItem('smg-favs')||'[]'))}catch(e){}
+const saveFavs=()=>{try{localStorage.setItem('smg-favs',JSON.stringify([...favs]))}catch(e){}};
+const st={cat:'',tipo:'',tomo:'',q:'',ess:false,fav:false,shown:PAGE,sel:null};
+let rows=DATA;
+
+// Temas
+$('chips').innerHTML=`<button class="chip" type="button" data-cat="" aria-pressed="true">Todos<span class="n">${DATA.length}</span></button>`+
+  CATS.map(([k,l,c])=>`<button class="chip" type="button" data-cat="${k}" aria-pressed="false"><span class="dot" style="--c:${c}"></span>${l}<span class="n">${DATA.filter(r=>r.k===k).length}</span></button>`).join('');
+
+function hl(text){
+  const t=esc(text);if(!st.q)return t;
+  const words=norm(st.q).split(/\s+/).filter(w=>w.length>2);if(!words.length)return t;
+  const n=norm(t);const m=[];words.forEach(w=>{let p=n.indexOf(w);while(p>-1){m.push([p,p+w.length]);p=n.indexOf(w,p+w.length)}});
+  m.sort((a,b)=>a[0]-b[0]);let o='',i=0;m.forEach(([a,b])=>{if(a<i)return;o+=t.slice(i,a)+'<mark>'+t.slice(a,b)+'</mark>';i=b});return o+t.slice(i);
+}
+function filter(){
+  const w=norm(st.q).split(/\s+/).filter(Boolean);
+  rows=DATA.filter(r=>(!st.cat||r.k===st.cat)&&(!st.tipo||r.p===st.tipo)&&(!st.tomo||r.t===st.tomo)&&(!st.ess||r.e)&&(!st.fav||favs.has(r.id))&&w.every(x=>r.s.includes(x)));
+}
+const favSvg='<svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-label="Marcada"><path d="M6 3h12v18l-6-4-6 4z"/></svg>';
+function card(r){
+  return `<li class="card"><button class="cardbtn" type="button" data-id="${r.id}" aria-current="${r.id===st.sel}">
+    <span class="q">${hl(r.f)}</span>
+    <span class="meta"><span class="t"><span class="dot" style="--c:${COL[r.k]}"></span>${SHORT[r.k]}</span><span>${favs.has(r.id)?'<span class="fav-mark">'+favSvg+'</span> ':''}Carta ${r.c}${r.y?' · '+r.y:''}</span></span>
+  </button></li>`;
+}
+function renderList(){
+  document.querySelectorAll('.chip').forEach(b=>b.setAttribute('aria-pressed',b.dataset.cat===st.cat));
+  $('t-ess').setAttribute('aria-pressed',st.ess);$('t-fav').setAttribute('aria-pressed',st.fav);
+  $('fav-l').textContent=favs.size?`Marcadas (${favs.size})`:'Marcadas';
+  $('reset').hidden=!(st.cat||st.tipo||st.tomo||st.q||st.ess||st.fav);
+  $('total').textContent=rows.length===DATA.length?`${DATA.length} frases`:`${rows.length} de ${DATA.length}`;
+  $('list').innerHTML=rows.slice(0,st.shown).map(card).join('');
+  $('empty').hidden=rows.length>0;
+  $('more').hidden=rows.length<=st.shown;
+  $('more').textContent=`Mostrar más (${rows.length-st.shown})`;
+}
+function renderDetail(){
+  const r=byId.get(st.sel);if(!r)return;
+  const k=rows.findIndex(x=>x.id===r.id);
+  $('d-theme').innerHTML=`<span class="dot" style="--c:${COL[r.k]}"></span>${LONG[r.k]}`;
+  $('d-quote').textContent=`«${r.f}»`;
+  $('d-carta').textContent=`Carta ${r.c} · ${TOMO[r.t]}`;
+  $('d-dest').textContent=r.d;
+  $('d-anio').textContent=r.y||'Sin fecha en la carta';
+  $('d-ctx').textContent=r.x||'Sin contexto disponible.';
+  $('d-pos').textContent=k>-1?`${k+1} / ${rows.length}`:'';
+  $('d-prev').disabled=$('m-prev').disabled=k<=0;$('d-next').disabled=$('m-next').disabled=k<0||k>=rows.length-1;
+  $('m-pos').textContent=k>-1?`Frase ${k+1} de ${rows.length}`:'';
+  const on=favs.has(r.id);$('d-fav').setAttribute('aria-pressed',on);$('d-fav').querySelector('span').textContent=on?'Marcada':'Marcar';
+  document.querySelectorAll('.cardbtn').forEach(b=>b.setAttribute('aria-current',+b.dataset.id===st.sel));
+  const h='#n-'+r.id;if(location.hash!==h)history.replaceState(null,'',h);
+}
+function select(id,open,noScroll){
+  st.sel=id;
+  const k=rows.findIndex(x=>x.id===id);if(k>=st.shown){st.shown=Math.ceil((k+1)/PAGE)*PAGE;renderList()}
+  renderDetail();
+  if(open&&mobile())openSheet();
+  if(!mobile()&&!noScroll){const b=document.querySelector(`.cardbtn[data-id="${id}"]`);if(b){const rc=b.getBoundingClientRect();if(rc.top<0||rc.bottom>innerHeight)b.scrollIntoView({block:'nearest'})}}
+}
+function update(){filter();st.shown=PAGE;if(!rows.some(r=>r.id===st.sel)&&rows.length)st.sel=rows[0].id;renderList();renderDetail()}
+function step(d){const k=rows.findIndex(x=>x.id===st.sel);const n=k+d;if(n>=0&&n<rows.length)select(rows[n].id,false)}
+
+// Hoja inferior (celular)
+let listY=0;
+function openSheet(){listY=scrollY;document.body.classList.add('detail-view');scrollTo(0,0);$('close').focus({preventScroll:true})}
+function closeSheet(){document.body.classList.remove('detail-view');
+  const b=document.querySelector(`.cardbtn[data-id="${st.sel}"]`);
+  requestAnimationFrame(()=>{if(b){b.scrollIntoView({block:'center'});b.focus({preventScroll:true})}else scrollTo(0,listY)})}
+$('close').onclick=closeSheet;
+$('m-prev').onclick=()=>{step(-1);scrollTo(0,0)};$('m-next').onclick=()=>{step(1);scrollTo(0,0)};
+// Deslizar a los lados en el detalle del celular
+let tx=null,ty=null;const det=$('detail');
+det.addEventListener('touchstart',e=>{tx=e.touches[0].clientX;ty=e.touches[0].clientY},{passive:true});
+det.addEventListener('touchend',e=>{if(tx==null||!document.body.classList.contains('detail-view'))return;const dx=e.changedTouches[0].clientX-tx,dy=e.changedTouches[0].clientY-ty;tx=null;if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.5){step(dx<0?1:-1);scrollTo(0,0)}},{passive:true});
+// Si la pantalla pasa a escritorio, salir de la vista de detalle
+matchMedia('(max-width:960px)').addEventListener('change',e=>{if(!e.matches)document.body.classList.remove('detail-view')});
+
+// Eventos
+$('chips').addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)return;st.cat=b.dataset.cat;update()});
+$('list').addEventListener('click',e=>{const b=e.target.closest('.cardbtn');if(b)select(+b.dataset.id,true)});
+$('f-tipo').onchange=e=>{st.tipo=e.target.value;update()};
+$('f-tomo').onchange=e=>{st.tomo=e.target.value;update()};
+$('t-ess').onclick=()=>{st.ess=!st.ess;update()};
+$('t-fav').onclick=()=>{st.fav=!st.fav;update()};
+$('reset').onclick=()=>{Object.assign(st,{cat:'',tipo:'',tomo:'',q:'',ess:false,fav:false});$('q').value='';$('f-tipo').value='';$('f-tomo').value='';update()};
+$('more').onclick=()=>{st.shown+=PAGE;renderList()};
+let qt;$('q').addEventListener('input',e=>{clearTimeout(qt);qt=setTimeout(()=>{st.q=e.target.value.trim();update()},150)});
+$('d-prev').onclick=()=>step(-1);$('d-next').onclick=()=>step(1);
+addEventListener('keydown',e=>{if(e.target.matches('input,select,textarea'))return;
+  if(e.key==='Escape'&&document.body.classList.contains('detail-view'))closeSheet();
+  if(e.key!=='ArrowRight'&&e.key!=='ArrowLeft')return;
+  if(!e.target.closest||!e.target.closest('.listcol,#detail'))return;
+  e.preventDefault();step(e.key==='ArrowRight'?1:-1);
+  if(e.target.classList.contains('cardbtn')){const b=document.querySelector(`.cardbtn[data-id="${st.sel}"]`);if(b)b.focus()}});
+$('d-fav').onclick=()=>{const id=st.sel;favs.has(id)?favs.delete(id):favs.add(id);saveFavs();
+  if(st.fav){filter();if(!rows.some(r=>r.id===id)&&rows.length)st.sel=rows[0].id}renderList();renderDetail()};
+function copy(txt,msg){const ok=()=>toast(msg);if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(ok,()=>fb(txt,msg))}else fb(txt,msg)}
+function fb(txt,msg){const t=document.createElement('textarea');t.value=txt;document.body.appendChild(t);t.select();try{document.execCommand('copy');toast(msg)}catch(e){toast('Seleccione el texto para copiarlo')}t.remove()}
+let tt;function toast(m){const el=$('toast');el.textContent=m;el.classList.add('show');clearTimeout(tt);tt=setTimeout(()=>el.classList.remove('show'),1600)}
+$('d-copy').onclick=()=>{const r=byId.get(st.sel);copy(`«${r.f}» — San Miguel Garicoïts (Carta ${r.c}, ${TOMO[r.t]}, ${r.d}${r.y?', '+r.y:''})`,'Frase copiada')};
+$('d-link').onclick=()=>copy(location.href,'Enlace copiado');
+
+// Inicio: frase del enlace (#n-123) o la primera de la lista
+filter();
+const m=location.hash.match(/^#n-(\d+)$/);
+st.sel=m&&byId.has(+m[1])?+m[1]:rows[0].id;
+renderList();select(st.sel,false,true);
+addEventListener('hashchange',()=>{const m=location.hash.match(/^#n-(\d+)$/);if(m&&byId.has(+m[1])&&+m[1]!==st.sel){if(!rows.some(r=>r.id===+m[1])){$('reset').click()}select(+m[1],false)}});
+})();
+</script>
