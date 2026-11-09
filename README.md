@@ -17,22 +17,29 @@ Sitio web estático con **608 frases breves** tomadas de la correspondencia de S
 
 ```
 smg-quotes-web/
-├── index.html                          Sitio publicado (generado, autocontenido)
+├── index.html                          Página principal: lector con filtros (generado)
+├── frase/<id>/index.html               Una página estática por frase, 608 en total (generado)
+├── tema/<slug>/index.html              Una página por tema, 10 en total (generado)
+├── sitemap.xml · robots.txt · 404.html Archivos para buscadores (generados)
 ├── .nojekyll                           Desactiva Jekyll en GitHub Pages
+├── assets/
+│   ├── page.css                        Estilos de las páginas de frase y de tema (generado)
+│   ├── og-image.png                    Imagen de vista previa para redes (1200×630)
+│   ├── favicon.svg · apple-touch-icon.png
 ├── src/
-│   └── template.html                   Plantilla: HTML, CSS y JS del sitio, con el marcador __DATA__
+│   └── template.html                   Plantilla de la página principal: HTML, CSS y JS
 ├── data/
 │   ├── frases.json                     Datos que usa el sitio (608 registros)
 │   └── Frases_San_Miguel_Garicoits.md  Fuente de datos legible: frases clasificadas con referencia y contexto
 ├── scripts/
-│   └── build.py                        Genera index.html a partir de la plantilla y los datos
+│   └── build.py                        Genera todo el sitio a partir de la plantilla y los datos
 └── docs/
     └── DESIGN.md                       Sistema de diseño: colores, tipografía, espaciado y componentes
 ```
 
 ## Tecnología
 
-- **HTML, CSS y JavaScript sin dependencias ni framework.** Todo el sitio es un único `index.html` con los datos incrustados como JSON (`<script type="application/json">`), así funciona en GitHub Pages, sin servidor y también abriéndolo desde el disco.
+- **HTML, CSS y JavaScript sin dependencias ni framework.** La página principal es un único `index.html` con los datos incrustados como JSON (`<script type="application/json">`), así funciona en GitHub Pages, sin servidor y también abriéndolo desde el disco.
 - **Fuentes:** Fraunces (frases) y Plus Jakarta Sans (interfaz), desde Google Fonts, con fuentes de respaldo del sistema.
 - **Modo claro y oscuro** automático según el dispositivo (`prefers-color-scheme`), con todos los colores definidos como variables CSS.
 - **Responsive:** escritorio (lista en 2 columnas + panel de detalle fijo), tablet (2 columnas + detalle a pantalla completa) y celular (1 columna + detalle a pantalla completa).
@@ -93,6 +100,17 @@ Cada registro es un objeto con estas claves (cortas para reducir el peso):
 | `GO` | Gobierno y acompañamiento |
 | `MI` | Misión, celo apostólico y educación |
 
+## SEO
+
+- **Una URL indexable por frase y por tema.** Los enlaces `#n-<id>` del lector no se indexan, así que el build genera `frase/<id>/` (608 páginas) y `tema/<slug>/` (10 páginas) como HTML estático, cada una con su `<title>` y `meta description` únicos, un solo `h1`, URL canónica, migas de pan y enlaces a la frase anterior y siguiente.
+- **Contenido en el HTML.** La página principal ya trae escritas las primeras 40 frases, el detalle de la primera y los enlaces a los temas, de modo que los buscadores (y quien no tenga JavaScript) ven contenido sin ejecutar scripts. El JavaScript lo reemplaza al cargar.
+- **Datos estructurados (JSON-LD, schema.org):** `WebSite`, `Person` (San Miguel Garicoïts, con enlaces a Wikipedia) y `CollectionPage` en la portada; `Quotation` con autor, fuente (`Book`), tema y año en cada frase; `CollectionPage` + `ItemList` en cada tema; `BreadcrumbList` en las páginas internas.
+- **Redes sociales:** Open Graph y Twitter Card con imagen `assets/og-image.png` (1200×630).
+- **Rastreo:** `sitemap.xml` con las 619 URL, `robots.txt` que lo declara, `404.html` con `noindex`, `lang="es"`, `meta robots` y `theme-color` para claro y oscuro.
+- **Rendimiento:** sin dependencias, `preconnect` a Google Fonts con `display=swap`, estilos de las páginas internas en un archivo compartido y cacheable.
+
+Después de publicar, conviene dar de alta el sitio en **Google Search Console** (propiedad de prefijo de URL `https://gzacur.github.io/smg-quotes-web/`) y enviar `sitemap.xml`.
+
 ## Analítica (Google Tag Manager)
 
 El sitio carga el contenedor de Google Tag Manager **`GTM-KQHR3TV3`** en el `<head>` (ver el inicio de `src/template.html`). Además del código provisto, se envía el evento estándar `gtm.js` (`gtm.start`), que GTM necesita para que funcionen los activadores de «Todas las páginas / Vista de página».
@@ -112,11 +130,11 @@ Para verlos en GA4: en GTM crear una variable de capa de datos por parámetro, u
 
 ## Desarrollo
 
-Requisito: Python 3 (solo para regenerar `index.html`).
+Requisito: Python 3 (solo para regenerar el sitio).
 
 ```bash
 # 1. Editar la plantilla (src/template.html) o los datos (data/frases.json)
-# 2. Regenerar el sitio
+# 2. Regenerar el sitio (index, páginas de frase y de tema, sitemap)
 python3 scripts/build.py
 # 3. Probar localmente
 python3 -m http.server 8000   # y abrir http://localhost:8000
